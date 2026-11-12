@@ -72,5 +72,3 @@ Project Status
 
 Python data cleaning completed. Exploratory Data Analysis and Power BI dashboard development are upcoming.
 
-
-Ranjani Arumug
