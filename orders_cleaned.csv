@@ -1,0 +1,2001 @@
+Orderid,CustomerId,OrderDate,ShippingDate,OrderStatus,PaymentMode,TotalAmount,Discount,ShippingFee,ShippingDelay,DateIssue,AmountIssue,MissingShippingDate
+O500000,C10041,2024-01-23,2024-01-28,Delivered,Debit Card,528.19,30.0,75.0,5.0,False,False,False
+O500001,C10522,2024-09-03,2024-09-05,Shipped,UPI,1019.2,0.0,50.0,2.0,False,False,False
+O500002,C10969,2024-03-09,2024-03-16,Delivered,Wallet,11441.01,20.0,120.0,7.0,False,False,False
+O500003,C10020,2024-12-14,2024-12-18,Shipped,Wallet,1248.8,15.0,50.0,4.0,False,False,False
+O500004,C10146,2025-08-03,2025-10-03,Returned,Wallet,2786.46,0.0,0.0,61.0,False,False,False
+O500005,C11121,2024-07-16,,Processing,Debit Card,7153.97,0.0,99.0,,False,False,True
+O500006,C10362,2024-10-17,,Pending,Debit Card,1206.98,5.0,40.0,,False,False,True
+O500007,C10837,2023-11-18,,Pending,Credit Card,1219.75,25.0,0.0,,False,False,True
+O500008,C10778,2024-05-22,,Processing,UPI,18301.07,15.0,120.0,,False,False,True
+O500009,C10377,2025-01-22,2025-01-23,Delivered,Credit Card,7291.95,10.0,120.0,1.0,False,False,False
+O500010,C10356,2023-06-06,,Pending,Wallet,3304.32,0.0,50.0,,False,False,True
+O500011,C10487,2024-12-16,2024-12-21,Returned,Wallet,2013.13,0.0,0.0,5.0,False,False,False
+O500012,C11161,2023-07-24,2023-07-25,Delivered,Wallet,1974.02,25.0,0.0,1.0,False,False,False
+O500013,C10127,2024-11-21,2024-11-27,Delivered,Credit Card,460.33,30.0,40.0,6.0,False,False,False
+O500014,C11000,2024-01-07,2024-09-01,Delivered,Wallet,3282.94,10.0,120.0,238.0,False,False,False
+O500015,C11144,2024-03-27,2024-03-28,Shipped,Credit Card,1882.74,10.0,0.0,1.0,False,False,False
+O500016,C10550,2025-10-05,2025-11-05,Delivered,Cash on Delivery,2526.68,10.0,0.0,31.0,False,False,False
+O500017,C10520,2023-11-16,2023-11-24,Delivered,Net Banking,2533.0,15.0,120.0,8.0,False,False,False
+O500018,C11050,2025-05-29,2025-05-31,Delivered,Wallet,770.74,25.0,50.0,2.0,False,False,False
+O500019,C11165,2024-10-19,,Cancelled,Credit Card,4090.23,5.0,75.0,,False,False,True
+O500020,C10282,2023-06-02,2023-08-06,Delivered,Wallet,2394.28,25.0,75.0,65.0,False,False,False
+O500021,C10790,2024-11-30,2024-12-03,Shipped,Cash on Delivery,2215.31,30.0,75.0,3.0,False,False,False
+O500022,C10135,2025-03-25,2025-03-31,Delivered,UPI,1698.24,25.0,50.0,6.0,False,False,False
+O500023,C11107,2025-07-19,2025-07-26,Shipped,Debit Card,2009.45,20.0,99.0,7.0,False,False,False
+O500024,C10007,2025-01-22,2025-01-25,Delivered,UPI,776.24,5.0,99.0,3.0,False,False,False
+O500025,C10724,2023-07-15,2023-07-22,Delivered,Debit Card,1775.25,10.0,99.0,7.0,False,False,False
+O500026,C11045,2025-07-07,,Processing,Credit Card,8332.38,5.0,60.0,,False,False,True
+O500027,C10726,2025-01-22,2025-01-27,Shipped,Cash on Delivery,7158.78,5.0,40.0,5.0,False,False,False
+O500028,C10632,2023-09-22,2023-09-25,Returned,Debit Card,4975.15,0.0,60.0,3.0,False,False,False
+O500029,C10317,2023-10-09,2023-10-12,Delivered,Credit Card,2135.15,0.0,40.0,3.0,False,False,False
+O500030,C10608,2023-10-25,2023-11-02,Delivered,Cash on Delivery,1768.4,25.0,75.0,8.0,False,False,False
+O500031,C10044,2024-04-07,2024-04-15,Shipped,Net Banking,6461.44,5.0,60.0,8.0,False,False,False
+O500032,C10173,2023-01-28,,Cancelled,Cash on Delivery,1478.62,0.0,0.0,,False,False,True
+O500033,C10540,2023-12-14,2023-12-22,Delivered,Credit Card,1106.8,30.0,75.0,8.0,False,False,False
+O500034,C10987,2024-08-01,2024-01-14,Delivered,UPI,1657.22,15.0,40.0,,True,False,False
+O500035,C10073,2025-08-29,2025-08-31,Delivered,Wallet,923.96,25.0,0.0,2.0,False,False,False
+O500036,C10774,2024-07-30,2024-08-06,Delivered,Net Banking,917.62,10.0,99.0,7.0,False,False,False
+O500037,C10806,2023-11-10,2023-11-13,Delivered,Debit Card,2661.2,20.0,0.0,3.0,False,False,False
+O500038,C10315,2023-08-27,2023-08-29,Delivered,UPI,896.78,20.0,0.0,2.0,False,False,False
+O500039,C10919,2023-10-09,2023-10-14,Delivered,Cash on Delivery,16175.23,5.0,75.0,5.0,False,False,False
+O500040,C10945,2024-09-05,2024-05-17,Delivered,Credit Card,10746.63,15.0,75.0,,True,False,False
+O500041,C10163,2024-01-28,2024-02-01,Delivered,Cash on Delivery,5110.45,10.0,99.0,4.0,False,False,False
+O500042,C10597,2023-05-17,2023-05-21,Delivered,Cash on Delivery,4083.35,0.0,120.0,4.0,False,False,False
+O500043,C10718,2023-10-19,,Cancelled,Credit Card,1341.91,25.0,0.0,,False,False,True
+O500044,C10139,2025-10-13,2025-10-14,Delivered,Cash on Delivery,7933.53,5.0,0.0,1.0,False,False,False
+O500045,C10762,2024-10-28,2024-11-04,Delivered,Cash on Delivery,2736.29,10.0,0.0,7.0,False,False,False
+O500046,C10091,2023-09-12,2023-12-14,Delivered,Wallet,2032.42,0.0,0.0,93.0,False,False,False
+O500047,C10006,2025-08-04,2025-08-09,Delivered,Credit Card,7598.18,15.0,99.0,5.0,False,False,False
+O500048,C11157,2023-10-09,,Processing,Cash on Delivery,10926.98,0.0,60.0,,False,False,True
+O500049,C10928,2025-02-16,2025-02-17,Shipped,Cash on Delivery,1710.44,0.0,75.0,1.0,False,False,False
+O500050,C10204,2024-10-14,2024-10-16,Delivered,Cash on Delivery,1423.91,20.0,0.0,2.0,False,False,False
+O500051,C10159,2025-06-27,2025-07-01,Delivered,Cash on Delivery,2474.24,20.0,0.0,4.0,False,False,False
+O500052,C10896,2024-04-03,2024-08-03,Shipped,UPI,3067.48,30.0,120.0,122.0,False,False,False
+O500053,C10827,2023-06-05,2023-06-09,Delivered,Net Banking,1502.0,30.0,0.0,4.0,False,False,False
+O500054,Unknown,2024-03-16,,Pending,Wallet,1213.15,15.0,40.0,,False,False,True
+O500055,C10824,2024-02-19,2024-02-21,Delivered,Wallet,896.45,10.0,75.0,2.0,False,False,False
+O500056,C10038,2025-06-14,2025-06-18,Delivered,Cash on Delivery,3125.72,5.0,40.0,4.0,False,False,False
+O500057,C11095,2023-08-19,,Pending,Debit Card,3152.75,0.0,60.0,,False,False,True
+O500058,C11187,2025-04-10,2025-08-10,Delivered,Cash on Delivery,770.92,0.0,120.0,122.0,False,False,False
+O500059,C10353,2025-03-31,2025-04-02,Delivered,UPI,5164.89,0.0,0.0,2.0,False,False,False
+O500060,C10684,2024-10-17,2024-10-22,Delivered,Wallet,6295.26,0.0,0.0,5.0,False,False,False
+O500061,C10691,2023-10-30,2023-11-05,Delivered,UPI,976.76,0.0,75.0,6.0,False,False,False
+O500062,C11027,2023-11-23,2023-11-27,Delivered,Credit Card,5486.1,0.0,99.0,4.0,False,False,False
+O500063,C11023,2023-08-04,2023-08-09,Shipped,Cash on Delivery,476.34,15.0,75.0,5.0,False,False,False
+O500064,C10560,2023-10-07,,Processing,UPI,673.0,5.0,40.0,,False,False,True
+O500065,C10645,2024-05-16,2024-05-17,Delivered,Net Banking,7521.74,0.0,0.0,1.0,False,False,False
+O500066,C10316,2024-08-17,2024-08-18,Delivered,Wallet,3061.28,15.0,0.0,1.0,False,False,False
+O500067,C10981,2025-04-13,2025-04-21,Delivered,UPI,3642.69,0.0,120.0,8.0,False,False,False
+O500068,C10037,2024-12-12,2024-12-16,Delivered,Wallet,2371.97,10.0,75.0,4.0,False,False,False
+O500069,C11077,2023-03-18,2023-03-23,Delivered,Cash on Delivery,2984.93,10.0,60.0,5.0,False,False,False
+O500070,C10846,2025-10-20,,Processing,Cash on Delivery,799.2,20.0,60.0,,False,False,True
+O500071,C10285,2023-12-05,2023-12-11,Delivered,UPI,3118.0,15.0,0.0,6.0,False,False,False
+O500072,C10288,2023-08-24,,Pending,Net Banking,1522.22,0.0,99.0,,False,False,True
+O500073,C11057,2023-12-19,,Pending,UPI,1092.76,30.0,0.0,,False,False,True
+O500074,C10436,2023-03-01,2023-07-03,Returned,Debit Card,2573.62,0.0,50.0,124.0,False,False,False
+O500075,C10131,2023-06-17,2023-06-18,Delivered,Credit Card,1533.97,0.0,99.0,1.0,False,False,False
+O500076,C10625,2023-05-18,2023-05-20,Delivered,Credit Card,1652.12,0.0,75.0,2.0,False,False,False
+O500077,Unknown,2023-10-07,2023-10-09,Delivered,Credit Card,1152.45,10.0,99.0,2.0,False,False,False
+O500078,C10662,2025-02-14,2025-02-21,Delivered,Credit Card,944.0,0.0,0.0,7.0,False,False,False
+O500079,C10361,2024-01-26,,Cancelled,Cash on Delivery,1166.64,25.0,50.0,,False,False,True
+O500080,C10378,2025-01-10,2025-01-17,Delivered,Wallet,9086.99,0.0,50.0,7.0,False,False,False
+O500081,C10483,2025-09-03,2025-09-05,Delivered,Debit Card,1449.37,30.0,40.0,2.0,False,False,False
+O500082,C10554,2025-10-09,2025-09-17,Delivered,Credit Card,5849.86,10.0,120.0,,True,False,False
+O500083,C11003,2025-04-21,2025-04-28,Delivered,Cash on Delivery,2105.83,25.0,50.0,7.0,False,False,False
+O500084,Unknown,2025-02-13,2025-02-14,Delivered,Cash on Delivery,3317.21,0.0,60.0,1.0,False,False,False
+O500085,C10317,2024-08-08,,Processing,UPI,6531.46,15.0,40.0,,False,False,True
+O500086,C10771,2023-02-16,2023-02-18,Delivered,Credit Card,451.73,25.0,0.0,2.0,False,False,False
+O500087,C10273,2025-07-24,2025-07-25,Delivered,Wallet,1993.89,10.0,60.0,1.0,False,False,False
+O500088,C10673,2024-11-02,,Processing,Cash on Delivery,9840.98,0.0,99.0,,False,False,True
+O500089,C10330,2024-07-10,2024-07-17,Delivered,Wallet,6060.51,30.0,75.0,7.0,False,False,False
+O500090,C10645,2024-01-04,2024-04-06,Delivered,Debit Card,836.42,15.0,120.0,93.0,False,False,False
+O500091,C11035,2024-04-21,2024-04-29,Delivered,Cash on Delivery,8202.15,15.0,60.0,8.0,False,False,False
+O500092,C10647,2025-05-13,2025-05-16,Delivered,Credit Card,2192.1,25.0,75.0,3.0,False,False,False
+O500093,C10432,2025-06-02,2025-06-06,Shipped,Wallet,1745.04,15.0,0.0,4.0,False,False,False
+O500094,C10252,2023-05-29,,Processing,Net Banking,3615.41,15.0,40.0,,False,False,True
+O500095,C10961,2025-07-21,2025-07-24,Delivered,UPI,25211.7,0.0,0.0,3.0,False,False,False
+O500096,C11138,2025-02-14,,Pending,Debit Card,2026.97,25.0,75.0,,False,False,True
+O500097,C10573,2024-07-28,2024-08-05,Delivered,Cash on Delivery,1692.32,10.0,99.0,8.0,False,False,False
+O500098,C10583,2023-04-30,2023-03-05,Delivered,UPI,4254.54,0.0,50.0,,True,False,False
+O500099,C10213,2023-07-12,2023-07-17,Delivered,Cash on Delivery,464.68,20.0,0.0,5.0,False,False,False
+O500100,C10774,2025-06-17,,Processing,UPI,1970.15,10.0,120.0,,False,False,True
+O500101,C10269,2024-08-14,2024-08-20,Delivered,Cash on Delivery,2612.05,15.0,75.0,6.0,False,False,False
+O500102,C10403,2023-09-11,,Processing,Credit Card,3838.36,0.0,40.0,,False,False,True
+O500103,C10003,2023-03-10,,Cancelled,Net Banking,1497.03,25.0,60.0,,False,False,True
+O500104,C10640,2023-01-18,,Cancelled,Cash on Delivery,1250000.0,15.0,40.0,,False,False,True
+O500105,C10632,2025-10-26,2025-10-27,Delivered,Cash on Delivery,1548.44,20.0,40.0,1.0,False,False,False
+O500106,C10424,2025-01-09,,Cancelled,Net Banking,10335.72,15.0,0.0,,False,False,True
+O500107,C10695,2024-02-25,2024-03-04,Delivered,Wallet,1459.17,25.0,99.0,8.0,False,False,False
+O500108,C10668,2024-05-10,2024-10-09,Delivered,Cash on Delivery,3852.87,20.0,60.0,152.0,False,False,False
+O500109,C10927,2024-11-01,2024-11-06,Delivered,Wallet,1312.05,5.0,50.0,5.0,False,False,False
+O500110,C10755,2023-02-20,2023-02-28,Delivered,Wallet,1391.41,0.0,50.0,8.0,False,False,False
+O500111,C10283,2023-10-17,2023-10-19,Delivered,UPI,676.34,25.0,99.0,2.0,False,False,False
+O500112,C10276,2024-04-16,2024-04-18,Delivered,Wallet,392.55,10.0,40.0,2.0,False,False,False
+O500113,C10572,2024-05-28,2024-05-30,Delivered,Debit Card,4132.74,0.0,60.0,2.0,False,False,False
+O500114,C10790,2023-09-08,2023-08-11,Shipped,UPI,2737.31,25.0,120.0,,True,False,False
+O500115,C10856,2025-09-06,2025-09-11,Delivered,Cash on Delivery,1715.7,5.0,50.0,5.0,False,False,False
+O500116,C10397,2025-09-15,2025-09-23,Delivered,Cash on Delivery,4321.27,0.0,0.0,8.0,False,False,False
+O500117,C10140,2025-06-03,2025-06-10,Returned,Net Banking,734.58,15.0,0.0,7.0,False,False,False
+O500118,C10544,2025-03-26,2025-03-29,Delivered,Net Banking,1657.45,20.0,120.0,3.0,False,False,False
+O500119,C10413,2024-10-03,2024-10-05,Delivered,Net Banking,5785.81,10.0,0.0,2.0,False,False,False
+O500120,C10842,2023-04-02,2023-02-10,Delivered,UPI,7660.83,0.0,99.0,,True,False,False
+O500121,C10416,2025-09-29,2025-10-03,Delivered,Net Banking,16520.45,30.0,60.0,4.0,False,False,False
+O500122,C10343,2023-09-17,2023-09-22,Delivered,Debit Card,12554.93,10.0,60.0,5.0,False,False,False
+O500123,C10298,2024-04-30,,Cancelled,Wallet,8782.45,0.0,60.0,,False,False,True
+O500124,C10094,,2024-06-04,Delivered,UPI,7963.35,30.0,60.0,,False,False,False
+O500125,C10873,2024-11-28,2024-12-02,Delivered,Cash on Delivery,5626.97,15.0,0.0,4.0,False,False,False
+O500126,C10295,2025-02-10,,Pending,Credit Card,250.74,0.0,99.0,,False,False,True
+O500127,C10945,2024-07-27,2024-08-02,Delivered,Net Banking,1003.31,25.0,99.0,6.0,False,False,False
+O500128,C10070,2023-04-10,,Unknown,Credit Card,2880.6,0.0,99.0,,False,False,True
+O500129,C11139,2024-07-27,,Pending,Debit Card,2802.48,20.0,0.0,,False,False,True
+O500130,C10389,2025-02-14,2025-02-15,Delivered,Cash on Delivery,1234.33,10.0,0.0,1.0,False,False,False
+O500131,C11061,2023-09-26,2023-10-02,Delivered,Wallet,2511.89,30.0,99.0,6.0,False,False,False
+O500132,C10798,2024-10-09,2024-09-16,Delivered,UPI,2216.48,0.0,99.0,,True,False,False
+O500133,C10231,2023-01-17,2023-01-21,Delivered,Wallet,1545.39,25.0,0.0,4.0,False,False,False
+O500134,C10387,2025-10-01,2025-09-10,Shipped,Net Banking,3743.95,20.0,60.0,,True,False,False
+O500135,C10176,2023-08-05,2023-08-12,Shipped,Cash on Delivery,691.8,30.0,40.0,7.0,False,False,False
+O500136,C11159,2025-06-29,2025-05-07,Delivered,Debit Card,2672.11,0.0,40.0,,True,False,False
+O500137,C10281,2024-03-08,2024-03-13,Delivered,Net Banking,4943.25,25.0,120.0,5.0,False,False,False
+O500138,C11073,2023-10-18,2023-10-22,Delivered,Cash on Delivery,594.19,0.0,40.0,4.0,False,False,False
+O500139,C10834,2023-06-11,,Cancelled,UPI,758.04,0.0,0.0,,False,False,True
+O500140,C10207,2025-05-25,2025-01-06,Delivered,Net Banking,606.49,0.0,0.0,,True,False,False
+O500141,C10198,2025-03-21,2025-03-24,Returned,Credit Card,829.21,5.0,0.0,3.0,False,False,False
+O500142,C10895,2024-10-11,,Cancelled,Net Banking,3406.59,25.0,50.0,,False,False,True
+O500143,Unknown,2025-07-14,2025-07-16,Delivered,Net Banking,463.91,0.0,50.0,2.0,False,False,False
+O500144,C10230,2025-12-05,2025-05-19,Delivered,Wallet,1265.09,0.0,120.0,,True,False,False
+O500145,C10357,2024-03-04,2024-03-12,Delivered,Credit Card,2532.6,0.0,50.0,8.0,False,False,False
+O500146,C10759,2023-09-18,2023-09-19,Delivered,Wallet,1687.27,0.0,40.0,1.0,False,False,False
+O500147,C10948,2025-03-21,2025-03-28,Returned,Debit Card,6052.36,15.0,0.0,7.0,False,False,False
+O500148,C10171,2023-04-30,2023-04-05,Delivered,Debit Card,3546.77,20.0,50.0,,True,False,False
+O500149,C10230,2025-05-16,2025-05-19,Delivered,Cash on Delivery,7052.58,5.0,99.0,3.0,False,False,False
+O500150,C10362,2025-10-03,2025-03-15,Delivered,Net Banking,1268.08,10.0,99.0,,True,False,False
+O500151,C10239,2024-07-27,2024-07-31,Shipped,UPI,938.78,25.0,40.0,4.0,False,False,False
+O500152,C10194,2024-06-27,2024-05-07,Delivered,Credit Card,2906.27,30.0,40.0,,True,False,False
+O500153,C10794,2025-08-12,,Pending,Cash on Delivery,2802.76,25.0,0.0,,False,False,True
+O500154,C10135,2023-06-18,2023-06-25,Delivered,Credit Card,8886.16,0.0,120.0,7.0,False,False,False
+O500155,C10931,2025-07-05,2025-07-10,Delivered,Debit Card,4629.31,5.0,75.0,5.0,False,False,False
+O500156,C10264,2024-04-28,2024-05-03,Delivered,UPI,3457.39,0.0,50.0,5.0,False,False,False
+O500157,C10421,2023-04-06,2023-04-12,Delivered,UPI,672.87,5.0,60.0,6.0,False,False,False
+O500158,C10773,2025-07-29,2025-07-30,Delivered,Wallet,1143.52,30.0,40.0,1.0,False,False,False
+O500159,C10700,2024-08-11,2024-08-19,Delivered,Wallet,2990.04,20.0,0.0,8.0,False,False,False
+O500160,C10707,2024-02-15,,Cancelled,Cash,1446.26,15.0,50.0,,False,False,True
+O500161,C10450,2025-08-20,2025-08-21,Delivered,Cash on Delivery,3333.68,5.0,0.0,1.0,False,False,False
+O500162,C10185,2025-07-15,2025-07-21,Delivered,Net Banking,2490.11,0.0,75.0,6.0,False,False,False
+O500163,C10135,2025-02-08,2025-02-14,Delivered,Debit Card,1985.01,20.0,120.0,6.0,False,False,False
+O500164,C10148,2023-08-17,,Processing,Credit Card,4346.07,15.0,40.0,,False,False,True
+O500165,C10372,2023-07-28,2023-07-29,Delivered,Debit Card,2556.54,30.0,50.0,1.0,False,False,False
+O500166,C11123,2025-04-13,2025-04-18,Delivered,Debit Card,2949.74,15.0,50.0,5.0,False,False,False
+O500167,C10777,2024-10-20,,Pending,Wallet,1303.71,30.0,120.0,,False,False,True
+O500168,C10275,2024-07-04,2024-04-15,Delivered,Net Banking,1567.13,0.0,120.0,,True,False,False
+O500169,C10298,2024-02-14,,Cancelled,Credit Card,1591.36,0.0,75.0,,False,False,True
+O500170,C10627,2023-08-23,2023-08-30,Shipped,Debit Card,1918.21,20.0,60.0,7.0,False,False,False
+O500171,C10835,2023-09-30,2023-10-05,Delivered,Debit Card,4100.41,10.0,40.0,5.0,False,False,False
+O500172,C10539,2025-02-19,2025-02-23,Delivered,Debit Card,1956.95,30.0,40.0,4.0,False,False,False
+O500173,C10318,2025-02-17,2025-02-25,Delivered,Net Banking,552.69,0.0,40.0,8.0,False,False,False
+O500174,C10743,2024-06-12,2024-12-10,Delivered,Debit Card,2210.51,20.0,40.0,181.0,False,False,False
+O500175,C10118,2023-06-20,2023-06-24,Delivered,Net Banking,7080.12,10.0,75.0,4.0,False,False,False
+O500176,C10236,2025-09-08,2025-09-09,Delivered,Wallet,500.97,25.0,50.0,1.0,False,False,False
+O500177,C10438,2025-01-12,2025-01-16,Delivered,UPI,1446.7,5.0,120.0,4.0,False,False,False
+O500178,C11009,2024-08-20,2024-08-22,Delivered,Wallet,2208.17,5.0,50.0,2.0,False,False,False
+O500179,C10928,2024-03-12,2024-03-20,Delivered,Wallet,5480.55,20.0,0.0,8.0,False,False,False
+O500180,C10191,2025-10-19,2025-10-22,Delivered,UPI,1513.15,0.0,99.0,3.0,False,False,False
+O500181,C10254,2024-05-25,2024-05-29,Delivered,Credit Card,4558.33,0.0,0.0,4.0,False,False,False
+O500182,C10688,2023-09-14,2023-09-21,Shipped,Cash on Delivery,5626.04,0.0,40.0,7.0,False,False,False
+O500183,C10899,2023-08-25,2023-08-31,Delivered,Cash on Delivery,875.3,0.0,0.0,6.0,False,False,False
+O500184,C10127,2023-03-16,2023-03-22,Delivered,Debit Card,596.73,0.0,0.0,6.0,False,False,False
+O500185,C10848,2024-03-21,2024-03-26,Shipped,Cash on Delivery,1101.95,15.0,0.0,5.0,False,False,False
+O500186,C10400,2023-03-14,2023-03-21,Unknown,Debit Card,3228.59,25.0,99.0,7.0,False,False,False
+O500187,C11092,2025-10-20,2025-10-23,Delivered,Debit Card,427.25,0.0,99.0,3.0,False,False,False
+O500188,C10854,2025-02-11,,Processing,UPI,2599.95,0.0,40.0,,False,False,True
+O500189,C10616,2024-11-03,2024-11-05,Delivered,Wallet,2127.19,25.0,50.0,2.0,False,False,False
+O500190,C11161,2024-12-13,2024-12-19,Delivered,Net Banking,1155.16,25.0,120.0,6.0,False,False,False
+O500191,C10399,2025-07-03,2025-07-07,Returned,Net Banking,9748.58,10.0,99.0,4.0,False,False,False
+O500192,C10749,2025-08-07,,Processing,Wallet,4457.49,10.0,120.0,,False,False,True
+O500193,C10561,2025-06-14,,Cancelled,Debit Card,2328.63,20.0,75.0,,False,False,True
+O500194,C10001,2023-09-15,,Pending,Net Banking,1026.95,5.0,50.0,,False,False,True
+O500195,C10509,2025-01-09,,Cancelled,Credit Card,472.42,5.0,0.0,,False,False,True
+O500196,C11151,2024-05-20,2024-05-21,Delivered,Cash on Delivery,1520.54,0.0,0.0,1.0,False,False,False
+O500197,C10322,2023-05-02,2023-05-03,Delivered,Cash on Delivery,991.05,25.0,99.0,1.0,False,False,False
+O500198,C11058,2023-10-14,2023-10-17,Delivered,UPI,1831.39,25.0,120.0,3.0,False,False,False
+O500199,C11050,2025-02-06,,Cancelled,Credit Card,6117.03,20.0,99.0,,False,False,True
+O500200,C10481,2024-02-23,,Processing,Cash on Delivery,2128.53,20.0,99.0,,False,False,True
+O500201,C11086,2024-04-13,2024-04-14,Delivered,Debit Card,872.8,20.0,0.0,1.0,False,False,False
+O500202,C10524,2023-05-19,2023-05-24,Delivered,Debit Card,2653.35,15.0,60.0,5.0,False,False,False
+O500203,C10302,2025-04-02,2025-04-10,Delivered,Net Banking,1086.23,15.0,120.0,8.0,False,False,False
+O500204,C10722,2024-06-28,2024-07-04,Delivered,Wallet,1944.62,0.0,40.0,6.0,False,False,False
+O500205,C10837,2024-07-07,2024-07-11,Returned,Debit Card,3049.27,0.0,0.0,4.0,False,False,False
+O500206,C11046,2025-07-26,,Processing,Wallet,3362.91,20.0,75.0,,False,False,True
+O500207,C10710,2023-04-21,2023-04-26,Delivered,Credit Card,26219.26,0.0,120.0,5.0,False,False,False
+O500208,C11000,2024-03-13,2024-03-16,Delivered,Debit Card,2968.11,0.0,120.0,3.0,False,False,False
+O500209,C10443,2024-04-12,2024-04-16,Delivered,Cash on Delivery,1545.19,0.0,50.0,4.0,False,False,False
+O500210,C10791,2025-12-03,,Cancelled,Debit Card,1118.52,25.0,50.0,,False,False,True
+O500211,C10279,2023-05-22,,Cancelled,Net Banking,2340.78,10.0,50.0,,False,False,True
+O500212,C10586,2023-01-10,2023-11-01,Returned,Wallet,9464.95,0.0,0.0,295.0,False,False,False
+O500213,C10947,2025-03-16,2025-03-21,Shipped,Credit Card,5269.34,10.0,120.0,5.0,False,False,False
+O500214,C10370,2024-09-17,2024-09-23,Delivered,Debit Card,8252.08,5.0,0.0,6.0,False,False,False
+O500215,Unknown,2024-04-22,2024-04-25,Delivered,UPI,2703.08,20.0,120.0,3.0,False,False,False
+O500216,C10293,2023-09-30,2023-10-06,Shipped,Credit Card,2495.32,5.0,75.0,6.0,False,False,False
+O500217,C10540,2025-08-01,2025-08-06,Delivered,Cash on Delivery,1759.54,10.0,40.0,5.0,False,False,False
+O500218,C11163,2025-08-05,2025-08-08,Delivered,Cash on Delivery,1540.57,20.0,99.0,3.0,False,False,False
+O500219,C11182,2023-06-03,2023-06-10,Delivered,UPI,832.19,20.0,40.0,7.0,False,False,False
+O500220,C10562,2023-01-10,2023-08-10,Delivered,Wallet,1994.74,20.0,0.0,212.0,False,False,False
+O500221,C10080,2024-02-04,2024-02-09,Shipped,Net Banking,4575.41,20.0,0.0,5.0,False,False,False
+O500222,C11164,2024-10-25,,Processing,Wallet,4523.84,0.0,0.0,,False,False,True
+O500223,C10252,2023-06-17,2023-06-19,Shipped,UPI,488.76,0.0,0.0,2.0,False,False,False
+O500224,C10909,2023-12-23,2023-12-27,Delivered,Credit Card,3132.43,0.0,40.0,4.0,False,False,False
+O500225,C11120,2023-03-28,2023-03-29,Delivered,Wallet,1038.16,0.0,40.0,1.0,False,False,False
+O500226,C10519,2023-01-28,2023-01-31,Delivered,Credit Card,3882.29,15.0,0.0,3.0,False,False,False
+O500227,C10442,2023-07-29,2023-07-30,Delivered,Net Banking,2334.49,10.0,0.0,1.0,False,False,False
+O500228,C10763,2023-08-04,2023-04-13,Returned,Credit Card,1143.22,5.0,0.0,,True,False,False
+O500229,C10342,2023-01-31,2023-02-05,Delivered,Net Banking,964.82,5.0,60.0,5.0,False,False,False
+O500230,Unknown,2023-12-03,2023-04-12,Delivered,Wallet,3414.07,0.0,120.0,,True,False,False
+O500231,C10597,2023-08-09,2023-08-14,Delivered,Debit Card,2632.77,20.0,99.0,5.0,False,False,False
+O500232,C11140,2024-09-03,2024-03-14,Delivered,Net Banking,3848.49,0.0,120.0,,True,False,False
+O500233,C11172,2024-08-14,2024-08-21,Delivered,Wallet,4731.38,15.0,0.0,7.0,False,False,False
+O500234,C10171,2025-10-15,,Processing,Credit Card,2146.41,0.0,50.0,,False,False,True
+O500235,C10271,2024-04-03,,Cancelled,Cash on Delivery,8452.9,0.0,50.0,,False,False,True
+O500236,C10512,2025-07-19,,Processing,Cash on Delivery,6289.08,25.0,75.0,,False,False,True
+O500237,C10410,2023-01-27,2023-01-30,Delivered,Debit Card,5145.92,20.0,0.0,3.0,False,False,False
+O500238,C10440,2023-06-15,2023-06-18,Delivered,Wallet,4407.38,15.0,120.0,3.0,False,False,False
+O500239,C10146,2023-06-27,2023-07-04,Delivered,Cash on Delivery,361.33,0.0,50.0,7.0,False,False,False
+O500240,C10721,2025-03-16,2025-03-19,Returned,Credit Card,3167.56,5.0,120.0,3.0,False,False,False
+O500241,C10760,2023-02-05,2023-02-09,Delivered,Debit Card,2398.45,20.0,99.0,4.0,False,False,False
+O500242,C10568,2024-02-03,2024-06-02,Delivered,Wallet,4342.24,0.0,99.0,120.0,False,False,False
+O500243,C10782,2024-12-28,2025-01-01,Delivered,Wallet,649.76,5.0,0.0,4.0,False,False,False
+O500244,C10775,2023-06-09,,Processing,Net Banking,1223.42,0.0,0.0,,False,False,True
+O500245,C10322,2023-10-11,,Cancelled,Debit Card,6054.49,5.0,75.0,,False,False,True
+O500246,C10886,2024-04-26,2024-04-27,Delivered,Cash on Delivery,5749.11,25.0,50.0,1.0,False,False,False
+O500247,C10128,2025-05-09,2025-05-10,Delivered,UPI,2859.47,25.0,0.0,1.0,False,False,False
+O500248,C11007,2023-10-29,2023-05-11,Delivered,Net Banking,18480.61,15.0,75.0,,True,False,False
+O500249,C10295,2024-02-06,,Pending,Net Banking,6577.19,0.0,75.0,,False,False,True
+O500250,C10340,2025-07-22,2025-07-24,Delivered,Wallet,828.74,5.0,0.0,2.0,False,False,False
+O500251,C10859,2024-11-28,2024-11-29,Delivered,Cash on Delivery,2319.22,20.0,120.0,1.0,False,False,False
+O500252,C10822,2023-12-23,2023-12-26,Delivered,UPI,2569.44,0.0,40.0,3.0,False,False,False
+O500253,C10345,2024-12-05,,Processing,Net Banking,2176.79,0.0,40.0,,False,False,True
+O500254,C10992,2023-12-22,2023-12-30,Delivered,Net Banking,1152.08,25.0,0.0,8.0,False,False,False
+O500255,C11147,2025-04-03,2025-04-09,Delivered,Credit Card,3288.3,0.0,0.0,6.0,False,False,False
+O500256,C10701,2023-04-04,2023-08-04,Delivered,Wallet,5755.31,10.0,0.0,122.0,False,False,False
+O500257,C10607,2024-08-12,2024-08-19,Delivered,Wallet,2747.6,5.0,120.0,7.0,False,False,False
+O500258,C10542,2024-12-27,2025-01-03,Delivered,Credit Card,921.28,0.0,50.0,7.0,False,False,False
+O500259,C10994,2023-12-28,2023-12-29,Delivered,Credit Card,12727.15,0.0,40.0,1.0,False,False,False
+O500260,C10190,2024-04-14,2024-04-20,Delivered,Credit Card,4440.71,10.0,0.0,6.0,False,False,False
+O500261,C10255,2023-03-17,2023-03-20,Delivered,Credit Card,1493.2,30.0,120.0,3.0,False,False,False
+O500262,C10162,2023-06-07,,Cancelled,Cash on Delivery,367.68,10.0,60.0,,False,False,True
+O500263,C10584,2023-02-19,2023-02-26,Delivered,Net Banking,4409.41,0.0,120.0,7.0,False,False,False
+O500264,C10036,2025-12-06,,Processing,Wallet,6176.7,20.0,75.0,,False,False,True
+O500265,C10028,2024-06-09,2024-06-15,Returned,Credit Card,7235.41,0.0,75.0,6.0,False,False,False
+O500266,C10476,2023-06-12,,Cancelled,Net Banking,3247.32,15.0,120.0,,False,False,True
+O500267,C10740,2025-05-29,2025-05-31,Delivered,Wallet,5832.33,0.0,99.0,2.0,False,False,False
+O500268,C10925,2024-06-01,2024-12-01,Returned,UPI,4824.71,0.0,0.0,183.0,False,False,False
+O500269,C10887,2023-09-12,2023-09-15,Delivered,Wallet,448.42,15.0,120.0,3.0,False,False,False
+O500270,C10720,2025-05-22,2025-05-23,Delivered,Wallet,1762.54,0.0,50.0,1.0,False,False,False
+O500271,C10748,2025-05-18,,Cancelled,Net Banking,2535.96,0.0,40.0,,False,False,True
+O500272,C10205,2025-09-11,,Cancelled,Debit Card,1080.33,0.0,40.0,,False,False,True
+O500273,C10854,2023-12-29,2024-01-05,Delivered,Debit Card,1293.86,0.0,60.0,7.0,False,False,False
+O500274,C10740,2025-06-02,2025-02-14,Shipped,Cash on Delivery,1076.74,10.0,75.0,,True,False,False
+O500275,C10316,2025-10-01,2025-10-09,Delivered,UPI,603.31,10.0,75.0,8.0,False,False,False
+O500276,C10567,2024-03-09,2024-09-08,Delivered,Net Banking,3714.67,0.0,99.0,183.0,False,False,False
+O500277,C10606,2025-05-28,2025-05-30,Shipped,Cash on Delivery,981.2,10.0,75.0,2.0,False,False,False
+O500278,C10532,2025-07-14,2025-07-20,Returned,Debit Card,2006.01,15.0,40.0,6.0,False,False,False
+O500279,C11172,2023-04-07,2023-04-11,Delivered,Cash on Delivery,3183.97,30.0,40.0,4.0,False,False,False
+O500280,C11056,2025-05-16,,Cancelled,Cash on Delivery,1165.99,20.0,0.0,,False,False,True
+O500281,C10844,2024-11-14,2024-11-16,Delivered,Credit Card,4118.14,10.0,75.0,2.0,False,False,False
+O500282,C10911,2024-10-17,2024-10-21,Delivered,Net Banking,4096.58,25.0,40.0,4.0,False,False,False
+O500283,C10128,2025-07-26,2025-07-30,Delivered,UPI,2268.03,25.0,99.0,4.0,False,False,False
+O500284,C10409,2025-10-09,2025-10-17,Shipped,Wallet,3718.82,5.0,99.0,8.0,False,False,False
+O500285,C10300,2023-11-22,2023-11-26,Delivered,Cash on Delivery,874.07,15.0,0.0,4.0,False,False,False
+O500286,C11185,2024-01-28,2024-01-30,Delivered,Credit Card,1889.77,25.0,0.0,2.0,False,False,False
+O500287,C10138,2024-06-18,,Cancelled,Debit Card,1176.52,5.0,75.0,,False,False,True
+O500288,C11173,2023-02-13,,Cancelled,Cash on Delivery,1888.13,5.0,60.0,,False,False,True
+O500289,C10699,2025-04-15,2025-04-20,Delivered,Net Banking,1268.67,15.0,50.0,5.0,False,False,False
+O500290,C10990,2023-03-16,2023-03-19,Delivered,Cash on Delivery,15340.69,25.0,0.0,3.0,False,False,False
+O500291,C10968,2024-07-30,2024-08-01,Delivered,Credit Card,3239.85,20.0,99.0,2.0,False,False,False
+O500292,C11040,2025-12-09,2025-09-20,Shipped,Wallet,481.52,0.0,75.0,,True,False,False
+O500293,C10811,2025-03-19,2025-03-20,Delivered,Wallet,9428.96,30.0,0.0,1.0,False,False,False
+O500294,C10324,2024-01-04,2024-04-05,Delivered,Wallet,2411.16,15.0,99.0,92.0,False,False,False
+O500295,C10666,2023-05-25,2023-06-01,Delivered,Credit Card,1791.95,0.0,99.0,7.0,False,False,False
+O500296,C10461,2023-10-23,2023-10-28,Delivered,Net Banking,2208.54,0.0,99.0,5.0,False,False,False
+O500297,C10243,2025-08-13,2025-08-19,Delivered,Wallet,639.1,0.0,75.0,6.0,False,False,False
+O500298,C10591,2023-10-21,,Pending,UPI,929.15,10.0,0.0,,False,False,True
+O500299,C10576,2023-05-09,2023-05-15,Delivered,Net Banking,743.71,0.0,75.0,6.0,False,False,False
+O500300,C10244,2024-09-26,2024-10-04,Returned,UPI,5243.36,0.0,120.0,8.0,False,False,False
+O500301,C10051,2023-11-18,2023-11-21,Delivered,Net Banking,2788.36,25.0,0.0,3.0,False,False,False
+O500302,C10435,2023-04-27,,Processing,Credit Card,5068.01,15.0,40.0,,False,False,True
+O500303,C10570,2024-12-13,2024-12-17,Delivered,Net Banking,9800.07,15.0,0.0,4.0,False,False,False
+O500304,C10901,2024-11-18,2024-11-20,Returned,Debit Card,999999.0,0.0,60.0,2.0,False,False,False
+O500305,C10534,2023-12-24,,Cancelled,Cash on Delivery,10048.41,0.0,0.0,,False,False,True
+O500306,C10399,2024-08-26,2024-08-29,Delivered,Net Banking,4631.02,0.0,60.0,3.0,False,False,False
+O500307,C10762,2025-08-14,2025-08-19,Delivered,Wallet,1165.15,25.0,0.0,5.0,False,False,False
+O500308,C10826,2023-12-12,2023-12-15,Delivered,Credit Card,3904.08,10.0,0.0,3.0,False,False,False
+O500309,C10898,2023-11-28,,Processing,Credit Card,675.53,5.0,120.0,,False,False,True
+O500310,C10974,2025-12-05,2025-05-13,Returned,UPI,1147.8,25.0,75.0,,True,False,False
+O500311,C10584,2023-10-10,,Processing,Cash on Delivery,2197.9,5.0,40.0,,False,False,True
+O500312,C10869,2024-09-07,2024-07-17,Delivered,Cash on Delivery,3191.15,0.0,0.0,,True,False,False
+O500313,C11107,2025-04-15,2025-04-22,Delivered,Credit Card,3507.99,0.0,75.0,7.0,False,False,False
+O500314,C10812,2024-06-13,,Pending,Credit Card,6135.0,30.0,0.0,,False,False,True
+O500315,C10487,2024-12-01,2024-12-03,Delivered,Net Banking,1753.82,15.0,120.0,2.0,False,False,False
+O500316,Unknown,2025-01-29,,Pending,Debit Card,3891.88,0.0,75.0,,False,False,True
+O500317,C10764,2023-10-24,2023-11-01,Delivered,Debit Card,1625.47,0.0,75.0,8.0,False,False,False
+O500318,Unknown,2023-01-12,2023-12-05,Delivered,Debit Card,4679.62,0.0,99.0,327.0,False,False,False
+O500319,C10981,2023-03-06,2023-03-07,Delivered,Net Banking,661.12,30.0,60.0,1.0,False,False,False
+O500320,C10464,2023-12-09,2023-12-15,Delivered,Net Banking,13643.73,5.0,0.0,6.0,False,False,False
+O500321,C10731,2024-03-03,2024-03-09,Delivered,Net Banking,1326.56,20.0,75.0,6.0,False,False,False
+O500322,C10261,2023-06-23,2023-06-24,Delivered,Net Banking,6477.15,0.0,75.0,1.0,False,False,False
+O500323,C10540,2023-12-28,2023-12-30,Delivered,Debit Card,6179.24,30.0,75.0,2.0,False,False,False
+O500324,C11169,2025-09-09,2025-09-12,Delivered,Wallet,2036.34,30.0,40.0,3.0,False,False,False
+O500325,C10411,2025-07-01,2025-07-03,Delivered,Credit Card,2912.13,0.0,0.0,2.0,False,False,False
+O500326,C10641,2024-08-23,2024-08-24,Returned,Net Banking,620.7,30.0,60.0,1.0,False,False,False
+O500327,C10850,2025-07-25,2025-07-30,Delivered,Wallet,7514.16,15.0,120.0,5.0,False,False,False
+O500328,C10440,2023-11-16,2023-11-17,Delivered,Debit Card,10080.72,0.0,99.0,1.0,False,False,False
+O500329,C10005,2024-07-14,2024-07-20,Delivered,Cash on Delivery,9622.43,0.0,50.0,6.0,False,False,False
+O500330,C11135,2024-11-24,2024-12-01,Shipped,Wallet,5531.3,0.0,40.0,7.0,False,False,False
+O500331,C10216,2025-09-26,2025-09-27,Delivered,Net Banking,1306.84,15.0,60.0,1.0,False,False,False
+O500332,C10578,2024-01-17,2024-01-22,Delivered,Credit Card,3384.93,0.0,40.0,5.0,False,False,False
+O500333,C10325,2023-12-03,2023-12-04,Delivered,Credit Card,4785.41,15.0,99.0,1.0,False,False,False
+O500334,C10306,2024-09-06,2024-06-16,Shipped,UPI,2187.24,0.0,40.0,,True,False,False
+O500335,C10799,2024-09-29,2024-10-02,Delivered,Cash on Delivery,1274.2,15.0,0.0,3.0,False,False,False
+O500336,C10964,2024-01-31,2024-02-01,Delivered,UPI,2813.13,25.0,120.0,1.0,False,False,False
+O500337,C10842,2023-11-02,2023-11-05,Delivered,Net Banking,1614.51,25.0,60.0,3.0,False,False,False
+O500338,C10434,2023-05-05,,Cancelled,Net Banking,3305.5,30.0,40.0,,False,False,True
+O500339,C10954,2023-02-22,,Processing,UPI,1859.62,5.0,50.0,,False,False,True
+O500340,C10273,2023-02-04,2023-09-04,Delivered,UPI,1026.8,20.0,0.0,212.0,False,False,False
+O500341,C10319,2023-04-11,2023-04-14,Delivered,Cash on Delivery,4276.38,0.0,60.0,3.0,False,False,False
+O500342,C10253,2024-02-15,2024-02-19,Delivered,UPI,1631.04,20.0,75.0,4.0,False,False,False
+O500343,C10511,2023-01-15,2023-01-20,Delivered,UPI,3570.24,0.0,0.0,5.0,False,False,False
+O500344,C10673,2025-04-10,,Pending,Net Banking,3051.69,5.0,0.0,,False,False,True
+O500345,C10426,2023-04-08,2023-04-10,Delivered,Debit Card,3426.7,15.0,40.0,2.0,False,False,False
+O500346,C10994,2025-10-22,,Pending,Credit Card,1250000.0,0.0,0.0,,False,False,True
+O500347,C10708,2025-10-26,2025-11-03,Cancelled,Cash on Delivery,979.64,20.0,120.0,8.0,False,False,False
+O500348,C10801,2025-09-13,2025-09-21,Delivered,Credit Card,808.76,30.0,0.0,8.0,False,False,False
+O500349,C10945,2023-03-31,2023-04-07,Shipped,Debit Card,1777.16,10.0,60.0,7.0,False,False,False
+O500350,C10536,2023-04-16,2023-04-18,Delivered,UPI,1134.19,5.0,75.0,2.0,False,False,False
+O500351,C10730,2025-06-24,2025-06-29,Delivered,UPI,4766.77,15.0,60.0,5.0,False,False,False
+O500352,C10867,2025-09-08,2025-10-08,Delivered,Wallet,688.2,5.0,50.0,30.0,False,False,False
+O500353,C11185,2025-07-18,,Processing,Net Banking,6529.81,30.0,50.0,,False,False,True
+O500354,Unknown,2025-08-13,2025-08-21,Delivered,Debit Card,914.51,0.0,0.0,8.0,False,False,False
+O500355,C10782,2024-06-30,2024-07-08,Delivered,UPI,941.82,20.0,0.0,8.0,False,False,False
+O500356,C10086,2023-11-30,2023-03-12,Shipped,UPI,2212.11,0.0,60.0,,True,False,False
+O500357,C10122,2024-06-19,2024-06-25,Delivered,Cash on Delivery,1994.78,15.0,60.0,6.0,False,False,False
+O500358,C10144,2023-07-18,2023-07-26,Delivered,Credit Card,2028.84,0.0,50.0,8.0,False,False,False
+O500359,C10418,2024-12-20,2024-12-22,Delivered,Wallet,2580.66,0.0,99.0,2.0,False,False,False
+O500360,C10644,2025-06-09,2025-09-07,Delivered,Cash on Delivery,2941.78,30.0,75.0,90.0,False,False,False
+O500361,C10295,2023-09-14,2023-09-17,Delivered,Debit Card,922.55,20.0,75.0,3.0,False,False,False
+O500362,C10774,2024-08-05,2024-08-08,Delivered,Credit Card,522.57,25.0,0.0,3.0,False,False,False
+O500363,C10584,2023-10-24,2023-10-31,Delivered,Credit Card,2621.48,10.0,50.0,7.0,False,False,False
+O500364,C10060,2024-01-17,2024-01-20,Delivered,Wallet,3117.56,10.0,40.0,3.0,False,False,False
+O500365,C10992,2023-01-12,2023-01-17,Delivered,Debit Card,2086.78,0.0,0.0,5.0,False,False,False
+O500366,C10860,2023-02-14,2023-02-18,Delivered,Cash on Delivery,1719.56,25.0,0.0,4.0,False,False,False
+O500367,C10866,2023-06-27,2023-07-02,Delivered,Wallet,281.09,0.0,0.0,5.0,False,False,False
+O500368,C10889,2023-07-18,2023-07-25,Delivered,UPI,3336.5,0.0,40.0,7.0,False,False,False
+O500369,C10389,2024-07-22,,Processing,Credit Card,965.61,5.0,40.0,,False,False,True
+O500370,C10467,2024-02-25,2024-02-27,Delivered,UPI,6043.34,0.0,120.0,2.0,False,False,False
+O500371,Unknown,2023-11-14,2023-11-19,Shipped,UPI,760.24,15.0,99.0,5.0,False,False,False
+O500372,C10019,2024-06-20,2024-06-23,Delivered,Cash on Delivery,3626.35,0.0,120.0,3.0,False,False,False
+O500373,C10175,2025-05-08,2025-05-10,Shipped,Cash on Delivery,1146.37,0.0,0.0,2.0,False,False,False
+O500374,C10523,2023-09-09,2023-12-09,Delivered,Cash on Delivery,1015.49,25.0,75.0,91.0,False,False,False
+O500375,C10199,2025-04-17,2025-04-25,Delivered,Debit Card,5886.36,20.0,0.0,8.0,False,False,False
+O500376,C10681,2024-01-22,2024-01-25,Delivered,Cash on Delivery,1057.18,30.0,75.0,3.0,False,False,False
+O500377,C10782,2024-02-15,2024-02-17,Delivered,Wallet,2829.98,0.0,0.0,2.0,False,False,False
+O500378,C10618,2025-02-22,2025-03-02,Delivered,UPI,1858.89,0.0,120.0,8.0,False,False,False
+O500379,C10118,2025-01-09,2025-01-17,Delivered,Wallet,1862.24,25.0,50.0,8.0,False,False,False
+O500380,C10645,2025-04-25,2025-04-28,Delivered,Net Banking,3652.28,30.0,40.0,3.0,False,False,False
+O500381,C10573,2025-05-02,2025-05-05,Delivered,Debit Card,5648.46,30.0,120.0,3.0,False,False,False
+O500382,C11016,2025-04-30,2025-05-05,Delivered,Cash on Delivery,828.25,25.0,120.0,5.0,False,False,False
+O500383,C11106,2025-03-18,2025-03-19,Delivered,Wallet,601.43,20.0,0.0,1.0,False,False,False
+O500384,C10074,2024-02-08,2024-08-05,Delivered,Credit Card,952.06,0.0,40.0,179.0,False,False,False
+O500385,C11126,2025-09-05,,Cancelled,Wallet,715.3,30.0,75.0,,False,False,True
+O500386,C11150,2024-03-14,2024-03-20,Delivered,Debit Card,4906.15,30.0,99.0,6.0,False,False,False
+O500387,C10859,2023-08-06,2023-08-11,Delivered,Credit Card,1493.07,5.0,120.0,5.0,False,False,False
+O500388,C10643,2023-05-20,2023-05-28,Delivered,Credit Card,1903.61,5.0,75.0,8.0,False,False,False
+O500389,C10268,2024-09-10,2024-09-16,Delivered,Credit Card,1094.46,10.0,50.0,6.0,False,False,False
+O500390,C10161,2024-11-02,2024-02-12,Delivered,Debit Card,2496.77,5.0,40.0,,True,False,False
+O500391,C11034,2024-04-28,2024-05-06,Delivered,Wallet,2162.52,30.0,40.0,8.0,False,False,False
+O500392,C10267,2023-10-03,2023-09-10,Delivered,Debit Card,4931.27,0.0,40.0,,True,False,False
+O500393,C11147,2023-01-04,2023-01-06,Delivered,Net Banking,12362.53,20.0,0.0,2.0,False,False,False
+O500394,C11034,2025-09-21,2025-09-29,Delivered,Net Banking,1716.56,25.0,50.0,8.0,False,False,False
+O500395,C11031,2025-01-11,2025-01-15,Delivered,Cash on Delivery,334.61,0.0,0.0,4.0,False,False,False
+O500396,C10785,2023-07-23,2023-07-26,Delivered,UPI,657.33,30.0,40.0,3.0,False,False,False
+O500397,C10779,2023-04-01,2023-04-02,Delivered,Debit Card,2126.12,0.0,0.0,1.0,False,False,False
+O500398,C10447,2023-04-30,2023-05-05,Delivered,Net Banking,4212.07,10.0,0.0,5.0,False,False,False
+O500399,C10230,2023-07-11,2023-07-17,Delivered,Credit Card,772.16,10.0,60.0,6.0,False,False,False
+O500400,C10581,2024-10-13,2024-10-20,Delivered,Net Banking,1676.98,25.0,40.0,7.0,False,False,False
+O500401,C10649,2025-02-13,2025-02-18,Delivered,Net Banking,528.39,0.0,40.0,5.0,False,False,False
+O500402,C10366,2023-01-10,2023-10-09,Delivered,Cash on Delivery,0.0,0.0,60.0,272.0,False,True,False
+O500403,C10308,2025-08-21,2025-08-29,Shipped,Cash on Delivery,4945.28,10.0,60.0,8.0,False,False,False
+O500404,C10873,2024-07-14,2024-07-21,Delivered,Net Banking,962.97,0.0,50.0,7.0,False,False,False
+O500405,C10165,2025-01-21,,Cancelled,Wallet,1098.25,0.0,50.0,,False,False,True
+O500406,C10760,2025-06-30,2025-04-07,Delivered,Wallet,1231.78,25.0,50.0,,True,False,False
+O500407,C10386,2025-07-02,2025-07-04,Delivered,Net Banking,2305.01,0.0,99.0,2.0,False,False,False
+O500408,C10248,2025-02-02,2025-02-10,Delivered,Cash on Delivery,3738.04,0.0,40.0,8.0,False,False,False
+O500409,C10583,,2024-06-23,Delivered,Other,3824.79,15.0,0.0,,False,False,False
+O500410,C11098,2023-02-22,2023-02-03,Shipped,Wallet,484.42,20.0,0.0,,True,False,False
+O500411,C10530,2024-05-18,2024-05-26,Returned,Cash on Delivery,2804.54,20.0,0.0,8.0,False,False,False
+O500412,C10571,2024-03-28,2024-03-29,Delivered,UPI,1224.72,15.0,0.0,1.0,False,False,False
+O500413,C10051,2023-10-22,,Processing,Net Banking,5039.87,0.0,50.0,,False,False,True
+O500414,C11127,2024-01-19,,Processing,Wallet,1285.39,10.0,50.0,,False,False,True
+O500415,C10092,2023-03-13,2023-03-17,Delivered,Cash on Delivery,594.6,25.0,40.0,4.0,False,False,False
+O500416,C10778,2024-12-04,2024-07-12,Delivered,Net Banking,11829.77,25.0,0.0,,True,False,False
+O500417,C10383,2023-06-23,2023-06-29,Delivered,UPI,1306.33,0.0,40.0,6.0,False,False,False
+O500418,C10046,2025-03-09,2025-05-09,Shipped,Wallet,2211.97,0.0,40.0,61.0,False,False,False
+O500419,C10566,2023-08-19,,Cancelled,Wallet,7938.79,0.0,120.0,,False,False,True
+O500420,C10423,2024-02-29,2024-03-02,Delivered,UPI,1749.81,25.0,60.0,2.0,False,False,False
+O500421,C10498,2025-06-21,,Cancelled,Net Banking,1052.8,30.0,99.0,,False,False,True
+O500422,C10314,2025-09-14,2025-09-18,Delivered,Wallet,831.13,30.0,99.0,4.0,False,False,False
+O500423,C10210,2023-01-03,,Cancelled,Debit Card,865.31,5.0,60.0,,False,False,True
+O500424,C10539,2025-02-02,,Cancelled,Credit Card,2418.28,0.0,50.0,,False,False,True
+O500425,C10430,2024-03-12,2024-03-16,Delivered,Credit Card,762.91,30.0,75.0,4.0,False,False,False
+O500426,C10800,2024-08-11,2024-11-15,Shipped,UPI,863.03,0.0,0.0,96.0,False,False,False
+O500427,C10812,2025-10-01,2025-10-03,Delivered,Net Banking,3947.37,15.0,99.0,2.0,False,False,False
+O500428,C10513,2025-09-01,2025-07-09,Delivered,Debit Card,5634.58,5.0,75.0,,True,False,False
+O500429,C10623,2025-07-26,,Cancelled,Net Banking,-250.0,0.0,50.0,,False,True,True
+O500430,C10260,2024-03-20,2024-03-23,Shipped,Wallet,2136.32,0.0,60.0,3.0,False,False,False
+O500431,C11098,2023-04-25,2023-04-28,Delivered,Debit Card,1387.53,0.0,120.0,3.0,False,False,False
+O500432,C10061,2023-01-04,2023-04-04,Returned,Credit Card,1388.55,0.0,120.0,90.0,False,False,False
+O500433,C10696,2025-02-08,2025-02-10,Delivered,UPI,787.9,30.0,99.0,2.0,False,False,False
+O500434,C10854,2024-03-04,2024-12-03,Returned,Credit Card,4440.82,0.0,75.0,274.0,False,False,False
+O500435,C11031,2025-06-20,,Pending,Credit Card,3824.99,0.0,40.0,,False,False,True
+O500436,C10190,2024-10-06,2024-06-18,Returned,Credit Card,6728.75,10.0,60.0,,True,False,False
+O500437,C10111,2023-07-14,,Processing,Credit Card,508.12,0.0,0.0,,False,False,True
+O500438,C10025,2024-01-08,2024-08-05,Delivered,UPI,2390.72,30.0,99.0,210.0,False,False,False
+O500439,C10449,2023-09-18,2023-09-19,Delivered,Net Banking,2271.99,0.0,120.0,1.0,False,False,False
+O500440,C10353,2024-07-03,2024-04-07,Delivered,Credit Card,1439.93,5.0,50.0,,True,False,False
+O500441,C10662,2024-12-07,2024-12-09,Delivered,UPI,1566.06,0.0,50.0,2.0,False,False,False
+O500442,C10400,2025-07-03,2025-11-03,Delivered,Net Banking,5503.99,10.0,50.0,123.0,False,False,False
+O500443,C10652,2025-02-22,2025-02-23,Delivered,Wallet,2410.23,25.0,60.0,1.0,False,False,False
+O500444,C10936,2025-01-04,2025-04-07,Delivered,Debit Card,3743.16,0.0,50.0,93.0,False,False,False
+O500445,C10359,2025-06-24,,Processing,Credit Card,7446.11,0.0,0.0,,False,False,True
+O500446,C10250,2024-06-19,,Cancelled,Wallet,1250.85,0.0,75.0,,False,False,True
+O500447,C10823,2024-02-16,2024-02-20,Delivered,Debit Card,1596.95,30.0,60.0,4.0,False,False,False
+O500448,C10656,2025-01-05,2025-02-05,Delivered,Credit Card,2848.83,20.0,40.0,31.0,False,False,False
+O500449,C10875,2023-02-19,2023-02-24,Delivered,Net Banking,929.33,30.0,120.0,5.0,False,False,False
+O500450,C10428,2024-10-17,,Processing,Cash on Delivery,1429.87,30.0,75.0,,False,False,True
+O500451,C10766,2025-10-06,2025-10-13,Delivered,Cash on Delivery,9492.28,0.0,40.0,7.0,False,False,False
+O500452,C10351,2024-04-07,2024-08-04,Delivered,Cash on Delivery,8523.25,30.0,60.0,119.0,False,False,False
+O500453,C10033,2023-09-25,,Processing,Debit Card,4460.26,0.0,75.0,,False,False,True
+O500454,C10659,2025-03-31,2025-07-04,Shipped,Credit Card,693.18,0.0,40.0,95.0,False,False,False
+O500455,C10223,2025-03-07,2025-03-12,Delivered,Debit Card,1262.84,0.0,60.0,5.0,False,False,False
+O500456,C10034,2024-01-31,2024-02-01,Delivered,Debit Card,1419.41,10.0,0.0,1.0,False,False,False
+O500457,C10950,2025-08-08,2025-08-10,Delivered,Credit Card,3017.49,0.0,60.0,2.0,False,False,False
+O500458,C10073,2024-07-08,2024-07-15,Delivered,Net Banking,4749.53,5.0,75.0,7.0,False,False,False
+O500459,C10663,2024-07-13,2024-07-18,Delivered,Debit Card,1147.75,5.0,75.0,5.0,False,False,False
+O500460,C10987,2024-05-06,2024-09-06,Delivered,Net Banking,6042.05,0.0,0.0,123.0,False,False,False
+O500461,C11142,2024-06-25,2024-06-29,Delivered,Net Banking,1228.62,20.0,99.0,4.0,False,False,False
+O500462,C10017,2025-01-27,2025-02-01,Delivered,Debit Card,962.94,0.0,40.0,5.0,False,False,False
+O500463,C11187,2023-09-06,2023-09-08,Shipped,Wallet,1189.52,0.0,75.0,2.0,False,False,False
+O500464,C11053,2024-04-16,2024-04-19,Delivered,Debit Card,2636.85,10.0,0.0,3.0,False,False,False
+O500465,C10072,2023-03-05,2023-03-13,Delivered,Debit Card,4472.87,0.0,120.0,8.0,False,False,False
+O500466,C11120,2025-06-28,2025-06-07,Delivered,Debit Card,2623.55,25.0,60.0,,True,False,False
+O500467,C10495,2023-04-25,2023-04-28,Shipped,Net Banking,3898.74,10.0,40.0,3.0,False,False,False
+O500468,C10114,2024-08-05,2024-05-15,Delivered,Debit Card,2751.01,15.0,50.0,,True,False,False
+O500469,C10532,2025-01-18,2025-01-20,Shipped,UPI,609.64,0.0,0.0,2.0,False,False,False
+O500470,C11023,2024-04-25,2024-03-05,Delivered,Net Banking,5874.42,0.0,0.0,,True,False,False
+O500471,C10757,2023-07-25,2023-07-31,Delivered,Cash on Delivery,493.78,25.0,99.0,6.0,False,False,False
+O500472,C10947,2023-03-30,2023-03-04,Delivered,Wallet,2422.82,0.0,50.0,,True,False,False
+O500473,C11080,2024-05-27,2024-06-01,Delivered,Cash on Delivery,585.62,0.0,0.0,5.0,False,False,False
+O500474,C10767,2023-02-27,2023-02-28,Delivered,Cash on Delivery,6412.38,0.0,50.0,1.0,False,False,False
+O500475,C10467,2024-06-20,2024-06-26,Delivered,Net Banking,1169.41,15.0,60.0,6.0,False,False,False
+O500476,C10729,2023-11-15,2023-11-16,Shipped,Net Banking,980.59,0.0,40.0,1.0,False,False,False
+O500477,C11114,2025-08-16,,Processing,Debit Card,396.35,0.0,40.0,,False,False,True
+O500478,C10439,2023-11-24,2023-11-29,Delivered,Debit Card,589.98,25.0,99.0,5.0,False,False,False
+O500479,C10753,2024-07-12,2024-07-14,Delivered,Debit Card,3647.6,10.0,40.0,2.0,False,False,False
+O500480,C10010,2024-10-24,,Processing,Net Banking,2885.23,25.0,0.0,,False,False,True
+O500481,C10866,2024-09-28,,Cancelled,Credit Card,7570.73,0.0,40.0,,False,False,True
+O500482,C10420,2023-10-09,2023-10-15,Delivered,Debit Card,4370.07,0.0,120.0,6.0,False,False,False
+O500483,C10424,2025-04-18,2025-04-22,Delivered,Cash on Delivery,4795.83,30.0,75.0,4.0,False,False,False
+O500484,C10797,2023-05-29,2023-05-06,Delivered,Wallet,3555.47,10.0,0.0,,True,False,False
+O500485,C10084,2023-11-08,2023-11-09,Delivered,Net Banking,2466.26,0.0,0.0,1.0,False,False,False
+O500486,C10834,2023-10-27,2023-10-30,Delivered,UPI,1119.79,5.0,0.0,3.0,False,False,False
+O500487,C10994,2024-12-12,,Cancelled,Cash on Delivery,1190.59,30.0,99.0,,False,False,True
+O500488,C10024,2024-04-16,2024-04-19,Delivered,Debit Card,1127.12,5.0,120.0,3.0,False,False,False
+O500489,C10956,2023-04-12,2023-04-18,Delivered,Debit Card,6113.48,10.0,75.0,6.0,False,False,False
+O500490,C10532,2025-09-02,2025-02-14,Delivered,Credit Card,3326.95,30.0,99.0,,True,False,False
+O500491,C10184,2023-03-15,2023-03-23,Delivered,Debit Card,9334.65,0.0,0.0,8.0,False,False,False
+O500492,C10473,2023-08-14,2023-08-15,Delivered,Debit Card,1439.91,5.0,40.0,1.0,False,False,False
+O500493,C10076,2025-09-28,,Processing,Net Banking,2909.42,25.0,99.0,,False,False,True
+O500494,C10784,2025-10-13,2025-10-16,Delivered,UPI,1096.06,0.0,0.0,3.0,False,False,False
+O500495,C10164,2023-11-23,2023-11-29,Delivered,Debit Card,2461.35,0.0,0.0,6.0,False,False,False
+O500496,C10397,2023-06-12,,Processing,Credit Card,6368.63,15.0,50.0,,False,False,True
+O500497,C10209,2024-04-18,2024-04-24,Shipped,Net Banking,3522.33,5.0,0.0,6.0,False,False,False
+O500498,C10346,2025-01-17,2025-01-24,Delivered,Credit Card,1484.42,15.0,0.0,7.0,False,False,False
+O500499,C10322,2023-06-07,2023-06-10,Delivered,Debit Card,2072.45,25.0,120.0,3.0,False,False,False
+O500500,C10746,2025-04-18,2025-04-24,Delivered,UPI,10619.47,30.0,99.0,6.0,False,False,False
+O500501,C10115,2023-11-11,2023-11-18,Delivered,Debit Card,4767.76,0.0,75.0,7.0,False,False,False
+O500502,C11071,2025-07-20,2025-07-28,Returned,UPI,9550.71,5.0,0.0,8.0,False,False,False
+O500503,C10427,2025-07-21,,Processing,Debit Card,4720.31,0.0,0.0,,False,False,True
+O500504,C11111,2023-08-01,2023-01-12,Delivered,Net Banking,2914.56,15.0,75.0,,True,False,False
+O500505,C10456,2025-08-22,2025-08-25,Delivered,UPI,2504.29,5.0,50.0,3.0,False,False,False
+O500506,C11008,2023-03-09,,Cancelled,Debit Card,3801.95,5.0,0.0,,False,False,True
+O500507,C10428,2024-10-07,,Cancelled,Net Banking,1774.78,30.0,75.0,,False,False,True
+O500508,C10740,2025-07-13,2025-07-20,Delivered,Debit Card,972.73,5.0,75.0,7.0,False,False,False
+O500509,C11163,2023-07-30,,Cancelled,Debit Card,4080.55,0.0,50.0,,False,False,True
+O500510,C10099,2023-01-18,2023-01-23,Delivered,Cash on Delivery,2043.33,0.0,120.0,5.0,False,False,False
+O500511,C10101,2025-09-15,2025-09-22,Delivered,Wallet,6932.79,25.0,60.0,7.0,False,False,False
+O500512,C10677,2024-02-08,2024-02-14,Returned,Debit Card,4302.92,30.0,50.0,6.0,False,False,False
+O500513,C10344,2025-03-20,2025-03-26,Delivered,UPI,2035.16,5.0,0.0,6.0,False,False,False
+O500514,C11052,2024-03-06,,Processing,Net Banking,2484.72,10.0,99.0,,False,False,True
+O500515,C10225,2023-04-12,2023-04-20,Shipped,UPI,2842.36,10.0,99.0,8.0,False,False,False
+O500516,C10461,2024-09-04,2024-04-14,Delivered,Debit Card,2672.39,25.0,0.0,,True,False,False
+O500517,C10662,2024-12-07,,Pending,Wallet,3448.74,5.0,75.0,,False,False,True
+O500518,C10661,2023-08-24,2023-08-31,Delivered,UPI,905.17,30.0,99.0,7.0,False,False,False
+O500519,C10874,2024-03-03,,Cancelled,Wallet,1042.07,15.0,75.0,,False,False,True
+O500520,C11005,2024-02-06,2024-03-06,Delivered,UPI,2437.53,0.0,50.0,29.0,False,False,False
+O500521,C10377,2023-02-06,2023-02-14,Delivered,UPI,783.4,20.0,75.0,8.0,False,False,False
+O500522,C10645,2024-05-08,,Processing,Net Banking,1920.05,0.0,0.0,,False,False,True
+O500523,C10006,2023-09-13,,Processing,Cash,970.64,20.0,0.0,,False,False,True
+O500524,C10680,2025-09-17,2025-09-24,Shipped,UPI,6444.3,30.0,0.0,7.0,False,False,False
+O500525,C10267,2024-07-19,2024-07-27,Delivered,Debit Card,3800.55,0.0,50.0,8.0,False,False,False
+O500526,C10733,2024-06-09,2024-09-14,Delivered,Net Banking,670.55,0.0,99.0,97.0,False,False,False
+O500527,C10788,2024-08-16,,Cancelled,Net Banking,1019.94,0.0,40.0,,False,False,True
+O500528,C10260,2025-02-19,2025-02-27,Delivered,Wallet,1559.53,15.0,40.0,8.0,False,False,False
+O500529,C10019,2025-09-24,2025-10-02,Delivered,Wallet,1664.59,15.0,50.0,8.0,False,False,False
+O500530,C10758,2024-05-10,2024-05-15,Delivered,UPI,4450.59,15.0,50.0,5.0,False,False,False
+O500531,C11016,2024-04-27,,Processing,Cash on Delivery,10893.48,0.0,99.0,,False,False,True
+O500532,C10674,2025-02-18,2025-02-26,Delivered,Credit Card,1042.5,5.0,0.0,8.0,False,False,False
+O500533,C10727,2023-12-24,,Processing,Net Banking,1276.3,0.0,40.0,,False,False,True
+O500534,C10229,2023-11-28,,Cancelled,Cash on Delivery,3056.66,30.0,0.0,,False,False,True
+O500535,C10336,2025-07-06,2025-07-12,Returned,Credit Card,5843.6,30.0,40.0,6.0,False,False,False
+O500536,C10737,2024-06-12,2024-06-14,Delivered,Cash on Delivery,1585.58,30.0,0.0,2.0,False,False,False
+O500537,C11097,2025-05-27,,Pending,Credit Card,2573.75,5.0,120.0,,False,False,True
+O500538,C10945,2024-07-17,2024-07-20,Delivered,Debit Card,1514.89,5.0,75.0,3.0,False,False,False
+O500539,C11100,2024-11-11,2024-11-15,Delivered,Wallet,3399.97,25.0,99.0,4.0,False,False,False
+O500540,C11034,2023-07-22,2023-07-29,Shipped,Net Banking,3110.03,30.0,99.0,7.0,False,False,False
+O500541,C11191,2023-01-28,2023-02-05,Delivered,UPI,3325.17,30.0,50.0,8.0,False,False,False
+O500542,C10902,2025-03-21,2025-03-25,Delivered,Debit Card,6755.29,0.0,40.0,4.0,False,False,False
+O500543,C11042,2024-07-03,2024-07-09,Delivered,Credit Card,2095.47,15.0,120.0,6.0,False,False,False
+O500544,C10634,2025-03-19,2025-03-27,Delivered,Cash on Delivery,1030.52,10.0,50.0,8.0,False,False,False
+O500545,C11154,2024-09-01,,Cancelled,Debit Card,802.97,20.0,0.0,,False,False,True
+O500546,C10366,2024-07-30,2024-07-31,Delivered,Credit Card,1769.05,30.0,60.0,1.0,False,False,False
+O500547,C10212,2023-02-07,,Processing,Debit Card,9342.77,5.0,40.0,,False,False,True
+O500548,C11179,2024-01-19,2024-01-25,Returned,Wallet,7243.4,10.0,0.0,6.0,False,False,False
+O500549,C11199,2025-07-31,2025-08-07,Delivered,Wallet,3066.9,30.0,60.0,7.0,False,False,False
+O500550,C10176,2024-08-20,2024-08-28,Delivered,Credit Card,1737.69,30.0,75.0,8.0,False,False,False
+O500551,C10560,2025-03-11,2025-03-16,Shipped,Net Banking,3901.9,30.0,120.0,5.0,False,False,False
+O500552,C10312,2025-04-30,2025-05-03,Delivered,Credit Card,1443.31,0.0,50.0,3.0,False,False,False
+O500553,C10025,2024-07-20,,Processing,Wallet,298.92,30.0,75.0,,False,False,True
+O500554,C11058,2024-12-01,2024-09-12,Delivered,Debit Card,4727.85,5.0,0.0,,True,False,False
+O500555,C10393,2025-07-06,2025-07-08,Delivered,Debit Card,3895.77,0.0,0.0,2.0,False,False,False
+O500556,C10248,2025-07-14,2025-07-19,Delivered,UPI,1513.5,0.0,0.0,5.0,False,False,False
+O500557,C10774,2023-05-14,2023-05-15,Delivered,Wallet,304.09,30.0,40.0,1.0,False,False,False
+O500558,C10622,2024-03-24,2024-03-26,Delivered,Net Banking,1969.7,15.0,99.0,2.0,False,False,False
+O500559,C10781,2025-09-02,2025-09-04,Returned,UPI,3990.01,30.0,99.0,2.0,False,False,False
+O500560,C10219,2024-11-06,2024-10-11,Delivered,Net Banking,5788.26,0.0,60.0,,True,False,False
+O500561,C10626,2023-06-27,2023-06-28,Shipped,Wallet,1258.61,0.0,0.0,1.0,False,False,False
+O500562,C10537,2024-08-13,2024-08-15,Delivered,Cash on Delivery,739.61,10.0,60.0,2.0,False,False,False
+O500563,C10240,2023-02-09,2023-02-15,Delivered,Credit Card,457.95,0.0,0.0,6.0,False,False,False
+O500564,C11085,2024-06-11,2024-11-10,Delivered,Wallet,1120.13,0.0,0.0,152.0,False,False,False
+O500565,C11080,2023-07-03,2023-07-05,Delivered,Debit Card,1025.67,15.0,60.0,2.0,False,False,False
+O500566,C10383,2024-05-26,2024-05-31,Returned,Cash on Delivery,7774.8,0.0,60.0,5.0,False,False,False
+O500567,C10539,2024-11-03,2024-11-07,Delivered,Debit Card,1108.86,10.0,0.0,4.0,False,False,False
+O500568,C10066,2024-07-29,,Processing,Cash on Delivery,518.29,15.0,60.0,,False,False,True
+O500569,C10583,2024-10-12,2024-10-17,Shipped,Net Banking,3158.9,0.0,50.0,5.0,False,False,False
+O500570,C10528,2024-02-03,2024-03-07,Delivered,Wallet,671.43,0.0,120.0,33.0,False,False,False
+O500571,C11036,2023-03-27,2023-03-31,Delivered,Net Banking,5109.48,30.0,99.0,4.0,False,False,False
+O500572,C11180,2024-07-06,2024-07-14,Delivered,Debit Card,2760.64,30.0,75.0,8.0,False,False,False
+O500573,C11199,2023-04-15,2023-04-22,Delivered,Cash on Delivery,5805.13,20.0,0.0,7.0,False,False,False
+O500574,C10094,2023-10-13,2023-10-21,Delivered,Wallet,1500.99,0.0,40.0,8.0,False,False,False
+O500575,C10386,2025-01-22,,Processing,Cash on Delivery,2101.53,0.0,50.0,,False,False,True
+O500576,C10210,2025-07-20,2025-07-22,Returned,Credit Card,506.17,10.0,75.0,2.0,False,False,False
+O500577,C10036,2024-01-11,2024-01-13,Delivered,Debit Card,4931.68,20.0,0.0,2.0,False,False,False
+O500578,C10787,2023-12-06,2023-12-14,Delivered,UPI,10970.77,15.0,0.0,8.0,False,False,False
+O500579,C11078,2024-04-10,2024-04-12,Delivered,Wallet,6894.03,5.0,120.0,2.0,False,False,False
+O500580,C11008,2025-06-20,2025-06-25,Delivered,Cash on Delivery,3676.18,0.0,60.0,5.0,False,False,False
+O500581,C10489,2025-09-10,,Processing,Cash on Delivery,3016.21,5.0,99.0,,False,False,True
+O500582,C10729,2025-01-05,2025-05-02,Delivered,UPI,10481.39,25.0,50.0,117.0,False,False,False
+O500583,C10790,2024-08-11,2024-08-15,Delivered,Net Banking,2992.07,0.0,99.0,4.0,False,False,False
+O500584,C10244,2025-01-04,2025-11-01,Delivered,UPI,1852.01,5.0,75.0,301.0,False,False,False
+O500585,C10883,2023-01-27,2023-02-01,Delivered,UPI,5589.26,25.0,50.0,5.0,False,False,False
+O500586,C10065,2024-09-30,,Processing,Net Banking,3900.95,20.0,75.0,,False,False,True
+O500587,C10034,2023-02-08,2023-02-15,Delivered,Wallet,3022.53,10.0,120.0,7.0,False,False,False
+O500588,C10752,2025-06-04,,Cancelled,UPI,3373.09,0.0,99.0,,False,False,True
+O500589,C10024,2025-04-15,2025-04-16,Delivered,UPI,861.26,0.0,99.0,1.0,False,False,False
+O500590,C10063,2025-02-02,2025-07-02,Shipped,Net Banking,1005.92,5.0,120.0,150.0,False,False,False
+O500591,C10376,2023-08-27,2023-09-01,Delivered,UPI,5092.27,20.0,60.0,5.0,False,False,False
+O500592,C10155,2024-10-07,,Processing,Credit Card,906.0,15.0,50.0,,False,False,True
+O500593,C10978,2024-09-30,2024-10-03,Delivered,Net Banking,3218.21,5.0,0.0,3.0,False,False,False
+O500594,C11063,2023-01-02,2023-02-07,Delivered,UPI,1858.55,5.0,120.0,36.0,False,False,False
+O500595,C10268,2024-06-12,2024-06-13,Delivered,Debit Card,7385.24,0.0,99.0,1.0,False,False,False
+O500596,C10874,2024-04-13,2024-04-14,Delivered,Debit Card,14640.9,0.0,60.0,1.0,False,False,False
+O500597,C10832,2023-10-04,2023-10-08,Delivered,Net Banking,5487.22,0.0,0.0,4.0,False,False,False
+O500598,C11034,2023-11-12,2023-12-13,Delivered,UPI,14464.68,0.0,60.0,31.0,False,False,False
+O500599,C10484,2024-08-21,,Pending,Debit Card,9463.77,25.0,120.0,,False,False,True
+O500600,C10180,2025-03-10,2025-10-09,Delivered,UPI,1719.82,0.0,50.0,213.0,False,False,False
+O500601,C10031,2023-11-06,,Processing,Cash on Delivery,10646.66,20.0,99.0,,False,False,True
+O500602,C10104,2024-01-04,,Cancelled,Net Banking,2287.57,15.0,40.0,,False,False,True
+O500603,C10008,2023-02-21,2023-02-22,Delivered,Wallet,1023.61,15.0,0.0,1.0,False,False,False
+O500604,C10521,2024-11-21,2024-11-29,Delivered,Credit Card,3463.85,0.0,0.0,8.0,False,False,False
+O500605,C10419,2024-05-21,2024-05-26,Returned,Credit Card,11362.15,0.0,0.0,5.0,False,False,False
+O500606,C10616,2023-09-30,,Processing,Debit Card,2516.42,5.0,99.0,,False,False,True
+O500607,C10412,2025-07-31,2025-08-05,Delivered,Wallet,9624.18,0.0,40.0,5.0,False,False,False
+O500608,C10566,2025-09-27,2025-09-28,Delivered,Net Banking,762.73,25.0,40.0,1.0,False,False,False
+O500609,C11110,2025-06-07,,Cancelled,Debit Card,4616.04,20.0,0.0,,False,False,True
+O500610,C10370,2025-05-10,2025-08-10,Delivered,Cash on Delivery,524.78,20.0,99.0,92.0,False,False,False
+O500611,C10779,2023-10-05,,Cancelled,Credit Card,7523.0,5.0,75.0,,False,False,True
+O500612,C10174,2024-11-08,2024-08-13,Delivered,Credit Card,6358.61,30.0,50.0,,True,False,False
+O500613,C10495,2025-06-05,2025-06-12,Delivered,UPI,2777.48,15.0,75.0,7.0,False,False,False
+O500614,C10233,2025-10-25,2025-02-11,Delivered,Net Banking,784.5,25.0,75.0,,True,False,False
+O500615,C10973,2023-12-16,2023-12-24,Shipped,UPI,1182.9,25.0,50.0,8.0,False,False,False
+O500616,C10350,2024-07-02,2024-08-02,Delivered,Credit Card,1326.2,30.0,120.0,31.0,False,False,False
+O500617,C11008,2025-02-12,2025-02-17,Shipped,Credit Card,871.69,0.0,0.0,5.0,False,False,False
+O500618,C10738,2023-01-24,2023-01-25,Delivered,Debit Card,1001.6,20.0,99.0,1.0,False,False,False
+O500619,C10356,2023-11-25,2023-12-02,Delivered,Debit Card,2446.81,0.0,0.0,7.0,False,False,False
+O500620,C10970,2025-08-17,2025-08-20,Delivered,Net Banking,136.28,15.0,60.0,3.0,False,False,False
+O500621,C11147,2023-06-06,2023-06-08,Delivered,Cash on Delivery,10122.83,0.0,0.0,2.0,False,False,False
+O500622,C10022,2023-09-25,,Cancelled,Credit Card,3795.08,15.0,0.0,,False,False,True
+O500623,C10429,2025-10-17,2025-10-20,Delivered,Credit Card,372.73,15.0,50.0,3.0,False,False,False
+O500624,C10928,2024-07-26,2024-07-27,Delivered,UPI,2229.66,15.0,75.0,1.0,False,False,False
+O500625,C10610,2024-09-01,2024-09-07,Delivered,Credit Card,15308.6,15.0,0.0,6.0,False,False,False
+O500626,C10859,2025-08-13,,Cancelled,Cash on Delivery,1487.51,10.0,60.0,,False,False,True
+O500627,C10513,2024-09-17,2024-09-25,Delivered,Wallet,2567.96,25.0,0.0,8.0,False,False,False
+O500628,C11040,2023-05-09,2023-09-09,Delivered,UPI,837.63,25.0,0.0,123.0,False,False,False
+O500629,C10618,2025-01-11,,Cancelled,Cash on Delivery,4489.24,0.0,60.0,,False,False,True
+O500630,C10966,2024-06-07,,Processing,Debit Card,2618.26,25.0,120.0,,False,False,True
+O500631,C10644,2024-10-04,2024-10-05,Returned,Cash on Delivery,6372.89,0.0,40.0,1.0,False,False,False
+O500632,C10324,2024-07-20,2024-07-27,Delivered,Net Banking,555.05,0.0,0.0,7.0,False,False,False
+O500633,C10557,2023-11-24,2023-11-28,Delivered,Wallet,9248.28,5.0,120.0,4.0,False,False,False
+O500634,C10108,2024-07-21,2024-07-28,Delivered,Debit Card,5593.27,0.0,75.0,7.0,False,False,False
+O500635,C10485,2025-10-22,,Processing,Debit Card,1344.99,0.0,40.0,,False,False,True
+O500636,C10689,2024-04-10,2024-10-07,Delivered,Credit Card,8911.8,5.0,0.0,180.0,False,False,False
+O500637,C10804,2025-01-03,2025-01-08,Delivered,UPI,1286.59,10.0,99.0,5.0,False,False,False
+O500638,C10292,2024-03-16,2024-03-23,Delivered,Net Banking,7845.82,20.0,40.0,7.0,False,False,False
+O500639,C10566,2023-04-10,2023-04-15,Returned,Net Banking,11792.67,0.0,60.0,5.0,False,False,False
+O500640,C10684,2024-04-13,2024-04-21,Delivered,Cash on Delivery,848.56,0.0,40.0,8.0,False,False,False
+O500641,C10257,2023-05-22,2023-05-23,Delivered,Credit Card,1089.41,25.0,60.0,1.0,False,False,False
+O500642,C10692,2024-05-12,,Pending,Net Banking,1978.37,0.0,0.0,,False,False,True
+O500643,C11112,2025-09-02,2025-09-09,Delivered,UPI,2486.01,30.0,120.0,7.0,False,False,False
+O500644,C10914,2025-09-01,2025-02-09,Delivered,Debit Card,1107.62,15.0,99.0,,True,False,False
+O500645,C10522,2024-09-14,2024-09-21,Shipped,Cash on Delivery,3688.63,15.0,99.0,7.0,False,False,False
+O500646,C10435,2025-07-08,,Processing,Debit Card,1865.67,20.0,75.0,,False,False,True
+O500647,C10220,2024-01-01,2024-01-06,Shipped,Debit Card,613.46,0.0,50.0,5.0,False,False,False
+O500648,C10600,2023-12-30,,Cancelled,Credit Card,211.71,10.0,0.0,,False,False,True
+O500649,C11015,2024-12-01,2024-12-07,Delivered,Credit Card,1333.39,30.0,40.0,6.0,False,False,False
+O500650,C10011,2023-11-10,2023-12-11,Delivered,Net Banking,3615.14,0.0,60.0,31.0,False,False,False
+O500651,C10434,2024-12-20,2024-12-22,Delivered,Cash on Delivery,3974.61,20.0,75.0,2.0,False,False,False
+O500652,C11095,2024-11-06,,Processing,Cash on Delivery,831.74,5.0,40.0,,False,False,True
+O500653,C10976,2024-10-19,2024-10-20,Delivered,Cash on Delivery,589.72,30.0,0.0,1.0,False,False,False
+O500654,C10178,2025-04-17,2025-04-19,Delivered,UPI,2270.42,20.0,60.0,2.0,False,False,False
+O500655,C10949,2023-04-06,2023-04-14,Delivered,UPI,6626.03,25.0,40.0,8.0,False,False,False
+O500656,C10622,2025-02-13,2025-02-21,Delivered,Credit Card,6039.57,10.0,75.0,8.0,False,False,False
+O500657,C10489,2025-05-06,2025-05-11,Returned,Net Banking,2114.58,15.0,99.0,5.0,False,False,False
+O500658,C10868,2023-05-19,2023-05-24,Delivered,Debit Card,0.0,5.0,120.0,5.0,False,True,False
+O500659,C11191,2025-05-16,2025-05-17,Delivered,Debit Card,2877.82,25.0,50.0,1.0,False,False,False
+O500660,C11102,2025-05-09,2025-09-13,Delivered,UPI,1250000.0,0.0,99.0,127.0,False,False,False
+O500661,C10515,2024-07-14,2024-07-16,Delivered,UPI,0.0,15.0,50.0,2.0,False,True,False
+O500662,C10949,2024-03-20,,Processing,UPI,3732.0,0.0,60.0,,False,False,True
+O500663,C10016,2025-07-21,,Processing,Wallet,1415.88,0.0,50.0,,False,False,True
+O500664,C11079,2023-07-10,2023-10-14,Delivered,Net Banking,1513.12,0.0,75.0,96.0,False,False,False
+O500665,C10037,2025-09-05,2025-09-11,Delivered,Cash on Delivery,2334.22,25.0,75.0,6.0,False,False,False
+O500666,C11024,2024-09-18,,Cancelled,Wallet,734.86,25.0,75.0,,False,False,True
+O500667,C10794,2025-06-25,,Pending,Debit Card,3258.76,0.0,50.0,,False,False,True
+O500668,C10047,2024-01-29,2024-01-30,Delivered,UPI,1206.43,25.0,60.0,1.0,False,False,False
+O500669,C10793,2023-10-31,2023-11-02,Delivered,Cash on Delivery,782.31,20.0,40.0,2.0,False,False,False
+O500670,C10300,2025-09-02,2025-02-17,Delivered,UPI,1659.96,15.0,60.0,,True,False,False
+O500671,C10637,2024-10-06,2024-10-08,Delivered,Debit Card,2804.42,25.0,0.0,2.0,False,False,False
+O500672,C10938,2025-02-27,2025-03-02,Delivered,Credit Card,8414.39,15.0,50.0,3.0,False,False,False
+O500673,C10002,2024-03-24,2024-03-25,Delivered,UPI,8107.93,0.0,75.0,1.0,False,False,False
+O500674,C10084,2025-06-10,2025-06-13,Delivered,Cash on Delivery,5246.4,0.0,60.0,3.0,False,False,False
+O500675,C10726,2025-02-20,2025-02-28,Shipped,Credit Card,15313.12,0.0,99.0,8.0,False,False,False
+O500676,C10295,2025-07-04,2025-04-15,Delivered,Debit Card,4201.31,0.0,0.0,,True,False,False
+O500677,C11003,2024-04-10,2024-04-17,Delivered,Net Banking,3884.2,20.0,75.0,7.0,False,False,False
+O500678,C10705,2025-10-27,2025-11-02,Delivered,UPI,2493.96,0.0,0.0,6.0,False,False,False
+O500679,C10959,2023-01-06,,Pending,UPI,2673.26,25.0,50.0,,False,False,True
+O500680,C10661,2023-08-29,2023-01-09,Delivered,Net Banking,2812.73,20.0,99.0,,True,False,False
+O500681,C11130,2024-03-29,2024-03-30,Delivered,Cash on Delivery,2230.35,20.0,0.0,1.0,False,False,False
+O500682,C10576,2024-07-27,2024-01-08,Delivered,UPI,887.18,5.0,50.0,,True,False,False
+O500683,C11198,2023-06-19,2023-06-23,Delivered,Cash on Delivery,3491.71,30.0,120.0,4.0,False,False,False
+O500684,C10616,2024-03-19,2024-03-26,Delivered,Net Banking,400.63,20.0,60.0,7.0,False,False,False
+O500685,C10011,2025-08-26,2025-08-31,Shipped,UPI,661.98,0.0,99.0,5.0,False,False,False
+O500686,C10458,2025-04-20,2025-04-21,Delivered,Net Banking,4207.74,0.0,75.0,1.0,False,False,False
+O500687,C10039,2023-02-14,2023-02-17,Shipped,Credit Card,1514.68,0.0,50.0,3.0,False,False,False
+O500688,C10565,2024-12-19,2024-12-24,Delivered,Wallet,3507.25,0.0,60.0,5.0,False,False,False
+O500689,C10658,2023-07-04,,Processing,Debit Card,1724.92,30.0,50.0,,False,False,True
+O500690,C11143,2024-05-16,2024-05-21,Delivered,Wallet,7860.45,0.0,50.0,5.0,False,False,False
+O500691,C10426,2023-10-11,2023-10-15,Delivered,Credit Card,6233.46,15.0,75.0,4.0,False,False,False
+O500692,C10752,2025-01-08,,Processing,Credit Card,945.99,15.0,99.0,,False,False,True
+O500693,C10058,2024-04-27,2024-04-29,Delivered,Cash on Delivery,12126.17,20.0,99.0,2.0,False,False,False
+O500694,C10111,2024-03-05,,Processing,Cash on Delivery,8132.22,0.0,60.0,,False,False,True
+O500695,C10834,2024-08-15,2024-08-16,Delivered,Wallet,3108.74,10.0,99.0,1.0,False,False,False
+O500696,C10254,2025-08-23,2025-08-30,Delivered,UPI,4393.78,15.0,75.0,7.0,False,False,False
+O500697,C10875,2024-10-30,2024-11-03,Delivered,UPI,967.67,0.0,50.0,4.0,False,False,False
+O500698,C10370,2024-04-14,2024-04-20,Delivered,Wallet,3857.5,25.0,99.0,6.0,False,False,False
+O500699,C10935,2025-03-26,2025-04-03,Returned,Wallet,2912.93,20.0,99.0,8.0,False,False,False
+O500700,C10571,2023-12-22,2023-12-30,Delivered,Debit Card,3828.62,0.0,0.0,8.0,False,False,False
+O500701,C10407,2023-02-05,2023-02-08,Returned,Cash on Delivery,1936.77,15.0,0.0,3.0,False,False,False
+O500702,C10851,2024-05-24,,Processing,Credit Card,1922.34,0.0,40.0,,False,False,True
+O500703,C11040,2024-04-09,2024-04-17,Delivered,Net Banking,2234.96,0.0,0.0,8.0,False,False,False
+O500704,C10967,2024-03-24,2024-03-28,Delivered,Wallet,11689.53,5.0,99.0,4.0,False,False,False
+O500705,C11024,2024-09-01,2024-09-07,Delivered,Wallet,9124.16,10.0,60.0,6.0,False,False,False
+O500706,C10352,2024-12-05,2024-05-13,Delivered,Debit Card,1628.39,30.0,0.0,,True,False,False
+O500707,Unknown,2023-09-16,,Pending,Credit Card,6816.41,30.0,60.0,,False,False,True
+O500708,C10666,2025-01-20,2025-01-27,Delivered,UPI,5734.63,30.0,120.0,7.0,False,False,False
+O500709,C10348,2025-09-10,2025-09-18,Delivered,Net Banking,4903.63,5.0,40.0,8.0,False,False,False
+O500710,C10938,2024-04-02,2024-07-04,Delivered,Wallet,6170.19,20.0,50.0,93.0,False,False,False
+O500711,C10256,2023-05-10,2023-05-18,In Transit,UPI,3317.6,10.0,0.0,8.0,False,False,False
+O500712,C11099,2024-03-06,,Pending,UPI,3136.34,15.0,60.0,,False,False,True
+O500713,C10632,2025-10-28,2025-10-29,Delivered,Cash on Delivery,2977.75,0.0,60.0,1.0,False,False,False
+O500714,C10955,2023-03-16,2023-03-17,Delivered,Debit Card,2581.47,10.0,0.0,1.0,False,False,False
+O500715,C10594,2023-09-28,2023-10-06,Delivered,Credit Card,2053.05,15.0,0.0,8.0,False,False,False
+O500716,C10616,2025-02-26,2025-02-27,Delivered,Wallet,3489.46,0.0,0.0,1.0,False,False,False
+O500717,C11042,2023-10-03,2023-10-08,Shipped,Cash on Delivery,1796.52,15.0,0.0,5.0,False,False,False
+O500718,C10393,2025-09-24,2025-02-10,Delivered,Wallet,4021.17,5.0,75.0,,True,False,False
+O500719,C10267,2024-08-31,2024-09-04,Shipped,Wallet,1293.13,15.0,75.0,4.0,False,False,False
+O500720,C10040,2024-12-26,2024-12-28,Delivered,UPI,1096.57,0.0,75.0,2.0,False,False,False
+O500721,C10168,2025-07-13,2025-07-19,Returned,Debit Card,1920.77,0.0,0.0,6.0,False,False,False
+O500722,C11197,2025-06-19,2025-06-22,Delivered,Net Banking,3485.23,25.0,99.0,3.0,False,False,False
+O500723,C10660,2025-07-09,,Pending,Debit Card,535.8,10.0,99.0,,False,False,True
+O500724,C10850,2023-11-29,2023-01-12,Returned,Wallet,3198.05,25.0,120.0,,True,False,False
+O500725,C10952,2024-01-28,2024-01-30,Shipped,Debit Card,238.83,5.0,0.0,2.0,False,False,False
+O500726,C10205,2025-07-31,2025-08-01,Delivered,UPI,887.44,25.0,99.0,1.0,False,False,False
+O500727,C10648,2024-03-18,2024-03-26,Delivered,Debit Card,2187.13,20.0,0.0,8.0,False,False,False
+O500728,C10800,2023-04-02,2023-10-04,Delivered,Debit Card,1620.79,30.0,75.0,185.0,False,False,False
+O500729,C10827,2024-02-18,2024-02-19,Shipped,Wallet,2007.3,5.0,99.0,1.0,False,False,False
+O500730,C10817,2025-10-19,,Cancelled,Net Banking,3315.05,10.0,40.0,,False,False,True
+O500731,C10939,2023-07-22,2023-07-26,Delivered,Net Banking,2932.2,5.0,75.0,4.0,False,False,False
+O500732,C10365,2025-07-18,2025-07-24,Delivered,Wallet,885.65,20.0,60.0,6.0,False,False,False
+O500733,C11146,2024-03-19,2024-03-22,Delivered,Debit Card,2774.79,0.0,60.0,3.0,False,False,False
+O500734,C11186,2025-10-27,,Processing,Net Banking,4316.24,10.0,0.0,,False,False,True
+O500735,C11163,2023-04-10,2023-04-13,Delivered,Cash on Delivery,3732.39,15.0,40.0,3.0,False,False,False
+O500736,C10006,2024-04-01,2024-05-01,Delivered,Wallet,2385.8,10.0,99.0,30.0,False,False,False
+O500737,C11152,2023-04-24,2023-04-27,Delivered,Credit Card,3693.25,10.0,60.0,3.0,False,False,False
+O500738,C10033,2023-07-02,2023-02-15,Delivered,Credit Card,4229.46,5.0,50.0,,True,False,False
+O500739,C11039,2024-09-30,,Cancelled,Net Banking,2999.16,0.0,75.0,,False,False,True
+O500740,C10845,2025-03-13,2025-03-19,Delivered,Wallet,1381.66,30.0,60.0,6.0,False,False,False
+O500741,C10017,2024-08-25,2024-08-26,Delivered,Net Banking,1099.82,20.0,99.0,1.0,False,False,False
+O500742,C10167,2023-05-18,,Processing,Debit Card,415.69,10.0,75.0,,False,False,True
+O500743,C10246,2024-01-09,2024-01-11,Delivered,Credit Card,691.84,25.0,40.0,2.0,False,False,False
+O500744,C10757,2025-12-02,2025-02-20,Delivered,Net Banking,1146.59,0.0,99.0,,True,False,False
+O500745,C10893,2023-07-21,2023-07-25,Delivered,Wallet,1644.17,30.0,0.0,4.0,False,False,False
+O500746,C11108,2024-01-25,2024-01-27,Delivered,Cash on Delivery,287.76,30.0,120.0,2.0,False,False,False
+O500747,C10504,2025-07-15,2025-07-16,Delivered,UPI,1795.05,30.0,120.0,1.0,False,False,False
+O500748,C10270,2023-03-06,2023-06-06,Shipped,Wallet,1948.34,0.0,60.0,92.0,False,False,False
+O500749,C10524,2023-02-06,2023-02-13,Returned,Net Banking,1062.67,10.0,40.0,7.0,False,False,False
+O500750,C10398,2023-11-23,2023-11-24,Delivered,UPI,2554.25,0.0,60.0,1.0,False,False,False
+O500751,C10318,2025-01-19,2025-01-21,Delivered,Wallet,783.98,30.0,75.0,2.0,False,False,False
+O500752,C10100,2023-04-11,2023-04-13,Delivered,Net Banking,12361.13,5.0,75.0,2.0,False,False,False
+O500753,C10163,2023-11-13,,Pending,Wallet,11535.64,0.0,60.0,,False,False,True
+O500754,C10761,2024-05-27,2024-05-31,Delivered,Wallet,1414.07,5.0,0.0,4.0,False,False,False
+O500755,C10462,2024-05-11,,Cancelled,Cash on Delivery,4080.57,0.0,99.0,,False,False,True
+O500756,Unknown,2023-10-17,2023-10-18,Delivered,Cash on Delivery,1250000.0,0.0,50.0,1.0,False,False,False
+O500757,C10423,2025-04-12,2025-04-15,Delivered,Net Banking,917.18,30.0,75.0,3.0,False,False,False
+O500758,C10673,2023-09-22,2023-09-27,Delivered,Credit Card,1659.34,0.0,0.0,5.0,False,False,False
+O500759,C11013,2025-10-09,,Pending,Credit Card,1114.4,0.0,120.0,,False,False,True
+O500760,C10327,2023-05-01,2023-06-01,Delivered,Credit Card,2437.67,25.0,0.0,31.0,False,False,False
+O500761,C10963,2025-03-29,2025-04-06,Delivered,Cash on Delivery,4486.39,30.0,60.0,8.0,False,False,False
+O500762,C10289,2025-02-26,2025-02-28,Delivered,Cash,4197.72,25.0,40.0,2.0,False,False,False
+O500763,C10391,2023-03-02,2023-03-05,Delivered,Cash on Delivery,2522.42,30.0,50.0,3.0,False,False,False
+O500764,C10653,2025-03-31,2025-06-04,Delivered,Credit Card,6369.08,15.0,40.0,65.0,False,False,False
+O500765,C11184,2024-08-16,2024-08-22,Delivered,Net Banking,414.42,0.0,99.0,6.0,False,False,False
+O500766,C10725,2024-07-24,2024-07-25,Delivered,Debit Card,2237.23,15.0,60.0,1.0,False,False,False
+O500767,C10468,2025-01-21,2025-01-26,Delivered,UPI,702.89,0.0,0.0,5.0,False,False,False
+O500768,C10177,2024-08-23,2024-08-31,Shipped,UPI,443.88,15.0,0.0,8.0,False,False,False
+O500769,C10511,2024-12-27,2025-01-04,Returned,Net Banking,3938.36,0.0,60.0,8.0,False,False,False
+O500770,C10382,2025-02-13,,Cancelled,Wallet,1185.32,5.0,0.0,,False,False,True
+O500771,C10810,2023-07-29,2023-07-30,Delivered,Debit Card,1011.5,0.0,120.0,1.0,False,False,False
+O500772,C10670,2025-09-28,,Processing,Net Banking,402.07,20.0,40.0,,False,False,True
+O500773,C11130,2023-07-05,2023-07-08,Delivered,Debit Card,7980.32,0.0,50.0,3.0,False,False,False
+O500774,C10135,2025-10-05,2025-05-11,Delivered,Debit Card,755.13,10.0,60.0,,True,False,False
+O500775,C10295,2025-03-16,,Cancelled,Debit Card,1695.95,0.0,40.0,,False,False,True
+O500776,C10795,2024-07-25,2024-01-08,Shipped,Cash on Delivery,810.01,10.0,75.0,,True,False,False
+O500777,C10889,2024-01-13,2024-01-14,Delivered,Wallet,17010.59,0.0,0.0,1.0,False,False,False
+O500778,C10908,2025-03-09,2025-10-09,Delivered,Wallet,2378.74,5.0,0.0,214.0,False,False,False
+O500779,C10034,2023-12-19,,Cancelled,Debit Card,4752.71,10.0,120.0,,False,False,True
+O500780,C10817,2024-11-16,2024-11-24,Delivered,Credit Card,1186.26,20.0,99.0,8.0,False,False,False
+O500781,C10421,2025-02-27,2025-03-06,Delivered,Credit Card,2442.78,5.0,120.0,7.0,False,False,False
+O500782,C10978,2024-01-09,2024-01-13,Delivered,Cash on Delivery,919.32,0.0,60.0,4.0,False,False,False
+O500783,C10912,2024-09-18,2024-09-21,Delivered,Wallet,2323.34,0.0,99.0,3.0,False,False,False
+O500784,C10854,2025-02-01,2025-08-01,Delivered,UPI,1548.93,0.0,99.0,181.0,False,False,False
+O500785,C10512,2024-08-02,2024-08-10,Delivered,Debit Card,2539.08,0.0,120.0,8.0,False,False,False
+O500786,C10141,2024-12-21,2024-12-24,Delivered,Cash on Delivery,1323.48,25.0,0.0,3.0,False,False,False
+O500787,C10898,2024-11-23,2024-11-26,Delivered,Credit Card,708.97,15.0,120.0,3.0,False,False,False
+O500788,C10074,2025-09-19,2025-09-24,Delivered,UPI,3059.55,15.0,120.0,5.0,False,False,False
+O500789,C10735,2023-01-04,2023-01-06,Delivered,Net Banking,4794.15,0.0,120.0,2.0,False,False,False
+O500790,C10633,2024-06-21,2024-06-27,Delivered,Cash on Delivery,877.54,0.0,50.0,6.0,False,False,False
+O500791,C10763,2024-10-12,2024-10-13,Returned,UPI,852.28,10.0,75.0,1.0,False,False,False
+O500792,C11121,2024-04-20,2024-04-25,Delivered,Debit Card,2117.34,0.0,40.0,5.0,False,False,False
+O500793,C10921,2023-06-25,2023-07-01,Delivered,Wallet,844.26,20.0,75.0,6.0,False,False,False
+O500794,C10967,2023-01-18,2023-01-24,Delivered,Wallet,4299.51,0.0,0.0,6.0,False,False,False
+O500795,C10424,2024-07-23,2024-07-30,Delivered,Cash on Delivery,1411.87,0.0,75.0,7.0,False,False,False
+O500796,C10213,2024-07-16,2024-07-24,Delivered,Wallet,2364.48,0.0,0.0,8.0,False,False,False
+O500797,C10620,2024-02-22,2024-02-24,Shipped,UPI,900.71,0.0,120.0,2.0,False,False,False
+O500798,C10393,2023-11-10,2023-10-13,Delivered,UPI,3462.45,15.0,120.0,,True,False,False
+O500799,C11135,2025-07-24,2025-08-01,Shipped,Debit Card,761.85,10.0,0.0,8.0,False,False,False
+O500800,C10835,2025-03-18,2025-03-25,Delivered,Credit Card,3397.34,10.0,75.0,7.0,False,False,False
+O500801,C10760,2024-01-29,2024-02-01,Delivered,Wallet,3903.52,15.0,99.0,3.0,False,False,False
+O500802,C10254,2025-07-25,2025-07-30,Delivered,Net Banking,1051.59,0.0,60.0,5.0,False,False,False
+O500803,C10187,2023-07-23,2023-07-27,Delivered,Cash on Delivery,3355.5,0.0,120.0,4.0,False,False,False
+O500804,C11014,2025-07-07,2025-07-12,Delivered,Debit Card,4304.51,20.0,40.0,5.0,False,False,False
+O500805,C10796,2023-10-14,,Processing,Credit Card,1202.94,0.0,75.0,,False,False,True
+O500806,C11179,2023-04-03,,Cancelled,Debit Card,1593.56,10.0,120.0,,False,False,True
+O500807,C10147,2023-07-22,2023-07-25,Returned,Cash on Delivery,1372.04,0.0,50.0,3.0,False,False,False
+O500808,C10676,2024-04-10,2024-08-10,Shipped,UPI,1184.44,20.0,75.0,122.0,False,False,False
+O500809,C10033,2023-02-20,2023-02-26,Delivered,UPI,6491.5,15.0,0.0,6.0,False,False,False
+O500810,C10528,2024-11-16,2024-11-20,Delivered,Debit Card,2549.14,20.0,0.0,4.0,False,False,False
+O500811,C10577,2024-03-10,2024-03-15,Shipped,Other,5364.88,0.0,0.0,5.0,False,False,False
+O500812,C10617,2023-09-29,2023-07-10,Delivered,Cash on Delivery,4125.45,0.0,99.0,,True,False,False
+O500813,C10868,2024-02-14,2024-02-15,Returned,Debit Card,875.37,25.0,75.0,1.0,False,False,False
+O500814,C10803,2024-06-19,2024-06-27,Delivered,Debit Card,331.06,15.0,0.0,8.0,False,False,False
+O500815,C10913,2025-03-07,2025-03-13,Delivered,Credit Card,710.09,10.0,120.0,6.0,False,False,False
+O500816,C10824,2024-08-09,2024-09-16,Delivered,UPI,4338.17,30.0,40.0,38.0,False,False,False
+O500817,C10858,2024-07-13,2024-07-21,Returned,Credit Card,4574.28,0.0,99.0,8.0,False,False,False
+O500818,C10366,2023-10-02,2023-08-10,Delivered,UPI,3802.55,0.0,120.0,,True,False,False
+O500819,C10897,2025-02-07,2025-02-15,Delivered,Cash on Delivery,1540.63,5.0,75.0,8.0,False,False,False
+O500820,C10182,2024-12-03,2024-03-19,Delivered,Net Banking,2593.23,0.0,99.0,,True,False,False
+O500821,C10321,2024-05-07,,Processing,Wallet,6602.41,0.0,40.0,,False,False,True
+O500822,C10866,2025-05-22,2025-05-30,Delivered,Cash on Delivery,3466.28,5.0,75.0,8.0,False,False,False
+O500823,C11117,2023-08-26,2023-08-27,Delivered,Cash on Delivery,644.95,0.0,99.0,1.0,False,False,False
+O500824,C10367,2023-07-24,2023-07-28,Delivered,Debit Card,1905.71,0.0,0.0,4.0,False,False,False
+O500825,C10454,2023-05-19,2023-05-26,Delivered,Credit Card,1213.11,10.0,40.0,7.0,False,False,False
+O500826,C10322,2025-10-29,2025-05-11,Delivered,Debit Card,1076.7,10.0,60.0,,True,False,False
+O500827,C10391,2024-10-31,2024-11-03,Delivered,Wallet,1677.97,0.0,0.0,3.0,False,False,False
+O500828,C10117,2024-10-25,,Cancelled,Credit Card,768.51,15.0,99.0,,False,False,True
+O500829,C10666,2023-06-08,,Processing,Wallet,4354.92,0.0,75.0,,False,False,True
+O500830,C10870,2025-10-28,2025-01-11,Delivered,Net Banking,2648.86,20.0,75.0,,True,False,False
+O500831,C10812,2025-02-20,,Pending,Cash on Delivery,9848.87,15.0,0.0,,False,False,True
+O500832,C10430,2024-07-23,,Processing,Credit Card,1811.05,0.0,40.0,,False,False,True
+O500833,C10576,2024-03-13,2024-03-21,Delivered,Wallet,4535.06,15.0,40.0,8.0,False,False,False
+O500834,C11113,2025-07-03,2025-03-14,Delivered,Debit Card,16998.99,0.0,120.0,,True,False,False
+O500835,C10562,2024-04-03,,Pending,Wallet,4403.39,10.0,0.0,,False,False,True
+O500836,C10057,2025-05-11,,Delivered,Cash on Delivery,1000.35,0.0,0.0,,False,False,True
+O500837,C11052,2024-03-01,2024-03-09,Delivered,Credit Card,2766.16,15.0,40.0,8.0,False,False,False
+O500838,C11100,2023-07-11,2023-10-11,Delivered,Credit Card,3037.88,30.0,0.0,92.0,False,False,False
+O500839,C10305,2023-05-14,2023-05-15,Shipped,Net Banking,775.29,10.0,0.0,1.0,False,False,False
+O500840,C10420,2025-07-31,2025-08-05,Delivered,Net Banking,1274.81,0.0,50.0,5.0,False,False,False
+O500841,Unknown,2025-05-25,2025-05-27,Delivered,Net Banking,2759.84,5.0,120.0,2.0,False,False,False
+O500842,C10851,2023-04-28,,Processing,Credit Card,1273.24,0.0,0.0,,False,False,True
+O500843,C10785,2023-07-05,,Processing,Cash on Delivery,887.2,0.0,60.0,,False,False,True
+O500844,Unknown,2025-02-27,2025-03-03,Returned,Debit Card,3185.98,5.0,0.0,4.0,False,False,False
+O500845,C10603,2023-12-27,2023-12-29,Delivered,Wallet,5152.66,10.0,0.0,2.0,False,False,False
+O500846,C10093,2024-02-06,2024-06-03,Delivered,Wallet,5749.99,30.0,40.0,118.0,False,False,False
+O500847,C10167,2023-12-05,2023-12-08,Returned,UPI,376.14,10.0,75.0,3.0,False,False,False
+O500848,C11048,2025-09-02,2025-03-09,Delivered,UPI,522.66,25.0,60.0,,True,False,False
+O500849,C10616,2025-05-22,2025-05-25,Shipped,Debit Card,1199.01,0.0,40.0,3.0,False,False,False
+O500850,C10402,2024-06-26,,Processing,UPI,1290.89,5.0,0.0,,False,False,True
+O500851,C10809,2025-02-03,2025-02-04,Returned,UPI,11942.49,0.0,99.0,1.0,False,False,False
+O500852,C10264,2025-03-02,2025-02-05,Delivered,Credit Card,11287.34,15.0,0.0,,True,False,False
+O500853,C10396,2024-03-09,,Cancelled,UPI,74.19,15.0,0.0,,False,False,True
+O500854,C10196,2024-01-13,2024-01-14,Delivered,Cash on Delivery,2315.75,20.0,60.0,1.0,False,False,False
+O500855,C11059,2023-07-06,2023-07-08,Delivered,Cash on Delivery,770.9,15.0,99.0,2.0,False,False,False
+O500856,C10402,2023-12-22,2023-12-23,Delivered,Net Banking,1494.54,0.0,60.0,1.0,False,False,False
+O500857,C10634,2023-05-23,2023-05-30,Returned,Debit Card,1303.91,10.0,50.0,7.0,False,False,False
+O500858,C10916,2024-12-31,2025-01-05,Shipped,Debit Card,1233.79,20.0,40.0,5.0,False,False,False
+O500859,C10511,2024-07-29,2024-08-04,Returned,Debit Card,2099.03,0.0,60.0,6.0,False,False,False
+O500860,C11053,2023-08-27,2023-03-09,Delivered,Net Banking,0.0,0.0,0.0,,True,True,False
+O500861,C10529,2025-07-04,2025-07-12,Delivered,UPI,2104.55,30.0,50.0,8.0,False,False,False
+O500862,C10299,2023-10-31,,Processing,Net Banking,958.3,30.0,60.0,,False,False,True
+O500863,C11147,2023-01-11,2023-01-16,Returned,UPI,1262.81,20.0,75.0,5.0,False,False,False
+O500864,C10693,2024-12-07,2024-07-19,Delivered,Credit Card,803.76,20.0,99.0,,True,False,False
+O500865,C11004,2025-03-20,2025-03-27,Delivered,Debit Card,4734.21,15.0,75.0,7.0,False,False,False
+O500866,C10593,2025-03-09,2025-03-13,Delivered,Wallet,2243.72,25.0,0.0,4.0,False,False,False
+O500867,C10463,2024-04-26,2024-05-04,Returned,UPI,1535.69,20.0,0.0,8.0,False,False,False
+O500868,C10116,2024-10-21,2024-10-24,Delivered,Net Banking,5014.18,10.0,0.0,3.0,False,False,False
+O500869,C10651,2023-07-26,2023-08-02,Shipped,Debit Card,1824.46,30.0,99.0,7.0,False,False,False
+O500870,C11190,2023-07-23,2023-07-30,Delivered,Cash on Delivery,4289.76,0.0,50.0,7.0,False,False,False
+O500871,C10952,2023-09-10,2023-09-13,Delivered,Credit Card,1189.81,0.0,50.0,3.0,False,False,False
+O500872,C10102,2025-07-30,,Processing,Credit Card,2440.54,25.0,99.0,,False,False,True
+O500873,C10070,2023-03-04,2023-03-06,Returned,Net Banking,1434.13,0.0,50.0,2.0,False,False,False
+O500874,C10251,2024-02-04,2024-08-04,Returned,Net Banking,4219.24,15.0,50.0,182.0,False,False,False
+O500875,C10875,2023-08-01,,Processing,Credit Card,2853.39,0.0,99.0,,False,False,True
+O500876,C11170,2023-05-27,,Pending,Debit Card,717.09,25.0,75.0,,False,False,True
+O500877,C10974,2025-01-20,,Cancelled,Debit Card,5298.85,15.0,99.0,,False,False,True
+O500878,C10102,2025-02-06,2025-12-02,Delivered,UPI,1957.22,0.0,0.0,299.0,False,False,False
+O500879,C11130,2024-03-09,,Processing,Debit Card,1865.4,0.0,0.0,,False,False,True
+O500880,C10983,2025-02-28,2025-06-03,Shipped,Debit Card,1294.25,15.0,99.0,95.0,False,False,False
+O500881,C10934,2024-04-27,2024-04-29,Delivered,Net Banking,721.08,0.0,120.0,2.0,False,False,False
+O500882,C10447,2023-02-16,2023-02-18,Shipped,UPI,1826.42,10.0,0.0,2.0,False,False,False
+O500883,C10817,2024-04-05,2024-04-09,Delivered,Credit Card,6526.82,15.0,0.0,4.0,False,False,False
+O500884,C10611,2025-04-03,2025-06-04,Delivered,Debit Card,-250.0,10.0,50.0,62.0,False,True,False
+O500885,C10143,2023-10-02,2023-10-08,Delivered,Cash on Delivery,1252.63,0.0,75.0,6.0,False,False,False
+O500886,C10293,2024-07-04,2024-04-13,Delivered,Credit Card,1544.49,15.0,60.0,,True,False,False
+O500887,C10232,2025-09-17,2025-09-20,Returned,UPI,4847.86,30.0,40.0,3.0,False,False,False
+O500888,C10352,2023-11-22,2023-11-23,Delivered,UPI,1950.59,15.0,0.0,1.0,False,False,False
+O500889,C10475,2024-06-07,,Cancelled,Credit Card,1798.61,20.0,60.0,,False,False,True
+O500890,C10711,2024-11-04,2024-12-11,Delivered,Net Banking,10398.07,0.0,40.0,37.0,False,False,False
+O500891,C10312,2023-05-31,2023-06-06,Delivered,Wallet,12306.43,30.0,50.0,6.0,False,False,False
+O500892,C10830,2024-03-06,,Processing,Wallet,765.97,0.0,120.0,,False,False,True
+O500893,C10651,2024-05-22,2024-05-25,Shipped,UPI,2065.67,0.0,99.0,3.0,False,False,False
+O500894,C10298,2024-12-25,2024-12-30,Delivered,UPI,2518.29,0.0,50.0,5.0,False,False,False
+O500895,C10149,2024-11-23,2024-12-01,Delivered,Net Banking,1604.9,25.0,120.0,8.0,False,False,False
+O500896,C10935,2025-09-27,2025-03-10,Delivered,Net Banking,351.04,20.0,75.0,,True,False,False
+O500897,C10408,2025-10-16,,Pending,Credit Card,2096.01,25.0,120.0,,False,False,True
+O500898,C11045,2023-06-07,2023-07-07,Delivered,Debit Card,1511.3,0.0,99.0,30.0,False,False,False
+O500899,C10871,2025-04-02,2025-04-10,Delivered,Wallet,897.45,0.0,99.0,8.0,False,False,False
+O500900,C10915,2023-02-10,2023-10-08,Shipped,UPI,1263.3,0.0,0.0,240.0,False,False,False
+O500901,C10982,2025-04-28,,Cancelled,UPI,1362.8,0.0,75.0,,False,False,True
+O500902,C10960,2025-02-09,2025-02-14,Delivered,Debit Card,13604.92,20.0,40.0,5.0,False,False,False
+O500903,C10752,2025-08-23,2025-08-30,Delivered,UPI,1236.8,0.0,40.0,7.0,False,False,False
+O500904,C11107,2025-01-23,2025-01-29,Delivered,Credit Card,4277.48,0.0,60.0,6.0,False,False,False
+O500905,C10831,2023-06-21,,Processing,Wallet,2511.1,20.0,75.0,,False,False,True
+O500906,C11042,2023-11-05,2023-05-18,Delivered,Debit Card,1338.27,20.0,50.0,,True,False,False
+O500907,C11115,2025-05-07,2025-05-12,Delivered,Debit Card,2009.6,0.0,0.0,5.0,False,False,False
+O500908,C10268,2023-11-20,2023-11-24,Delivered,Net Banking,761.47,0.0,60.0,4.0,False,False,False
+O500909,C10658,2025-03-02,2025-03-08,Delivered,Net Banking,4520.07,15.0,0.0,6.0,False,False,False
+O500910,C10057,2024-08-26,2024-01-09,Delivered,Cash on Delivery,1175.95,20.0,99.0,,True,False,False
+O500911,C10275,2025-10-09,2025-10-16,Delivered,Wallet,1945.17,15.0,40.0,7.0,False,False,False
+O500912,C11193,2025-07-30,,Cancelled,UPI,1508.94,10.0,99.0,,False,False,True
+O500913,C10357,2024-07-14,2024-07-22,Delivered,UPI,303.57,25.0,99.0,8.0,False,False,False
+O500914,C10859,2025-03-26,2025-03-04,Delivered,Net Banking,20547.26,10.0,60.0,,True,False,False
+O500915,C11187,2023-04-07,2023-04-12,Delivered,Wallet,1015.59,10.0,120.0,5.0,False,False,False
+O500916,C11178,2025-09-30,,Processing,Cash on Delivery,11944.38,15.0,120.0,,False,False,True
+O500917,C11059,2023-10-30,2023-11-06,Delivered,Wallet,1362.09,25.0,60.0,7.0,False,False,False
+O500918,C11171,2024-04-18,2024-04-22,Delivered,Cash on Delivery,960.98,20.0,99.0,4.0,False,False,False
+O500919,C10895,2025-05-29,2025-06-02,Delivered,Net Banking,3372.08,0.0,0.0,4.0,False,False,False
+O500920,C11080,2025-04-07,,Cancelled,Debit Card,4776.09,0.0,50.0,,False,False,True
+O500921,C10974,2023-02-19,2023-02-21,Delivered,Net Banking,5979.33,10.0,60.0,2.0,False,False,False
+O500922,C10090,2025-07-24,2025-01-08,Delivered,Net Banking,6474.6,0.0,99.0,,True,False,False
+O500923,C10489,2024-10-24,2024-10-25,Delivered,Wallet,1735.77,30.0,50.0,1.0,False,False,False
+O500924,C10711,2024-03-25,2024-04-01,Returned,Debit Card,986.84,0.0,50.0,7.0,False,False,False
+O500925,C10573,2023-06-17,2023-06-19,Delivered,Cash on Delivery,15670.04,0.0,75.0,2.0,False,False,False
+O500926,C10612,2025-08-16,2025-08-18,Delivered,Cash on Delivery,3825.19,0.0,0.0,2.0,False,False,False
+O500927,C10432,2025-07-11,2025-07-18,Delivered,Debit Card,629.29,10.0,99.0,7.0,False,False,False
+O500928,C10328,2024-01-28,2024-01-02,Delivered,Net Banking,2708.66,5.0,60.0,,True,False,False
+O500929,C10069,2024-04-29,,Processing,Debit Card,1144.21,15.0,0.0,,False,False,True
+O500930,C10496,2024-07-04,,Cancelled,Credit Card,3190.52,10.0,0.0,,False,False,True
+O500931,C10174,2024-04-05,2024-04-10,Delivered,Credit Card,341.27,5.0,99.0,5.0,False,False,False
+O500932,C10793,2023-10-01,2023-02-10,Delivered,Wallet,2692.23,0.0,60.0,,True,False,False
+O500933,Unknown,2023-03-20,2023-03-25,Delivered,Cash on Delivery,778.87,20.0,99.0,5.0,False,False,False
+O500934,C11099,2023-03-23,,Processing,Wallet,1213.47,20.0,0.0,,False,False,True
+O500935,C10015,2025-10-24,2025-10-29,Delivered,Cash on Delivery,6738.96,30.0,60.0,5.0,False,False,False
+O500936,C10046,2024-08-16,2024-08-24,Delivered,Credit Card,2093.78,15.0,75.0,8.0,False,False,False
+O500937,C10450,2024-11-02,2024-11-07,Returned,UPI,2308.21,25.0,60.0,5.0,False,False,False
+O500938,C10845,2025-04-24,2025-04-28,Delivered,Wallet,3931.78,15.0,75.0,4.0,False,False,False
+O500939,C10232,2024-10-05,2024-10-11,Delivered,UPI,6320.66,0.0,50.0,6.0,False,False,False
+O500940,C10818,2025-05-26,2025-05-29,Delivered,Credit Card,1088.89,5.0,40.0,3.0,False,False,False
+O500941,C10733,2025-03-13,2025-03-16,Delivered,Credit Card,1358.55,25.0,50.0,3.0,False,False,False
+O500942,C10735,2025-06-29,,Processing,UPI,1488.31,0.0,120.0,,False,False,True
+O500943,C10813,2023-01-31,2023-02-04,Delivered,Net Banking,4816.33,15.0,50.0,4.0,False,False,False
+O500944,C11097,2023-04-02,2023-07-04,Returned,Debit Card,2013.36,20.0,0.0,93.0,False,False,False
+O500945,C10401,2024-10-31,2024-11-03,Delivered,Credit Card,1728.95,30.0,120.0,3.0,False,False,False
+O500946,C10497,2025-10-05,,Processing,UPI,6922.26,25.0,0.0,,False,False,True
+O500947,C11023,2023-04-02,,Processing,Net Banking,1218.19,0.0,75.0,,False,False,True
+O500948,C10803,2025-01-29,2025-02-05,Delivered,Credit Card,5765.97,15.0,40.0,7.0,False,False,False
+O500949,C10505,2024-01-01,2024-01-06,Returned,Debit Card,4966.3,20.0,60.0,5.0,False,False,False
+O500950,C10157,2025-07-14,2025-07-19,Delivered,UPI,10768.6,0.0,0.0,5.0,False,False,False
+O500951,C10374,2024-11-03,2024-11-05,Delivered,Wallet,3795.13,0.0,0.0,2.0,False,False,False
+O500952,C10275,2023-04-27,,Pending,Debit Card,1170.34,10.0,40.0,,False,False,True
+O500953,C10372,2024-11-15,2024-11-19,Shipped,UPI,2006.09,20.0,75.0,4.0,False,False,False
+O500954,C10900,2024-10-03,2024-03-15,Delivered,Wallet,4794.46,15.0,40.0,,True,False,False
+O500955,C11173,2025-10-28,2025-11-01,Delivered,Debit Card,1137.06,30.0,0.0,4.0,False,False,False
+O500956,C10098,2023-09-13,,Cancelled,Net Banking,357.68,30.0,120.0,,False,False,True
+O500957,C10337,2024-10-27,,Cancelled,UPI,1784.72,15.0,40.0,,False,False,True
+O500958,C10991,2023-04-21,2023-04-23,Delivered,Debit Card,3919.08,0.0,60.0,2.0,False,False,False
+O500959,C10351,2024-11-21,2024-11-27,Delivered,Net Banking,2164.37,5.0,40.0,6.0,False,False,False
+O500960,C11179,2024-10-28,2024-11-01,Delivered,Cash on Delivery,10885.56,15.0,120.0,4.0,False,False,False
+O500961,C10847,2024-09-24,2024-09-29,Returned,Credit Card,2280.95,5.0,0.0,5.0,False,False,False
+O500962,C11146,2024-11-07,2024-12-11,Delivered,Debit Card,7224.11,0.0,60.0,34.0,False,False,False
+O500963,C10079,2024-10-02,,Pending,Net Banking,7025.97,5.0,50.0,,False,False,True
+O500964,C11028,2025-05-13,,Cancelled,Credit Card,782.28,30.0,0.0,,False,False,True
+O500965,C10763,2023-11-20,,Cancelled,Credit Card,4190.23,0.0,50.0,,False,False,True
+O500966,C11002,2025-09-10,2025-10-17,Shipped,Debit Card,1862.4,0.0,0.0,37.0,False,False,False
+O500967,C11074,2023-08-22,2023-08-25,Delivered,UPI,9499.04,30.0,120.0,3.0,False,False,False
+O500968,C10591,2023-11-11,,Cancelled,UPI,3586.64,10.0,0.0,,False,False,True
+O500969,C10635,2023-06-17,2023-06-20,Delivered,Net Banking,1260.13,15.0,0.0,3.0,False,False,False
+O500970,C10654,2023-04-28,2023-05-05,Delivered,UPI,3945.79,5.0,0.0,7.0,False,False,False
+O500971,C10878,2025-04-11,2025-04-13,Delivered,Cash on Delivery,9070.66,0.0,50.0,2.0,False,False,False
+O500972,C10650,2024-07-06,2024-06-12,Delivered,Debit Card,9636.88,10.0,50.0,,True,False,False
+O500973,C10887,2024-05-16,2024-05-18,Delivered,Net Banking,3545.34,0.0,40.0,2.0,False,False,False
+O500974,C10764,2025-10-03,2025-07-10,Delivered,Net Banking,1229.1,5.0,75.0,,True,False,False
+O500975,C10576,2025-04-22,2025-04-23,Delivered,Net Banking,5707.6,0.0,0.0,1.0,False,False,False
+O500976,C10158,2025-09-16,2025-09-20,Shipped,Wallet,1150.45,25.0,50.0,4.0,False,False,False
+O500977,C10486,2023-05-07,,Pending,Net Banking,5630.11,15.0,99.0,,False,False,True
+O500978,C10164,2023-10-24,,Processing,Credit Card,580.5,15.0,120.0,,False,False,True
+O500979,C10193,2023-03-16,,Pending,Credit Card,3231.47,25.0,99.0,,False,False,True
+O500980,C11030,2023-10-04,2023-06-10,Delivered,Debit Card,1811.43,15.0,40.0,,True,False,False
+O500981,C10653,2024-02-13,2024-02-19,Delivered,Cash on Delivery,1756.98,0.0,0.0,6.0,False,False,False
+O500982,C11006,2024-05-06,,Cancelled,Wallet,3032.94,10.0,99.0,,False,False,True
+O500983,C10371,2023-06-30,2023-07-06,Delivered,Credit Card,2294.4,0.0,40.0,6.0,False,False,False
+O500984,C10323,2025-05-28,2025-05-31,Delivered,UPI,1021.17,5.0,40.0,3.0,False,False,False
+O500985,C10442,2024-11-16,2024-11-17,Delivered,UPI,5711.29,30.0,50.0,1.0,False,False,False
+O500986,C10223,2025-04-04,,Processing,Wallet,2151.14,30.0,60.0,,False,False,True
+O500987,C10927,2025-04-08,2025-04-11,Delivered,Net Banking,1604.31,15.0,60.0,3.0,False,False,False
+O500988,C10937,2023-10-26,2023-02-11,Returned,UPI,5547.24,0.0,50.0,,True,False,False
+O500989,C10931,2025-01-13,2025-01-14,Delivered,Cash on Delivery,2346.47,15.0,0.0,1.0,False,False,False
+O500990,C11041,2024-02-03,2024-03-07,Delivered,Credit Card,1388.64,0.0,99.0,33.0,False,False,False
+O500991,C10300,2025-02-07,2025-02-09,Shipped,Cash on Delivery,10015.23,20.0,99.0,2.0,False,False,False
+O500992,C11194,2023-10-22,,Cancelled,Net Banking,16012.33,0.0,120.0,,False,False,True
+O500993,C10550,2023-12-21,2023-12-22,Delivered,Wallet,641.85,0.0,0.0,1.0,False,False,False
+O500994,C11088,2025-10-19,,Processing,Debit Card,2659.27,0.0,99.0,,False,False,True
+O500995,C10486,2024-08-02,2024-08-10,Delivered,Net Banking,1842.41,25.0,0.0,8.0,False,False,False
+O500996,C10751,2023-08-01,2023-01-10,Delivered,Net Banking,6172.15,20.0,99.0,,True,False,False
+O500997,C10287,2025-05-04,2025-05-09,Shipped,Cash on Delivery,1506.25,0.0,75.0,5.0,False,False,False
+O500998,C10558,2024-01-08,,Cancelled,Wallet,1449.26,0.0,75.0,,False,False,True
+O500999,C10188,2023-04-13,2023-04-19,Delivered,Net Banking,3304.19,5.0,0.0,6.0,False,False,False
+O501000,C10069,2025-10-09,2025-09-15,Delivered,Cash on Delivery,1072.25,10.0,60.0,,True,False,False
+O501001,C10791,2025-03-14,2025-03-16,Delivered,Wallet,5115.15,25.0,99.0,2.0,False,False,False
+O501002,C11184,2024-04-11,2024-11-12,Delivered,Debit Card,1854.99,5.0,60.0,215.0,False,False,False
+O501003,C10186,2023-02-02,2023-02-05,Delivered,Debit Card,11216.01,30.0,0.0,3.0,False,False,False
+O501004,C10171,2023-05-27,,Cancelled,Debit Card,14561.37,15.0,50.0,,False,False,True
+O501005,C10889,2023-11-05,2023-11-12,Shipped,Credit Card,2520.65,5.0,120.0,7.0,False,False,False
+O501006,C10258,2023-03-02,2023-06-02,Delivered,UPI,551.84,5.0,40.0,92.0,False,False,False
+O501007,C11129,2023-03-18,2023-03-20,Delivered,Debit Card,2847.08,0.0,99.0,2.0,False,False,False
+O501008,C10582,2025-08-08,2025-08-16,Delivered,Net Banking,3125.05,5.0,40.0,8.0,False,False,False
+O501009,C10568,2024-10-14,2024-10-17,Delivered,Cash on Delivery,1575.33,0.0,0.0,3.0,False,False,False
+O501010,C10568,2024-11-09,2024-11-17,Delivered,Cash on Delivery,2379.89,0.0,99.0,8.0,False,False,False
+O501011,C10008,2025-08-26,2025-08-28,Delivered,Wallet,6888.88,30.0,60.0,2.0,False,False,False
+O501012,C11150,2025-09-14,,Pending,Debit Card,1324.88,0.0,75.0,,False,False,True
+O501013,C10030,2025-01-12,2025-01-15,Delivered,Credit Card,733.34,20.0,40.0,3.0,False,False,False
+O501014,C10586,2025-09-06,2025-06-13,Delivered,Net Banking,3158.71,0.0,120.0,,True,False,False
+O501015,C10769,2024-01-27,2024-02-01,Shipped,Debit Card,2056.88,0.0,75.0,5.0,False,False,False
+O501016,C10417,2023-06-13,2023-06-18,Delivered,Credit Card,6304.34,5.0,40.0,5.0,False,False,False
+O501017,C10175,2024-03-05,,Cancelled,Cash on Delivery,3597.94,10.0,75.0,,False,False,True
+O501018,C10600,2024-07-01,2024-01-15,Shipped,Debit Card,6334.33,10.0,0.0,,True,False,False
+O501019,C10326,2024-06-19,2024-06-27,Delivered,UPI,2554.07,0.0,0.0,8.0,False,False,False
+O501020,C10054,2024-09-23,2024-10-01,Delivered,Credit Card,3556.86,5.0,99.0,8.0,False,False,False
+O501021,C10138,2023-11-14,2023-11-22,Delivered,Net Banking,1091.34,0.0,75.0,8.0,False,False,False
+O501022,C10525,2023-11-09,,Cancelled,Credit Card,2929.09,20.0,40.0,,False,False,True
+O501023,C10505,2025-07-01,2025-07-03,Delivered,Cash on Delivery,4923.62,10.0,0.0,2.0,False,False,False
+O501024,C10557,2024-01-27,2024-01-30,Delivered,Wallet,1932.43,0.0,99.0,3.0,False,False,False
+O501025,C11104,2024-05-26,2024-05-29,Returned,Debit Card,2858.31,0.0,75.0,3.0,False,False,False
+O501026,C10238,2025-09-15,,Cancelled,UPI,930.65,0.0,0.0,,False,False,True
+O501027,C10689,2023-04-29,2023-04-30,Delivered,Net Banking,237.85,30.0,60.0,1.0,False,False,False
+O501028,C10749,2024-12-16,2024-12-23,Delivered,Cash on Delivery,2873.84,10.0,60.0,7.0,False,False,False
+O501029,C11136,2025-01-03,2025-01-05,Delivered,Net Banking,3532.92,0.0,50.0,2.0,False,False,False
+O501030,C10994,2025-01-08,2025-06-08,Delivered,Credit Card,3742.4,30.0,99.0,151.0,False,False,False
+O501031,C10552,2024-07-10,2024-07-17,Delivered,Credit Card,1248.62,30.0,75.0,7.0,False,False,False
+O501032,C10686,2023-11-20,2023-11-26,Delivered,Net Banking,6090.97,5.0,60.0,6.0,False,False,False
+O501033,C10127,2025-04-18,2025-04-25,Delivered,UPI,8070.91,0.0,50.0,7.0,False,False,False
+O501034,C10367,2025-07-12,,Pending,UPI,3809.58,20.0,0.0,,False,False,True
+O501035,C10238,2023-01-29,2023-02-01,Delivered,Net Banking,1516.35,0.0,75.0,3.0,False,False,False
+O501036,C11031,2023-11-20,2023-11-22,Delivered,Wallet,2523.49,20.0,75.0,2.0,False,False,False
+O501037,C10249,2025-09-27,2025-10-01,Delivered,Wallet,1848.44,20.0,40.0,4.0,False,False,False
+O501038,C10255,2024-10-31,2024-11-01,Delivered,Wallet,3706.33,30.0,120.0,1.0,False,False,False
+O501039,C11078,2025-02-05,2025-02-09,Delivered,Wallet,3805.65,0.0,0.0,4.0,False,False,False
+O501040,C11137,2024-12-25,2024-12-26,Delivered,UPI,2369.05,15.0,50.0,1.0,False,False,False
+O501041,C10831,2023-02-08,2023-02-12,Delivered,Credit Card,931.74,0.0,0.0,4.0,False,False,False
+O501042,C10233,2023-08-15,2023-08-21,Delivered,Net Banking,10093.83,0.0,0.0,6.0,False,False,False
+O501043,C10293,2024-06-13,,Cancelled,Cash on Delivery,839.4,25.0,120.0,,False,False,True
+O501044,C11171,2024-07-20,2024-07-22,Shipped,Wallet,1240.48,10.0,0.0,2.0,False,False,False
+O501045,C10741,2024-06-01,2024-06-06,Delivered,Debit Card,1256.01,25.0,99.0,5.0,False,False,False
+O501046,C10602,2025-09-07,2025-10-09,Returned,Wallet,8451.8,25.0,50.0,32.0,False,False,False
+O501047,C10724,2024-04-09,2024-04-11,Delivered,Net Banking,8270.97,5.0,0.0,2.0,False,False,False
+O501048,C11122,2025-02-27,2025-02-28,Delivered,UPI,2151.4,25.0,120.0,1.0,False,False,False
+O501049,C10571,2024-11-23,2024-11-28,Delivered,Cash on Delivery,1574.82,20.0,99.0,5.0,False,False,False
+O501050,C10623,2023-11-09,,Cancelled,Credit Card,7923.55,0.0,120.0,,False,False,True
+O501051,C11154,2024-12-07,2024-12-08,Returned,Net Banking,1499.27,5.0,0.0,1.0,False,False,False
+O501052,C10753,2023-07-01,,Processing,Wallet,3637.09,10.0,50.0,,False,False,True
+O501053,C10976,2024-02-24,2024-02-26,Returned,UPI,2131.6,15.0,120.0,2.0,False,False,False
+O501054,C10613,2023-01-15,2023-01-23,Delivered,Net Banking,3420.74,0.0,0.0,8.0,False,False,False
+O501055,C10225,2023-03-22,2023-03-23,Delivered,Cash on Delivery,2541.87,30.0,40.0,1.0,False,False,False
+O501056,C10106,2025-06-15,,Cancelled,Net Banking,868.58,20.0,50.0,,False,False,True
+O501057,C11033,2023-03-09,2023-03-17,Delivered,Credit Card,4200.58,10.0,0.0,8.0,False,False,False
+O501058,C10430,2023-05-04,,Processing,Credit Card,2277.08,0.0,40.0,,False,False,True
+O501059,C10953,2023-04-01,2023-04-06,Shipped,Credit Card,1500.49,0.0,0.0,5.0,False,False,False
+O501060,C11013,2023-09-03,2023-11-03,Delivered,Net Banking,438.86,0.0,0.0,61.0,False,False,False
+O501061,C10083,2024-07-10,2024-07-14,Delivered,Debit Card,4109.29,10.0,50.0,4.0,False,False,False
+O501062,C10479,2023-09-18,2023-09-22,Delivered,Cash on Delivery,522.21,5.0,75.0,4.0,False,False,False
+O501063,C10419,2025-06-27,,In Transit,Net Banking,6657.7,0.0,99.0,,False,False,True
+O501064,C11011,2023-01-11,,Processing,UPI,5023.83,0.0,75.0,,False,False,True
+O501065,C11162,2025-03-10,2025-03-11,Cancelled,Net Banking,1522.69,0.0,60.0,1.0,False,False,False
+O501066,C10777,2023-10-14,2023-10-22,Shipped,Wallet,1504.86,15.0,120.0,8.0,False,False,False
+O501067,C10333,2024-05-31,,Pending,Wallet,20037.03,5.0,60.0,,False,False,True
+O501068,C10055,2023-06-02,2023-02-07,Delivered,Wallet,409.63,0.0,120.0,,True,False,False
+O501069,Unknown,2025-02-12,2025-02-19,Delivered,Wallet,3012.3,0.0,0.0,7.0,False,False,False
+O501070,C10417,2024-01-28,,Cancelled,Wallet,912.68,20.0,50.0,,False,False,True
+O501071,C11079,2025-06-25,2025-06-27,Delivered,UPI,5838.46,0.0,120.0,2.0,False,False,False
+O501072,C10642,2025-03-16,,Cancelled,Cash on Delivery,8162.98,0.0,40.0,,False,False,True
+O501073,C11134,2025-07-10,2025-07-17,Delivered,Wallet,844.93,15.0,75.0,7.0,False,False,False
+O501074,C10202,2025-03-28,2025-04-05,Delivered,Debit Card,4236.09,30.0,99.0,8.0,False,False,False
+O501075,C11179,2023-06-21,2023-06-25,Delivered,Net Banking,5979.18,0.0,120.0,4.0,False,False,False
+O501076,C10266,2024-10-06,2024-09-10,Delivered,UPI,4413.94,25.0,0.0,,True,False,False
+O501077,C11152,2024-10-22,2024-10-23,Delivered,Net Banking,969.09,20.0,50.0,1.0,False,False,False
+O501078,C10668,2023-12-07,2023-07-16,Delivered,UPI,1284.06,10.0,40.0,,True,False,False
+O501079,C10902,2024-03-01,2024-03-03,Shipped,Net Banking,2772.68,0.0,40.0,2.0,False,False,False
+O501080,C11185,2025-09-17,2025-09-24,Returned,Debit Card,1543.09,0.0,60.0,7.0,False,False,False
+O501081,C11199,2023-05-06,,Processing,Net Banking,3961.18,20.0,60.0,,False,False,True
+O501082,C10087,2024-08-05,2024-08-13,Delivered,Net Banking,1813.3,20.0,0.0,8.0,False,False,False
+O501083,C10779,2025-09-15,2025-09-22,Delivered,Debit Card,2512.75,5.0,60.0,7.0,False,False,False
+O501084,C11199,2023-03-16,2023-03-24,Delivered,Net Banking,2464.48,30.0,40.0,8.0,False,False,False
+O501085,C11049,2025-03-08,,Processing,Wallet,4239.72,0.0,99.0,,False,False,True
+O501086,C10175,2024-11-21,,Processing,Wallet,3802.61,0.0,0.0,,False,False,True
+O501087,C10138,2025-08-06,2025-08-12,Delivered,UPI,2279.98,10.0,0.0,6.0,False,False,False
+O501088,C11083,2025-10-13,2025-10-18,Shipped,Net Banking,2163.43,0.0,0.0,5.0,False,False,False
+O501089,C10843,2024-07-22,2024-07-29,Delivered,Wallet,4093.75,20.0,0.0,7.0,False,False,False
+O501090,C10900,2025-12-08,2025-08-20,Delivered,Debit Card,4956.36,10.0,0.0,,True,False,False
+O501091,C10931,2024-07-05,2024-07-12,Delivered,Cash on Delivery,912.83,25.0,120.0,7.0,False,False,False
+O501092,C10090,2023-07-12,2023-12-09,Delivered,Credit Card,1942.44,20.0,75.0,150.0,False,False,False
+O501093,C11070,2025-02-01,2025-02-05,Delivered,Debit Card,381.68,0.0,120.0,4.0,False,False,False
+O501094,C10160,2023-05-21,2023-05-24,Delivered,UPI,724.51,25.0,50.0,3.0,False,False,False
+O501095,C11176,2023-08-06,2023-08-11,Delivered,Cash on Delivery,1674.12,15.0,120.0,5.0,False,False,False
+O501096,C10419,,,Processing,Cash on Delivery,396.83,30.0,0.0,,False,False,True
+O501097,C10798,2024-01-09,2024-01-13,Shipped,Wallet,1110.06,0.0,50.0,4.0,False,False,False
+O501098,C10198,2024-07-06,2024-06-11,Delivered,Net Banking,5398.58,0.0,0.0,,True,False,False
+O501099,C10531,2023-08-05,2023-08-13,Delivered,Wallet,5584.87,5.0,120.0,8.0,False,False,False
+O501100,C10809,2025-07-06,2025-10-07,Delivered,Cash on Delivery,1927.11,10.0,75.0,93.0,False,False,False
+O501101,C10190,2023-03-28,2023-04-04,Delivered,Credit Card,4304.17,0.0,99.0,7.0,False,False,False
+O501102,C11187,2025-02-21,2025-02-22,Delivered,UPI,6357.11,0.0,40.0,1.0,False,False,False
+O501103,C11060,2025-03-12,2025-03-19,Delivered,Credit Card,742.41,25.0,99.0,7.0,False,False,False
+O501104,C11145,2025-02-01,2025-01-07,Delivered,Credit Card,3486.71,0.0,40.0,,True,False,False
+O501105,C11167,2024-11-25,2024-11-27,Delivered,UPI,4670.73,0.0,40.0,2.0,False,False,False
+O501106,C10750,2025-08-05,2025-08-08,Delivered,Credit Card,2235.32,30.0,120.0,3.0,False,False,False
+O501107,C11136,2024-03-11,2024-03-12,Shipped,Debit Card,4487.85,10.0,0.0,1.0,False,False,False
+O501108,C10256,2025-07-29,2025-03-08,Delivered,Debit Card,4686.82,0.0,120.0,,True,False,False
+O501109,C11127,2023-12-04,2023-12-05,Delivered,Wallet,344.96,0.0,40.0,1.0,False,False,False
+O501110,C10458,2025-10-25,2025-10-27,Delivered,Cash on Delivery,3543.97,0.0,75.0,2.0,False,False,False
+O501111,C10488,2023-02-04,2023-02-05,Delivered,Cash on Delivery,1297.23,15.0,75.0,1.0,False,False,False
+O501112,C10295,2023-09-24,2023-09-28,Delivered,Cash on Delivery,1025.53,15.0,120.0,4.0,False,False,False
+O501113,C10631,2024-07-12,2024-07-13,Delivered,Cash on Delivery,1774.11,5.0,40.0,1.0,False,False,False
+O501114,C10762,2025-04-28,,Pending,Cash on Delivery,1856.99,5.0,40.0,,False,False,True
+O501115,C10708,2025-05-02,2025-05-09,Delivered,Cash on Delivery,1137.05,25.0,120.0,7.0,False,False,False
+O501116,C11053,2023-07-02,2023-02-09,Delivered,UPI,852.01,5.0,0.0,,True,False,False
+O501117,C10094,2023-07-22,2023-07-28,Delivered,Credit Card,7285.93,30.0,120.0,6.0,False,False,False
+O501118,C10517,2025-07-23,2025-07-27,Delivered,Net Banking,4303.73,30.0,0.0,4.0,False,False,False
+O501119,C10667,2023-05-02,2023-05-08,Delivered,Wallet,1606.98,5.0,40.0,6.0,False,False,False
+O501120,C10697,2024-10-11,,Processing,UPI,6089.0,30.0,99.0,,False,False,True
+O501121,C10998,2024-09-16,2024-09-20,Shipped,Net Banking,5711.31,20.0,0.0,4.0,False,False,False
+O501122,C10717,2024-11-10,2024-10-12,Delivered,Debit Card,2027.09,5.0,0.0,,True,False,False
+O501123,C11005,2023-10-24,,Processing,Credit Card,1886.9,25.0,0.0,,False,False,True
+O501124,C10776,2023-04-18,2023-04-19,Delivered,Cash on Delivery,5024.92,30.0,60.0,1.0,False,False,False
+O501125,C10235,2024-12-12,2024-12-20,Shipped,UPI,8882.43,0.0,120.0,8.0,False,False,False
+O501126,C10002,2024-10-01,2024-01-14,Delivered,Wallet,1155.2,0.0,75.0,,True,False,False
+O501127,C10983,2025-08-27,2025-08-28,Shipped,Wallet,5503.65,0.0,50.0,1.0,False,False,False
+O501128,Unknown,2023-06-21,2023-06-24,Delivered,UPI,3185.67,30.0,120.0,3.0,False,False,False
+O501129,C10709,2023-07-29,,Cancelled,Net Banking,2372.19,10.0,75.0,,False,False,True
+O501130,C10813,2025-08-19,2025-08-22,Delivered,UPI,1177.21,25.0,50.0,3.0,False,False,False
+O501131,C11088,2023-05-24,2023-05-31,Delivered,Credit Card,3209.57,0.0,0.0,7.0,False,False,False
+O501132,C10457,2024-10-23,2024-10-27,Delivered,Wallet,989.41,0.0,50.0,4.0,False,False,False
+O501133,C10915,2025-04-07,2025-04-11,Delivered,Wallet,5021.29,0.0,75.0,4.0,False,False,False
+O501134,C10103,2023-03-14,2023-03-17,Shipped,Wallet,6238.15,20.0,75.0,3.0,False,False,False
+O501135,C10850,2025-01-20,2025-01-25,Delivered,Wallet,3622.2,15.0,0.0,5.0,False,False,False
+O501136,C10760,2024-02-09,2024-02-17,Delivered,Credit Card,3159.19,15.0,40.0,8.0,False,False,False
+O501137,C10361,2024-03-16,2024-03-21,Delivered,Wallet,3474.56,10.0,50.0,5.0,False,False,False
+O501138,C10433,2023-03-14,2023-03-17,Delivered,Cash on Delivery,757.28,15.0,120.0,3.0,False,False,False
+O501139,C10260,2023-01-13,2023-01-17,Delivered,UPI,1395.98,0.0,0.0,4.0,False,False,False
+O501140,C11185,2025-07-01,2025-01-11,Shipped,UPI,3515.16,5.0,40.0,,True,False,False
+O501141,C10732,2025-10-24,2025-10-29,Delivered,Net Banking,6041.84,15.0,75.0,5.0,False,False,False
+O501142,C10445,2024-12-26,,Pending,Net Banking,2498.63,10.0,75.0,,False,False,True
+O501143,C10144,2025-10-22,2025-10-24,Returned,Credit Card,3101.47,5.0,50.0,2.0,False,False,False
+O501144,C10698,2023-01-26,2023-01-27,Delivered,Wallet,10266.45,20.0,40.0,1.0,False,False,False
+O501145,C11124,2023-11-21,,Processing,Credit Card,617.35,10.0,40.0,,False,False,True
+O501146,C10978,2024-10-02,,Pending,Wallet,1529.49,0.0,0.0,,False,False,True
+O501147,C10823,2024-11-14,2024-11-16,Delivered,Net Banking,1035.02,15.0,0.0,2.0,False,False,False
+O501148,C10026,,2023-03-16,Delivered,Credit Card,7483.28,25.0,0.0,,False,False,False
+O501149,C11197,2025-08-02,2025-08-09,Shipped,Cash on Delivery,698.67,30.0,60.0,7.0,False,False,False
+O501150,C10332,2024-11-21,2024-11-25,Delivered,Credit Card,3759.8,30.0,99.0,4.0,False,False,False
+O501151,C10804,2025-03-06,2025-03-11,Delivered,Wallet,843.57,20.0,120.0,5.0,False,False,False
+O501152,C10104,2024-05-02,,Processing,Credit Card,846.93,5.0,60.0,,False,False,True
+O501153,C10159,2024-03-06,2024-03-14,Returned,Net Banking,2188.83,15.0,120.0,8.0,False,False,False
+O501154,C10195,2023-09-06,2023-09-13,Delivered,UPI,6104.69,0.0,0.0,7.0,False,False,False
+O501155,C10880,2023-04-13,2023-04-17,Delivered,Cash on Delivery,3669.53,30.0,50.0,4.0,False,False,False
+O501156,C10200,2023-05-27,,Pending,Cash on Delivery,1668.28,30.0,99.0,,False,False,True
+O501157,C10755,2025-06-06,2025-06-09,Delivered,UPI,747.56,0.0,120.0,3.0,False,False,False
+O501158,C10564,2025-03-31,2025-04-05,Shipped,Credit Card,276.97,0.0,50.0,5.0,False,False,False
+O501159,C10695,2024-02-01,2024-02-08,Delivered,UPI,4504.32,15.0,50.0,7.0,False,False,False
+O501160,C11031,2025-10-29,2025-10-30,Returned,Credit Card,961.2,0.0,75.0,1.0,False,False,False
+O501161,C10851,2023-07-10,2023-07-12,Delivered,Cash on Delivery,2357.29,25.0,40.0,2.0,False,False,False
+O501162,C10027,2023-12-01,2023-01-16,Returned,Wallet,827.41,0.0,0.0,,True,False,False
+O501163,C10373,2025-06-24,2025-06-26,Delivered,Credit Card,1614.22,30.0,40.0,2.0,False,False,False
+O501164,C11180,2024-11-06,2024-06-14,Shipped,Wallet,1298.48,0.0,99.0,,True,False,False
+O501165,C10463,2024-06-19,2024-06-24,Delivered,UPI,461.63,0.0,0.0,5.0,False,False,False
+O501166,C11013,2024-03-23,2024-03-31,Returned,Cash on Delivery,728.42,10.0,120.0,8.0,False,False,False
+O501167,C10843,2024-11-14,2024-11-15,Delivered,Debit Card,1208.99,0.0,75.0,1.0,False,False,False
+O501168,C10049,2024-06-18,,Cancelled,Debit Card,2263.54,20.0,99.0,,False,False,True
+O501169,C10406,2025-04-21,2025-04-22,Delivered,Wallet,2743.54,0.0,120.0,1.0,False,False,False
+O501170,C10909,2024-09-07,,Cancelled,Credit Card,1196.43,20.0,40.0,,False,False,True
+O501171,C10774,2023-05-25,2023-05-28,Delivered,Credit Card,3434.97,25.0,60.0,3.0,False,False,False
+O501172,C11192,2023-10-20,2023-10-22,Delivered,Credit Card,504.1,0.0,0.0,2.0,False,False,False
+O501173,C10646,2023-04-11,2023-04-18,Delivered,Net Banking,2810.47,30.0,40.0,7.0,False,False,False
+O501174,C10807,2023-06-09,,Pending,Cash on Delivery,3435.78,30.0,0.0,,False,False,True
+O501175,C10006,2023-10-06,2023-10-14,Shipped,Net Banking,2138.06,30.0,75.0,8.0,False,False,False
+O501176,C10644,2024-08-25,2024-08-28,Delivered,Credit Card,641.46,0.0,0.0,3.0,False,False,False
+O501177,C10873,2025-04-13,2025-04-17,Shipped,Credit Card,3420.47,5.0,50.0,4.0,False,False,False
+O501178,C10773,2024-01-07,2024-12-01,Delivered,Net Banking,839.6,5.0,0.0,329.0,False,False,False
+O501179,C10123,2023-07-17,2023-07-21,Delivered,Cash on Delivery,1691.45,0.0,99.0,4.0,False,False,False
+O501180,C10894,2023-06-24,2023-06-28,Delivered,Net Banking,3249.46,25.0,60.0,4.0,False,False,False
+O501181,C10112,2025-03-31,2025-04-04,Delivered,Credit Card,1293.95,0.0,50.0,4.0,False,False,False
+O501182,C10868,2024-07-13,2024-07-15,Delivered,Credit Card,10338.95,15.0,120.0,2.0,False,False,False
+O501183,C10738,2024-10-12,,Cancelled,Credit Card,630.6,0.0,75.0,,False,False,True
+O501184,C11017,2024-08-07,2024-10-08,Delivered,Net Banking,2078.98,0.0,99.0,62.0,False,False,False
+O501185,C11007,2024-09-17,2024-09-18,Delivered,Cash on Delivery,3795.99,25.0,60.0,1.0,False,False,False
+O501186,C11147,2024-11-03,,Cancelled,Debit Card,1801.1,0.0,50.0,,False,False,True
+O501187,C10669,2023-03-30,2023-04-05,Delivered,Net Banking,6278.83,0.0,50.0,6.0,False,False,False
+O501188,C10196,2025-09-03,2025-03-11,Delivered,Net Banking,4519.95,5.0,50.0,,True,False,False
+O501189,C11000,2024-12-31,2025-01-04,Delivered,UPI,438.87,0.0,0.0,4.0,False,False,False
+O501190,C10006,2025-04-24,2025-01-05,Unknown,UPI,3595.11,0.0,50.0,,True,False,False
+O501191,C10678,2024-08-29,2024-09-06,Delivered,Debit Card,11500.57,25.0,99.0,8.0,False,False,False
+O501192,C11189,2024-02-25,2024-03-03,Delivered,UPI,10898.85,0.0,0.0,7.0,False,False,False
+O501193,C10858,2025-02-05,,Cancelled,Credit Card,1802.32,30.0,0.0,,False,False,True
+O501194,C11135,2025-03-30,,Processing,Cash on Delivery,1006.77,30.0,120.0,,False,False,True
+O501195,C10404,2023-12-19,2023-12-21,Delivered,Wallet,1223.66,25.0,0.0,2.0,False,False,False
+O501196,Unknown,2023-01-19,2023-01-24,Delivered,Net Banking,6307.75,0.0,120.0,5.0,False,False,False
+O501197,C10725,2024-10-28,2024-11-02,Delivered,Credit Card,1489.2,10.0,120.0,5.0,False,False,False
+O501198,C10220,2025-05-06,,Pending,Cash on Delivery,5483.12,15.0,99.0,,False,False,True
+O501199,C10967,2023-01-16,2023-01-17,Delivered,Net Banking,698.12,10.0,0.0,1.0,False,False,False
+O501200,C10670,2023-12-07,2023-07-17,Delivered,Wallet,5361.12,20.0,40.0,,True,False,False
+O501201,C11096,2024-05-09,,Processing,Credit Card,2432.74,0.0,40.0,,False,False,True
+O501202,C11184,2025-02-04,,Cancelled,Credit Card,949.95,0.0,75.0,,False,False,True
+O501203,C10687,2023-11-25,,Pending,Wallet,2378.15,15.0,0.0,,False,False,True
+O501204,C10048,2025-07-16,2025-07-19,Shipped,Wallet,2933.27,0.0,99.0,3.0,False,False,False
+O501205,C10619,2025-09-03,2025-09-08,Delivered,UPI,805.19,20.0,50.0,5.0,False,False,False
+O501206,C10137,2023-06-07,2023-07-09,Delivered,Net Banking,649.43,0.0,0.0,32.0,False,False,False
+O501207,C10506,2025-03-29,2025-04-05,Delivered,Net Banking,5240.89,30.0,0.0,7.0,False,False,False
+O501208,C10739,2024-11-16,2024-11-23,Delivered,Credit Card,2215.24,0.0,75.0,7.0,False,False,False
+O501209,C10415,2025-10-20,,Processing,UPI,892.06,0.0,40.0,,False,False,True
+O501210,C10797,2023-07-27,2023-03-08,Delivered,Credit Card,400.28,5.0,40.0,,True,False,False
+O501211,C10716,2024-03-11,2024-03-18,Shipped,Debit Card,664.12,20.0,50.0,7.0,False,False,False
+O501212,C11026,2024-01-03,2024-03-04,Shipped,Net Banking,1485.3,20.0,99.0,61.0,False,False,False
+O501213,C10687,2023-10-22,2023-10-23,Shipped,Credit Card,1231.68,0.0,0.0,1.0,False,False,False
+O501214,C11082,2025-06-18,2025-06-21,Returned,Cash on Delivery,679.88,10.0,75.0,3.0,False,False,False
+O501215,C10616,2024-09-27,,Processing,Cash on Delivery,823.82,20.0,75.0,,False,False,True
+O501216,C10871,2025-03-26,2025-01-04,Shipped,Debit Card,595.67,5.0,50.0,,True,False,False
+O501217,C10771,2024-10-20,2024-10-26,Delivered,Wallet,15728.42,15.0,0.0,6.0,False,False,False
+O501218,C10722,2024-11-26,2024-12-01,Returned,Net Banking,1512.54,10.0,60.0,5.0,False,False,False
+O501219,C10475,2023-10-17,2023-10-20,Shipped,Net Banking,1981.67,25.0,99.0,3.0,False,False,False
+O501220,C10251,2024-09-14,2024-09-18,Shipped,UPI,1007.76,0.0,75.0,4.0,False,False,False
+O501221,C10373,2024-07-30,2024-08-03,Delivered,Wallet,477.89,10.0,75.0,4.0,False,False,False
+O501222,C10073,2025-05-07,2025-08-07,Delivered,Credit Card,4798.85,25.0,120.0,92.0,False,False,False
+O501223,C11119,2023-04-08,2023-04-13,Delivered,Wallet,1673.9,0.0,99.0,5.0,False,False,False
+O501224,C11087,2025-06-21,2025-06-29,Delivered,Credit Card,2748.42,0.0,50.0,8.0,False,False,False
+O501225,C11069,2025-08-25,2025-09-01,Delivered,Cash on Delivery,2408.07,15.0,0.0,7.0,False,False,False
+O501226,C10605,2024-03-06,2024-10-03,Delivered,UPI,6074.27,15.0,0.0,211.0,False,False,False
+O501227,C10766,2023-03-23,,Cancelled,Cash on Delivery,1048.5,0.0,99.0,,False,False,True
+O501228,C10214,2023-11-20,2023-11-24,Delivered,Credit Card,1142.47,30.0,0.0,4.0,False,False,False
+O501229,C10687,2025-09-01,,Processing,UPI,2076.4,30.0,40.0,,False,False,True
+O501230,C10895,2024-02-26,2024-03-02,Delivered,Cash on Delivery,4731.56,15.0,120.0,5.0,False,False,False
+O501231,C10832,2024-07-09,2024-07-12,Delivered,Wallet,2948.17,20.0,40.0,3.0,False,False,False
+O501232,C10109,2023-05-25,2023-02-06,Delivered,Wallet,9120.62,0.0,75.0,,True,False,False
+O501233,C10286,2024-12-23,2024-12-31,Delivered,Credit Card,4249.22,0.0,0.0,8.0,False,False,False
+O501234,C10834,2024-07-26,2024-07-30,Delivered,UPI,1033.63,0.0,0.0,4.0,False,False,False
+O501235,C10423,2024-09-10,2024-09-16,Delivered,Cash on Delivery,904.93,0.0,0.0,6.0,False,False,False
+O501236,C10282,2025-01-01,,Pending,Net Banking,1754.34,0.0,99.0,,False,False,True
+O501237,C10998,2023-05-25,2023-05-26,Delivered,Wallet,3175.82,10.0,0.0,1.0,False,False,False
+O501238,C10536,2024-12-29,2025-01-01,Delivered,UPI,1417.36,0.0,120.0,3.0,False,False,False
+O501239,C11165,2024-12-14,2024-12-22,Shipped,Cash on Delivery,2682.45,0.0,0.0,8.0,False,False,False
+O501240,C11197,2023-12-04,,Pending,UPI,1278.98,0.0,50.0,,False,False,True
+O501241,C10924,2024-10-02,2024-10-06,Delivered,Debit Card,2184.9,0.0,60.0,4.0,False,False,False
+O501242,C10079,2025-06-08,2025-08-10,Shipped,Credit Card,1432.98,20.0,50.0,63.0,False,False,False
+O501243,C10982,2023-09-03,2023-09-08,Delivered,Debit Card,2517.7,30.0,0.0,5.0,False,False,False
+O501244,C10659,2023-09-29,2023-01-10,Delivered,Debit Card,15710.78,30.0,99.0,,True,False,False
+O501245,C10627,2025-03-05,2025-03-06,Delivered,UPI,401.27,15.0,50.0,1.0,False,False,False
+O501246,C10949,2024-05-03,2024-07-03,Delivered,UPI,1958.11,15.0,60.0,61.0,False,False,False
+O501247,C10059,2025-10-01,2025-10-05,Delivered,Debit Card,6520.07,25.0,120.0,4.0,False,False,False
+O501248,C10523,2025-10-07,2025-07-16,Delivered,Credit Card,1289.13,5.0,50.0,,True,False,False
+O501249,C10949,2024-03-28,2024-04-04,Delivered,Cash on Delivery,6579.97,25.0,40.0,7.0,False,False,False
+O501250,C10287,2023-02-01,,Processing,Wallet,595.05,0.0,0.0,,False,False,True
+O501251,C10351,2025-04-13,,Cancelled,Net Banking,873.85,0.0,0.0,,False,False,True
+O501252,C10901,2025-05-13,2025-05-16,Delivered,Credit Card,2140.65,0.0,99.0,3.0,False,False,False
+O501253,C10111,2023-07-13,,Cancelled,Cash on Delivery,888.0,25.0,50.0,,False,False,True
+O501254,C10694,2023-08-21,2023-08-23,Delivered,Debit Card,9508.68,30.0,50.0,2.0,False,False,False
+O501255,C10572,2023-12-30,2024-01-04,Delivered,UPI,2402.04,30.0,99.0,5.0,False,False,False
+O501256,C11052,2025-04-08,2025-12-04,Shipped,Cash on Delivery,9946.54,20.0,120.0,240.0,False,False,False
+O501257,C10143,2025-08-01,2025-08-05,Delivered,UPI,2207.28,0.0,75.0,4.0,False,False,False
+O501258,C10983,2024-12-26,,Cancelled,Cash on Delivery,2340.86,30.0,120.0,,False,False,True
+O501259,C10951,2023-12-12,,Processing,Net Banking,2060.81,0.0,75.0,,False,False,True
+O501260,C10761,2025-02-08,,Cancelled,Debit Card,617.92,0.0,75.0,,False,False,True
+O501261,C10790,2024-09-10,2024-09-15,Shipped,UPI,2280.53,15.0,0.0,5.0,False,False,False
+O501262,C10170,,2024-01-09,Returned,Credit Card,930.08,15.0,50.0,,False,False,False
+O501263,C10510,2023-04-15,2023-04-18,Returned,Debit Card,1416.98,10.0,75.0,3.0,False,False,False
+O501264,C11087,2024-06-02,,Cancelled,Debit Card,538.77,10.0,99.0,,False,False,True
+O501265,C11080,2025-07-21,2025-07-23,Delivered,Net Banking,1250000.0,30.0,0.0,2.0,False,False,False
+O501266,C10299,2023-10-22,,Processing,Debit Card,1507.19,25.0,99.0,,False,False,True
+O501267,C11192,2024-08-27,2024-09-01,Returned,Cash on Delivery,2185.85,15.0,120.0,5.0,False,False,False
+O501268,C10826,2025-01-17,2025-01-23,Delivered,Cash on Delivery,447.62,0.0,120.0,6.0,False,False,False
+O501269,C11063,2023-06-29,2023-07-07,Delivered,Wallet,958.57,20.0,0.0,8.0,False,False,False
+O501270,C10854,2024-09-01,2024-12-01,Delivered,Wallet,3502.31,5.0,0.0,91.0,False,False,False
+O501271,C10026,2024-10-12,2024-10-14,Delivered,Wallet,1656.75,25.0,0.0,2.0,False,False,False
+O501272,C10669,2024-07-06,2024-06-09,Delivered,Net Banking,1394.39,5.0,50.0,,True,False,False
+O501273,C10982,2025-09-25,2025-09-27,Delivered,Cash on Delivery,4638.09,0.0,120.0,2.0,False,False,False
+O501274,C10480,2025-10-27,2025-10-31,Delivered,Net Banking,513.28,20.0,50.0,4.0,False,False,False
+O501275,C10178,2023-09-01,2023-09-08,Delivered,Debit Card,3358.03,20.0,40.0,7.0,False,False,False
+O501276,C10263,2024-02-28,2024-01-03,Delivered,Net Banking,773.39,15.0,40.0,,True,False,False
+O501277,C10545,2023-09-11,2023-09-15,Returned,Wallet,9182.25,0.0,50.0,4.0,False,False,False
+O501278,C11024,2024-01-29,2024-02-02,Returned,Net Banking,9642.55,25.0,40.0,4.0,False,False,False
+O501279,C10649,2023-04-08,2023-04-11,Delivered,UPI,652.07,0.0,0.0,3.0,False,False,False
+O501280,C10367,2023-08-29,2023-02-09,Shipped,Debit Card,3669.82,25.0,0.0,,True,False,False
+O501281,C10407,2023-10-29,2023-11-01,Shipped,Net Banking,1574.23,30.0,50.0,3.0,False,False,False
+O501282,C10042,2023-02-11,2023-09-11,Delivered,Wallet,1480.35,20.0,60.0,212.0,False,False,False
+O501283,C10359,2025-01-28,2025-01-31,Delivered,Wallet,364.83,30.0,120.0,3.0,False,False,False
+O501284,C10078,2023-09-28,2023-10-02,Delivered,UPI,1759.49,5.0,99.0,4.0,False,False,False
+O501285,C11194,2025-03-11,2025-03-19,Delivered,Net Banking,1250000.0,0.0,120.0,8.0,False,False,False
+O501286,C10125,2023-09-05,2023-11-09,Shipped,Wallet,4168.06,10.0,50.0,65.0,False,False,False
+O501287,C10391,2023-07-27,,Pending,UPI,4043.76,0.0,0.0,,False,False,True
+O501288,C11077,2025-07-06,2025-11-06,Delivered,Net Banking,1671.63,10.0,120.0,123.0,False,False,False
+O501289,C10688,2025-08-30,2025-09-05,Delivered,Cash on Delivery,3088.57,30.0,0.0,6.0,False,False,False
+O501290,C10482,2025-10-03,2025-03-18,Delivered,Debit Card,2461.91,0.0,50.0,,True,False,False
+O501291,C10935,2024-05-04,2024-05-08,Delivered,Wallet,1863.94,0.0,0.0,4.0,False,False,False
+O501292,C10819,2024-12-09,2024-12-16,Delivered,Credit Card,429.26,20.0,120.0,7.0,False,False,False
+O501293,C10389,2025-09-08,,Cancelled,UPI,1782.87,30.0,50.0,,False,False,True
+O501294,C10687,2023-04-02,2023-11-02,Delivered,UPI,14228.84,15.0,120.0,214.0,False,False,False
+O501295,C10255,2025-09-13,2025-09-17,Returned,Cash on Delivery,643.69,0.0,99.0,4.0,False,False,False
+O501296,C10467,2024-01-18,2024-01-22,Delivered,Credit Card,680.79,20.0,40.0,4.0,False,False,False
+O501297,C10180,2024-01-15,2024-01-23,Delivered,Wallet,1652.84,15.0,75.0,8.0,False,False,False
+O501298,C10413,2024-08-21,2024-08-29,Delivered,UPI,4946.58,20.0,99.0,8.0,False,False,False
+O501299,C11142,2024-09-07,2024-09-12,Delivered,Debit Card,1091.02,25.0,40.0,5.0,False,False,False
+O501300,C10330,2023-11-18,2023-11-20,Delivered,Debit Card,555.95,15.0,0.0,2.0,False,False,False
+O501301,C10777,2023-05-11,,Pending,Debit Card,1133.04,25.0,40.0,,False,False,True
+O501302,C10397,2025-07-19,2025-07-24,Delivered,Debit Card,2547.48,10.0,0.0,5.0,False,False,False
+O501303,C10231,2025-09-05,2025-09-13,Delivered,Credit Card,4879.27,0.0,40.0,8.0,False,False,False
+O501304,C10234,2025-01-04,2025-11-01,Delivered,Net Banking,5092.58,0.0,120.0,301.0,False,False,False
+O501305,C10185,2025-06-29,,Processing,Net Banking,4276.63,10.0,40.0,,False,False,True
+O501306,C10994,2023-03-04,2023-05-04,Delivered,Cash on Delivery,3754.74,0.0,50.0,61.0,False,False,False
+O501307,C10153,2023-09-02,2023-09-10,Delivered,Net Banking,807.37,0.0,75.0,8.0,False,False,False
+O501308,C10736,2025-10-27,2025-10-28,Delivered,Credit Card,464.4,25.0,99.0,1.0,False,False,False
+O501309,C10580,2025-06-19,2025-06-20,Delivered,UPI,1806.28,0.0,0.0,1.0,False,False,False
+O501310,C10881,2025-09-09,2025-09-13,Delivered,UPI,0.0,15.0,99.0,4.0,False,True,False
+O501311,C10392,2023-11-22,2023-11-27,Delivered,Cash on Delivery,498.71,0.0,0.0,5.0,False,False,False
+O501312,C10983,2023-11-18,2023-11-20,Delivered,Net Banking,4071.51,0.0,0.0,2.0,False,False,False
+O501313,C10996,2025-01-20,2025-01-23,Delivered,UPI,2626.65,5.0,40.0,3.0,False,False,False
+O501314,C10492,2023-11-21,,Pending,Cash on Delivery,1135.66,30.0,75.0,,False,False,True
+O501315,C10866,2024-11-10,,Processing,Net Banking,976.05,20.0,120.0,,False,False,True
+O501316,C10590,2023-09-11,,Cancelled,Cash on Delivery,7306.1,15.0,60.0,,False,False,True
+O501317,C11135,2023-09-06,2023-09-14,Delivered,Debit Card,10276.6,20.0,75.0,8.0,False,False,False
+O501318,C10058,2024-10-25,,Cancelled,Debit Card,2749.86,15.0,120.0,,False,False,True
+O501319,C10571,2024-09-10,,Processing,Credit Card,11308.57,5.0,99.0,,False,False,True
+O501320,C10194,2023-07-09,2023-09-10,Delivered,Cash on Delivery,1119.97,20.0,0.0,63.0,False,False,False
+O501321,C10259,2025-04-20,2025-04-25,Delivered,Wallet,463.17,0.0,60.0,5.0,False,False,False
+O501322,C10438,2024-06-19,2024-06-27,Delivered,Credit Card,8952.09,25.0,50.0,8.0,False,False,False
+O501323,C10086,2025-09-08,,Pending,Credit Card,6136.64,0.0,75.0,,False,False,True
+O501324,C10486,2024-01-17,2024-01-22,Delivered,UPI,2473.93,0.0,75.0,5.0,False,False,False
+O501325,C10940,2025-04-19,2025-04-21,Delivered,UPI,2627.67,0.0,99.0,2.0,False,False,False
+O501326,C10669,2025-08-20,2025-08-28,Delivered,UPI,2865.78,0.0,60.0,8.0,False,False,False
+O501327,C11131,2025-08-29,2025-09-01,Delivered,Debit Card,5415.16,15.0,0.0,3.0,False,False,False
+O501328,C10664,2024-08-08,2024-08-15,Delivered,Cash on Delivery,1539.93,15.0,0.0,7.0,False,False,False
+O501329,C10562,2023-08-15,2023-08-20,Delivered,Net Banking,3859.59,25.0,50.0,5.0,False,False,False
+O501330,C10358,2024-10-13,2024-10-17,Delivered,Debit Card,4339.75,0.0,120.0,4.0,False,False,False
+O501331,C11195,2024-02-10,2024-02-16,Delivered,UPI,3423.66,30.0,40.0,6.0,False,False,False
+O501332,C11021,2024-07-07,2024-07-09,Delivered,Cash,7857.89,0.0,0.0,2.0,False,False,False
+O501333,C10584,2025-03-11,,Processing,Wallet,4581.75,10.0,120.0,,False,False,True
+O501334,C11098,2025-09-18,,Processing,Credit Card,1460.32,30.0,120.0,,False,False,True
+O501335,C10117,2025-05-09,2025-05-13,Returned,Debit Card,2596.64,10.0,99.0,4.0,False,False,False
+O501336,C10794,2025-03-17,2025-03-21,Delivered,Cash on Delivery,2219.87,10.0,50.0,4.0,False,False,False
+O501337,C10886,2024-03-05,2024-03-08,Delivered,Cash on Delivery,2551.44,5.0,50.0,3.0,False,False,False
+O501338,C11010,2023-04-05,2023-05-10,Returned,Cash on Delivery,658.66,20.0,0.0,35.0,False,False,False
+O501339,C10782,2024-03-20,2024-03-22,Delivered,Net Banking,1160.94,0.0,99.0,2.0,False,False,False
+O501340,Unknown,2023-09-18,2023-09-25,Delivered,Credit Card,9372.17,0.0,120.0,7.0,False,False,False
+O501341,C11101,2023-05-19,2023-05-23,Delivered,Wallet,2164.38,0.0,99.0,4.0,False,False,False
+O501342,Unknown,2023-03-24,,Cancelled,Net Banking,3468.3,25.0,75.0,,False,False,True
+O501343,C10039,2024-12-28,2025-01-01,Delivered,Net Banking,2487.28,25.0,40.0,4.0,False,False,False
+O501344,C10381,2025-11-04,2025-04-19,Shipped,Wallet,2560.16,15.0,60.0,,True,False,False
+O501345,C10339,2023-06-15,2023-06-16,Delivered,Wallet,2347.19,0.0,40.0,1.0,False,False,False
+O501346,C10013,2023-04-09,2023-11-04,Delivered,Net Banking,1197.96,0.0,0.0,209.0,False,False,False
+O501347,C10963,2024-09-15,2024-09-21,Delivered,Wallet,6876.92,30.0,50.0,6.0,False,False,False
+O501348,C10679,2025-03-06,,Cancelled,UPI,1150.78,0.0,0.0,,False,False,True
+O501349,C10580,2025-01-06,2025-01-09,Delivered,UPI,1142.52,30.0,99.0,3.0,False,False,False
+O501350,C10910,2023-04-03,2023-03-06,Delivered,Cash on Delivery,2956.31,15.0,75.0,,True,False,False
+O501351,C10058,2024-06-30,,Processing,Wallet,1923.73,5.0,99.0,,False,False,True
+O501352,C10089,2024-10-06,2024-10-10,Delivered,Debit Card,3325.83,25.0,50.0,4.0,False,False,False
+O501353,C11092,2024-03-05,,Cancelled,UPI,1003.62,0.0,120.0,,False,False,True
+O501354,C10439,2025-03-24,2025-03-26,Delivered,UPI,413.31,10.0,60.0,2.0,False,False,False
+O501355,C10621,2023-08-30,2023-08-31,Delivered,UPI,5615.44,0.0,40.0,1.0,False,False,False
+O501356,C10211,2023-04-27,2023-05-04,Delivered,Cash on Delivery,1690.31,15.0,99.0,7.0,False,False,False
+O501357,C10534,2025-05-02,2025-05-06,Delivered,UPI,1521.89,5.0,75.0,4.0,False,False,False
+O501358,C10934,2024-12-21,2024-12-28,Delivered,Credit Card,3900.21,0.0,0.0,7.0,False,False,False
+O501359,C10971,2025-01-28,,Pending,Net Banking,1996.38,30.0,60.0,,False,False,True
+O501360,C10340,2024-08-31,2024-04-09,Delivered,Debit Card,1599.02,5.0,0.0,,True,False,False
+O501361,C10142,2024-03-29,2024-04-01,Returned,Net Banking,4646.21,25.0,50.0,3.0,False,False,False
+O501362,C10402,2023-12-21,2023-12-23,Delivered,Credit Card,1548.73,25.0,40.0,2.0,False,False,False
+O501363,C10018,2024-05-10,2024-05-16,Delivered,Net Banking,3687.52,0.0,120.0,6.0,False,False,False
+O501364,C11082,2024-01-10,2024-01-15,Delivered,Wallet,387.76,25.0,0.0,5.0,False,False,False
+O501365,C10801,2024-11-23,2024-11-24,Delivered,Credit Card,2869.25,15.0,40.0,1.0,False,False,False
+O501366,C10056,2024-12-27,2025-04-01,Delivered,Debit Card,3454.82,20.0,0.0,95.0,False,False,False
+O501367,C10877,2023-09-01,2023-09-07,Delivered,Credit Card,887.94,10.0,75.0,6.0,False,False,False
+O501368,C10688,2025-03-22,2025-03-26,Delivered,Debit Card,651.47,0.0,75.0,4.0,False,False,False
+O501369,C10783,2023-04-16,2023-04-18,Returned,Cash on Delivery,1424.68,15.0,0.0,2.0,False,False,False
+O501370,C11146,2024-10-13,2024-10-15,Delivered,Net Banking,677.78,0.0,0.0,2.0,False,False,False
+O501371,C10823,2023-05-19,2023-05-26,Delivered,Cash on Delivery,4131.29,15.0,40.0,7.0,False,False,False
+O501372,C10816,2024-01-06,2024-04-06,Delivered,Credit Card,3029.27,5.0,60.0,91.0,False,False,False
+O501373,C10278,2025-05-10,2025-05-11,Delivered,Net Banking,964.24,10.0,99.0,1.0,False,False,False
+O501374,C10076,2025-06-26,2025-07-04,Delivered,Debit Card,500.99,20.0,40.0,8.0,False,False,False
+O501375,C10184,2025-05-13,2025-05-20,Delivered,Debit Card,2974.9,20.0,60.0,7.0,False,False,False
+O501376,C11096,2025-08-27,2025-01-09,Shipped,Wallet,2537.37,0.0,99.0,,True,False,False
+O501377,C10302,2024-04-10,,Processing,UPI,1859.35,0.0,0.0,,False,False,True
+O501378,C10303,2024-06-20,2024-06-25,Delivered,Cash on Delivery,1598.94,0.0,120.0,5.0,False,False,False
+O501379,C10746,2023-04-04,2023-04-12,Delivered,Credit Card,914.36,25.0,60.0,8.0,False,False,False
+O501380,C10095,2023-12-26,2023-12-31,Delivered,UPI,2494.55,25.0,50.0,5.0,False,False,False
+O501381,C10250,2025-04-24,2025-04-28,Delivered,Credit Card,7288.7,10.0,0.0,4.0,False,False,False
+O501382,C10063,2025-09-07,2025-11-09,Returned,Credit Card,2387.96,30.0,75.0,63.0,False,False,False
+O501383,C10331,2024-12-11,,Cancelled,Cash on Delivery,3200.39,0.0,50.0,,False,False,True
+O501384,C10698,2024-02-03,2024-05-03,Returned,Net Banking,1845.85,0.0,60.0,90.0,False,False,False
+O501385,C11117,2024-11-24,2024-11-27,Delivered,Credit Card,3528.01,30.0,75.0,3.0,False,False,False
+O501386,C10870,2025-02-25,2025-03-04,Delivered,Debit Card,3337.16,0.0,99.0,7.0,False,False,False
+O501387,C11153,2025-01-16,,Processing,Net Banking,791.14,0.0,0.0,,False,False,True
+O501388,C11178,2024-11-07,2024-11-11,Delivered,Wallet,4564.27,0.0,50.0,4.0,False,False,False
+O501389,C10076,2024-12-08,2024-12-16,Delivered,Wallet,3670.86,5.0,0.0,8.0,False,False,False
+O501390,C10492,2025-02-13,2025-02-14,Delivered,Net Banking,3929.36,0.0,75.0,1.0,False,False,False
+O501391,C10885,2023-04-21,,Cancelled,Net Banking,2993.51,5.0,0.0,,False,False,True
+O501392,C10350,2025-07-16,,Cancelled,Net Banking,1078.76,15.0,60.0,,False,False,True
+O501393,C10873,2023-12-18,2023-12-19,Delivered,UPI,4096.61,0.0,60.0,1.0,False,False,False
+O501394,C10566,2025-09-26,,Pending,Wallet,1761.87,0.0,99.0,,False,False,True
+O501395,C11083,2024-02-13,2024-02-15,Delivered,Net Banking,2619.61,15.0,0.0,2.0,False,False,False
+O501396,C11082,2023-12-20,2023-12-28,Delivered,Debit Card,790.39,0.0,120.0,8.0,False,False,False
+O501397,C11050,2025-07-26,2025-08-02,Delivered,Cash on Delivery,1039.24,25.0,0.0,7.0,False,False,False
+O501398,C10345,2024-02-29,2024-03-08,Delivered,Wallet,1123.4,10.0,50.0,8.0,False,False,False
+O501399,C11040,2023-09-05,2023-09-11,Delivered,Net Banking,4652.5,15.0,99.0,6.0,False,False,False
+O501400,C10639,2023-01-11,2023-01-16,Delivered,Credit Card,3391.47,30.0,0.0,5.0,False,False,False
+O501401,C10386,2024-10-14,,Processing,UPI,2538.59,0.0,99.0,,False,False,True
+O501402,C10629,2024-09-24,,Pending,Cash on Delivery,3385.2,20.0,0.0,,False,False,True
+O501403,C10669,2023-01-08,2023-01-15,Delivered,Net Banking,6225.26,5.0,40.0,7.0,False,False,False
+O501404,C10969,2023-05-14,2023-05-17,Shipped,Wallet,2010.6,15.0,40.0,3.0,False,False,False
+O501405,C10416,2023-12-05,2023-12-08,Delivered,Debit Card,1848.11,0.0,0.0,3.0,False,False,False
+O501406,C10023,2023-03-22,2023-03-25,Delivered,Credit Card,3536.34,0.0,40.0,3.0,False,False,False
+O501407,C10163,2024-02-26,2024-03-01,Delivered,Credit Card,967.66,5.0,99.0,4.0,False,False,False
+O501408,C11157,2024-06-16,2024-06-21,Delivered,Wallet,2051.84,0.0,0.0,5.0,False,False,False
+O501409,C10907,2024-06-26,2024-07-02,Delivered,Credit Card,681.03,5.0,60.0,6.0,False,False,False
+O501410,C10174,2024-11-30,,Processing,UPI,2842.88,30.0,75.0,,False,False,True
+O501411,C10842,2025-10-14,2025-10-22,Returned,Credit Card,3021.42,15.0,50.0,8.0,False,False,False
+O501412,C10515,2024-04-13,2024-04-14,Delivered,Credit Card,861.57,25.0,99.0,1.0,False,False,False
+O501413,C10979,2023-01-16,2023-01-24,Shipped,Credit Card,551.17,30.0,0.0,8.0,False,False,False
+O501414,C11166,2025-06-25,2025-06-26,Delivered,UPI,703.2,30.0,50.0,1.0,False,False,False
+O501415,C10389,2024-10-14,,Processing,Wallet,3414.41,25.0,50.0,,False,False,True
+O501416,C10054,2024-08-19,2024-08-25,Shipped,Cash on Delivery,957.75,30.0,60.0,6.0,False,False,False
+O501417,C10503,2025-08-17,2025-08-22,Delivered,Debit Card,3939.7,0.0,120.0,5.0,False,False,False
+O501418,C10095,2025-08-31,2025-03-09,Delivered,Net Banking,1997.03,15.0,50.0,,True,False,False
+O501419,C11040,2025-02-01,2025-02-07,Delivered,Net Banking,2966.51,0.0,0.0,6.0,False,False,False
+O501420,C10827,2023-08-06,2023-06-16,Delivered,Credit Card,2957.87,15.0,50.0,,True,False,False
+O501421,C11177,2024-01-20,2024-01-25,Delivered,Cash on Delivery,5239.23,20.0,40.0,5.0,False,False,False
+O501422,C10687,2023-06-04,2023-04-09,Delivered,UPI,1857.34,0.0,50.0,,True,False,False
+O501423,Unknown,2025-01-30,2025-02-02,Shipped,UPI,5760.87,25.0,99.0,3.0,False,False,False
+O501424,C10288,2025-03-24,2025-03-31,Delivered,Credit Card,3868.32,0.0,120.0,7.0,False,False,False
+O501425,C10069,2025-01-06,2025-01-08,Delivered,Net Banking,2133.48,0.0,60.0,2.0,False,False,False
+O501426,C10954,2023-10-05,2023-11-05,Delivered,Cash on Delivery,2051.47,0.0,120.0,31.0,False,False,False
+O501427,C10292,2023-12-19,,Processing,Debit Card,855.79,0.0,120.0,,False,False,True
+O501428,C10049,2023-02-04,2023-04-08,Delivered,Cash on Delivery,3047.6,0.0,50.0,63.0,False,False,False
+O501429,C10845,2023-10-08,2023-10-15,Delivered,UPI,1358.79,30.0,75.0,7.0,False,False,False
+O501430,C11068,2023-09-26,2023-09-29,Returned,Wallet,2660.11,25.0,120.0,3.0,False,False,False
+O501431,C11040,2024-10-14,2024-10-15,Delivered,Debit Card,2840.78,10.0,0.0,1.0,False,False,False
+O501432,Unknown,2024-03-01,2024-04-01,Shipped,Credit Card,828.79,20.0,75.0,31.0,False,False,False
+O501433,C10369,2025-01-18,2025-01-21,Delivered,Net Banking,310.41,15.0,40.0,3.0,False,False,False
+O501434,C10646,2023-05-02,2023-02-12,Shipped,Debit Card,2554.43,10.0,99.0,,True,False,False
+O501435,C10150,2024-01-05,2024-01-13,Delivered,Credit Card,1382.08,0.0,120.0,8.0,False,False,False
+O501436,C10389,2023-01-30,2023-05-02,Shipped,Credit Card,12502.4,20.0,60.0,92.0,False,False,False
+O501437,C10108,2025-07-03,,Processing,Wallet,1328.66,0.0,75.0,,False,False,True
+O501438,C10700,2025-07-15,2025-07-17,Delivered,Credit Card,5963.48,0.0,0.0,2.0,False,False,False
+O501439,Unknown,2024-08-19,2024-08-24,Delivered,Credit Card,429.93,5.0,50.0,5.0,False,False,False
+O501440,C10693,2025-03-23,2025-03-28,Delivered,Credit Card,4559.71,25.0,0.0,5.0,False,False,False
+O501441,C10188,2024-03-12,,Cancelled,Net Banking,1917.65,0.0,75.0,,False,False,True
+O501442,C10463,2024-05-26,,Cancelled,Cash on Delivery,1394.46,10.0,50.0,,False,False,True
+O501443,C10422,2024-10-25,,Processing,Credit Card,2053.39,20.0,60.0,,False,False,True
+O501444,C11108,2024-03-23,,Cancelled,Cash on Delivery,3090.46,30.0,40.0,,False,False,True
+O501445,C10901,2024-05-13,2024-05-19,Delivered,Credit Card,1394.43,20.0,60.0,6.0,False,False,False
+O501446,C10934,2023-01-05,2023-05-06,Delivered,Net Banking,569.99,15.0,40.0,121.0,False,False,False
+O501447,C10766,2023-09-26,2023-10-01,Delivered,Debit Card,5331.07,20.0,75.0,5.0,False,False,False
+O501448,C10181,2024-12-23,,Cancelled,Net Banking,1308.3,10.0,50.0,,False,False,True
+O501449,C10138,2025-07-06,2025-07-11,Returned,UPI,241.73,30.0,0.0,5.0,False,False,False
+O501450,C10956,2023-08-28,2023-04-09,Delivered,Net Banking,2285.35,20.0,0.0,,True,False,False
+O501451,C10527,2023-07-20,,Cancelled,Debit Card,1275.54,30.0,99.0,,False,False,True
+O501452,C11016,2024-04-24,2024-04-30,Shipped,Credit Card,3072.62,10.0,99.0,6.0,False,False,False
+O501453,C10269,2024-10-29,2024-10-30,Delivered,Cash on Delivery,1417.86,0.0,75.0,1.0,False,False,False
+O501454,C10442,2023-11-06,,Processing,Wallet,1475.62,10.0,0.0,,False,False,True
+O501455,C10282,2025-09-09,,Processing,Wallet,3869.01,5.0,75.0,,False,False,True
+O501456,C10481,2024-08-28,2024-01-09,Delivered,Wallet,9978.47,30.0,50.0,,True,False,False
+O501457,C10635,2023-02-17,,Cancelled,UPI,1637.29,0.0,0.0,,False,False,True
+O501458,C10080,2024-07-28,2024-07-29,Delivered,UPI,1329.03,0.0,40.0,1.0,False,False,False
+O501459,C10108,2023-09-30,2023-10-05,Returned,Net Banking,3066.91,10.0,99.0,5.0,False,False,False
+O501460,C10457,2024-08-12,2024-08-18,Delivered,Cash on Delivery,1147.27,10.0,50.0,6.0,False,False,False
+O501461,C10390,2025-09-04,2025-09-07,Returned,Net Banking,2649.36,15.0,99.0,3.0,False,False,False
+O501462,C10739,2025-02-07,,Pending,Wallet,8106.05,25.0,60.0,,False,False,True
+O501463,C10962,2023-05-19,2023-05-21,Delivered,Credit Card,5753.56,0.0,60.0,2.0,False,False,False
+O501464,C10198,2025-12-09,2025-09-17,Delivered,Credit Card,1980.06,10.0,99.0,,True,False,False
+O501465,C10974,2024-06-04,,Pending,Debit Card,1280.27,0.0,40.0,,False,False,True
+O501466,C11171,2024-08-21,2024-08-27,Delivered,Net Banking,1181.18,0.0,0.0,6.0,False,False,False
+O501467,C10339,2025-09-25,,Pending,UPI,620.72,25.0,0.0,,False,False,True
+O501468,C10681,2024-11-20,2024-11-28,Delivered,Debit Card,1563.71,0.0,99.0,8.0,False,False,False
+O501469,C10178,2023-06-07,2023-06-09,Delivered,Debit Card,3345.79,0.0,40.0,2.0,False,False,False
+O501470,C10410,2025-01-09,,Processing,Cash on Delivery,7275.14,10.0,60.0,,False,False,True
+O501471,C10200,2023-03-13,,Delivered,Credit Card,1111.04,25.0,0.0,,False,False,True
+O501472,C10464,2023-08-20,,Cancelled,Credit Card,1290.41,0.0,120.0,,False,False,True
+O501473,C11040,2023-10-17,2023-10-25,Delivered,UPI,2244.91,10.0,0.0,8.0,False,False,False
+O501474,C10313,2025-07-09,2025-10-09,Delivered,Net Banking,2448.06,20.0,40.0,92.0,False,False,False
+O501475,C10339,2023-06-01,2023-06-05,Delivered,UPI,1130.37,0.0,0.0,4.0,False,False,False
+O501476,C10998,2023-01-09,2023-09-02,Delivered,Credit Card,859.77,0.0,99.0,236.0,False,False,False
+O501477,C11072,2023-01-04,2023-01-12,Delivered,UPI,6796.39,20.0,0.0,8.0,False,False,False
+O501478,C10415,2023-01-08,2023-09-01,Delivered,Cash on Delivery,5140.4,20.0,40.0,236.0,False,False,False
+O501479,C10130,2024-05-19,2024-05-26,Delivered,Debit Card,1209.97,10.0,99.0,7.0,False,False,False
+O501480,C10519,2025-09-22,,Pending,Net Banking,492.71,0.0,40.0,,False,False,True
+O501481,C10927,2024-05-09,2024-05-14,Delivered,UPI,1897.66,30.0,99.0,5.0,False,False,False
+O501482,C11024,2024-03-14,2024-03-17,Delivered,Wallet,4004.88,20.0,120.0,3.0,False,False,False
+O501483,Unknown,2025-10-13,2025-10-18,Delivered,Debit Card,5452.36,0.0,40.0,5.0,False,False,False
+O501484,C10289,2023-08-30,,Processing,UPI,2288.09,0.0,50.0,,False,False,True
+O501485,C10402,2025-08-08,,Cancelled,Credit Card,3046.67,10.0,60.0,,False,False,True
+O501486,C10864,2025-03-29,2025-01-04,Delivered,Credit Card,7088.12,0.0,40.0,,True,False,False
+O501487,C10698,2023-01-03,2023-01-06,Delivered,UPI,2662.91,0.0,60.0,3.0,False,False,False
+O501488,C10993,2023-05-10,,Processing,Wallet,3643.78,15.0,0.0,,False,False,True
+O501489,C10027,2024-04-04,,Processing,Debit Card,485.15,0.0,120.0,,False,False,True
+O501490,C10862,2025-05-22,2025-05-23,Delivered,Cash on Delivery,1786.58,5.0,60.0,1.0,False,False,False
+O501491,C10250,2023-07-21,2023-07-26,Delivered,Net Banking,2051.28,15.0,75.0,5.0,False,False,False
+O501492,C10861,2023-02-22,2023-02-27,Delivered,Wallet,2396.53,0.0,99.0,5.0,False,False,False
+O501493,C11051,2024-01-23,2024-01-30,Delivered,Net Banking,1845.95,30.0,60.0,7.0,False,False,False
+O501494,C10688,2023-09-09,2023-09-10,Delivered,UPI,3675.23,10.0,50.0,1.0,False,False,False
+O501495,C10331,2023-12-28,2023-12-29,Delivered,Cash on Delivery,3770.98,30.0,50.0,1.0,False,False,False
+O501496,C10791,2024-08-26,2024-08-30,Delivered,UPI,4243.89,25.0,99.0,4.0,False,False,False
+O501497,C11132,2024-07-02,2024-07-10,Delivered,Credit Card,2218.2,20.0,50.0,8.0,False,False,False
+O501498,C10672,2024-11-16,2024-11-22,Delivered,UPI,731.12,0.0,60.0,6.0,False,False,False
+O501499,C10425,2023-04-25,2023-04-26,Delivered,UPI,4133.86,25.0,0.0,1.0,False,False,False
+O501500,C10512,,2024-05-20,Delivered,UPI,4668.95,0.0,75.0,,False,False,False
+O501501,C11025,2025-09-03,2025-09-11,Delivered,Cash on Delivery,1987.52,30.0,120.0,8.0,False,False,False
+O501502,C10442,2023-09-04,2023-11-09,Delivered,UPI,2493.27,30.0,60.0,66.0,False,False,False
+O501503,C10853,2024-07-14,2024-07-17,Delivered,Debit Card,633.72,20.0,60.0,3.0,False,False,False
+O501504,C10276,2025-06-18,2025-06-25,Delivered,Net Banking,381.03,15.0,50.0,7.0,False,False,False
+O501505,C10498,2023-07-12,,Processing,UPI,2324.34,10.0,75.0,,False,False,True
+O501506,C10454,2025-11-08,2025-08-12,Delivered,UPI,5719.16,10.0,99.0,,True,False,False
+O501507,C10536,2024-03-13,2024-03-19,Delivered,Credit Card,7197.78,30.0,50.0,6.0,False,False,False
+O501508,C11089,2023-03-08,2023-03-16,Delivered,Cash on Delivery,1122.08,10.0,40.0,8.0,False,False,False
+O501509,C10173,2025-05-17,2025-05-24,Returned,UPI,1578.26,0.0,99.0,7.0,False,False,False
+O501510,C10109,2023-09-16,2023-09-17,Delivered,Debit Card,895.38,10.0,120.0,1.0,False,False,False
+O501511,C10445,2024-03-10,2024-03-16,Delivered,Debit Card,16841.59,5.0,50.0,6.0,False,False,False
+O501512,C10246,2024-11-24,2024-12-01,Delivered,Wallet,1756.43,10.0,75.0,7.0,False,False,False
+O501513,C10084,2024-06-29,,Processing,UPI,6261.91,25.0,75.0,,False,False,True
+O501514,C10591,2025-03-27,2025-03-31,Returned,Credit Card,4673.29,15.0,0.0,4.0,False,False,False
+O501515,C10900,2025-05-30,2025-06-02,Delivered,Debit Card,342.03,10.0,40.0,3.0,False,False,False
+O501516,C10115,2025-02-17,2025-02-20,Delivered,Credit Card,2034.1,0.0,0.0,3.0,False,False,False
+O501517,C10677,2023-06-12,2023-06-20,Delivered,Debit Card,2261.46,0.0,60.0,8.0,False,False,False
+O501518,C11087,2023-08-24,2023-08-31,Delivered,UPI,1288.73,10.0,99.0,7.0,False,False,False
+O501519,C11149,2025-09-13,2025-09-21,Delivered,Credit Card,2800.53,0.0,60.0,8.0,False,False,False
+O501520,C10662,2023-07-13,2023-07-19,Delivered,Credit Card,359.71,10.0,99.0,6.0,False,False,False
+O501521,C10475,2025-09-19,2025-09-24,Delivered,Debit Card,672.52,30.0,0.0,5.0,False,False,False
+O501522,C10678,2024-11-03,2024-03-19,Delivered,Wallet,1022.31,15.0,75.0,,True,False,False
+O501523,C10452,2023-09-23,2023-09-25,Delivered,Wallet,802.47,0.0,0.0,2.0,False,False,False
+O501524,C11056,2023-12-26,,Processing,Wallet,7612.44,15.0,0.0,,False,False,True
+O501525,C10166,2023-11-14,2023-11-17,Shipped,Net Banking,752.14,0.0,50.0,3.0,False,False,False
+O501526,C10949,2024-03-09,2024-11-03,Shipped,Net Banking,949.53,0.0,0.0,239.0,False,False,False
+O501527,C10255,2024-10-07,2024-10-13,Delivered,Wallet,1379.57,0.0,75.0,6.0,False,False,False
+O501528,C10284,2024-05-09,2024-10-09,Delivered,Wallet,3924.47,30.0,0.0,153.0,False,False,False
+O501529,C11168,2025-07-23,,Pending,Credit Card,2259.92,5.0,50.0,,False,False,True
+O501530,C10081,2024-05-24,2024-05-25,Delivered,UPI,2063.52,0.0,75.0,1.0,False,False,False
+O501531,C10949,2023-08-23,2023-08-24,Delivered,Credit Card,769.39,0.0,0.0,1.0,False,False,False
+O501532,C10133,2023-07-20,2023-07-24,Delivered,Cash on Delivery,3575.59,30.0,0.0,4.0,False,False,False
+O501533,C10330,2024-03-08,2024-03-14,Delivered,Credit Card,460.91,25.0,50.0,6.0,False,False,False
+O501534,C10397,2023-03-29,2023-03-30,Delivered,UPI,699.27,0.0,50.0,1.0,False,False,False
+O501535,C10540,2025-10-08,2025-10-09,Shipped,Net Banking,3885.52,10.0,99.0,1.0,False,False,False
+O501536,C10843,2025-07-10,2025-10-14,Delivered,Wallet,12305.53,0.0,40.0,96.0,False,False,False
+O501537,C11131,2025-09-28,2025-09-29,Delivered,Debit Card,1250000.0,5.0,40.0,1.0,False,False,False
+O501538,C10895,2023-06-09,2023-06-14,Returned,Credit Card,3899.1,15.0,0.0,5.0,False,False,False
+O501539,C10148,2024-12-31,2025-01-02,Delivered,UPI,751.62,25.0,75.0,2.0,False,False,False
+O501540,C10117,2024-02-22,2024-02-25,Shipped,Wallet,6984.04,0.0,40.0,3.0,False,False,False
+O501541,Unknown,2024-04-07,,Cancelled,UPI,3398.95,0.0,0.0,,False,False,True
+O501542,C10599,2023-03-15,2023-03-22,Delivered,Wallet,1090.69,20.0,0.0,7.0,False,False,False
+O501543,C10744,2023-11-10,2023-11-17,Delivered,UPI,1427.36,10.0,0.0,7.0,False,False,False
+O501544,C10345,2023-12-18,2023-12-22,Delivered,Debit Card,3445.28,10.0,40.0,4.0,False,False,False
+O501545,C10681,2025-09-12,2025-09-14,Delivered,Net Banking,6186.22,0.0,60.0,2.0,False,False,False
+O501546,C10554,2025-06-23,2025-06-27,Delivered,Cash on Delivery,2221.13,20.0,50.0,4.0,False,False,False
+O501547,C10418,2024-06-07,2024-06-11,Delivered,Credit Card,2843.42,25.0,0.0,4.0,False,False,False
+O501548,C10070,2024-02-04,2024-04-03,Delivered,Cash on Delivery,375.78,0.0,99.0,59.0,False,False,False
+O501549,C10528,2025-07-01,2025-07-08,Shipped,Debit Card,3842.23,10.0,99.0,7.0,False,False,False
+O501550,C10264,2023-06-19,2023-06-20,Delivered,Debit Card,1446.27,5.0,120.0,1.0,False,False,False
+O501551,C11114,2025-04-22,2025-04-24,Delivered,Debit Card,2364.38,25.0,75.0,2.0,False,False,False
+O501552,C10091,2024-11-12,2024-12-15,Delivered,UPI,2024.67,20.0,60.0,33.0,False,False,False
+O501553,C10924,2024-04-07,2024-04-11,Delivered,Cash on Delivery,4835.66,15.0,40.0,4.0,False,False,False
+O501554,C10124,2024-02-24,2024-03-01,Delivered,UPI,1350.01,0.0,60.0,6.0,False,False,False
+O501555,C10475,2023-05-05,,Processing,Cash on Delivery,866.26,0.0,75.0,,False,False,True
+O501556,Unknown,2025-03-29,,Pending,Debit Card,2654.49,10.0,0.0,,False,False,True
+O501557,C10332,2024-03-16,2024-03-21,Delivered,Wallet,2646.09,10.0,0.0,5.0,False,False,False
+O501558,C10427,2025-03-24,2025-03-25,Delivered,Wallet,548.07,5.0,0.0,1.0,False,False,False
+O501559,C10158,2025-03-20,2025-03-21,Delivered,Cash on Delivery,1659.17,15.0,60.0,1.0,False,False,False
+O501560,C10369,2025-09-15,2025-09-20,Delivered,Net Banking,1447.23,25.0,99.0,5.0,False,False,False
+O501561,C10331,2025-10-12,2025-10-19,Returned,UPI,3341.69,15.0,99.0,7.0,False,False,False
+O501562,C10604,2023-10-11,2023-10-16,Shipped,Credit Card,5486.51,15.0,50.0,5.0,False,False,False
+O501563,C10842,2024-04-13,2024-04-15,Delivered,Debit Card,2460.14,0.0,120.0,2.0,False,False,False
+O501564,C10294,2023-03-02,2023-08-02,Delivered,Net Banking,9014.04,0.0,120.0,153.0,False,False,False
+O501565,C10460,2025-06-11,2025-06-13,Delivered,Wallet,244.48,0.0,60.0,2.0,False,False,False
+O501566,C10186,2025-01-23,2025-01-26,Delivered,Cash on Delivery,4713.24,0.0,40.0,3.0,False,False,False
+O501567,C11038,2023-09-28,2023-10-01,Delivered,Net Banking,870.26,0.0,50.0,3.0,False,False,False
+O501568,C10937,2025-01-27,2025-01-30,Delivered,Credit Card,646.27,0.0,0.0,3.0,False,False,False
+O501569,C10985,2025-07-26,2025-07-31,Delivered,UPI,1398.43,10.0,75.0,5.0,False,False,False
+O501570,C10236,2024-05-14,2024-05-20,Delivered,Credit Card,687.66,15.0,0.0,6.0,False,False,False
+O501571,C10640,2023-10-29,2023-11-06,Delivered,Cash on Delivery,3080.93,0.0,0.0,8.0,False,False,False
+O501572,C11109,2024-06-05,2024-05-07,Delivered,Wallet,3771.48,0.0,120.0,,True,False,False
+O501573,C10760,2024-02-12,,Pending,Debit Card,847.04,25.0,0.0,,False,False,True
+O501574,C10712,2024-12-24,2024-12-29,Delivered,Debit Card,964.58,10.0,120.0,5.0,False,False,False
+O501575,C11082,2025-01-26,2025-02-01,Delivered,Net Banking,1997.84,0.0,99.0,6.0,False,False,False
+O501576,C10409,2023-05-03,,Pending,Net Banking,9717.77,0.0,60.0,,False,False,True
+O501577,C10691,2025-06-06,,Processing,Wallet,5757.02,20.0,0.0,,False,False,True
+O501578,C10671,2025-09-15,2025-09-22,Delivered,Credit Card,7897.53,0.0,0.0,7.0,False,False,False
+O501579,C10563,2023-07-30,,Cancelled,UPI,1010.3,20.0,40.0,,False,False,True
+O501580,C10305,2023-03-13,2023-03-14,Returned,Credit Card,2318.31,5.0,0.0,1.0,False,False,False
+O501581,Unknown,2024-07-06,2024-07-13,Delivered,Credit Card,5478.03,0.0,0.0,7.0,False,False,False
+O501582,C10628,2023-04-27,2023-04-28,Delivered,Wallet,2764.34,0.0,40.0,1.0,False,False,False
+O501583,C11147,2024-07-05,,Cancelled,Debit Card,8300.24,25.0,0.0,,False,False,True
+O501584,C10753,2023-08-14,2023-08-16,Delivered,Cash on Delivery,2504.86,0.0,75.0,2.0,False,False,False
+O501585,C10065,2025-06-28,2025-06-30,Delivered,UPI,1631.25,10.0,99.0,2.0,False,False,False
+O501586,C10397,2024-04-08,2024-12-04,Delivered,Cash on Delivery,981.73,25.0,60.0,240.0,False,False,False
+O501587,C10093,2024-08-14,2024-08-21,Delivered,Debit Card,3869.86,20.0,0.0,7.0,False,False,False
+O501588,C10065,2025-04-02,2025-05-02,Delivered,Cash on Delivery,2828.88,0.0,60.0,30.0,False,False,False
+O501589,C10738,2023-11-06,2023-11-08,Delivered,Credit Card,6326.07,0.0,120.0,2.0,False,False,False
+O501590,C10525,2025-09-13,2025-09-19,Returned,Credit Card,1037.71,30.0,120.0,6.0,False,False,False
+O501591,C10702,2023-05-09,2023-05-12,Delivered,Credit Card,3894.87,30.0,50.0,3.0,False,False,False
+O501592,C10121,2023-11-16,2023-11-17,Delivered,Cash on Delivery,3135.22,30.0,120.0,1.0,False,False,False
+O501593,C10968,2024-05-05,2024-05-06,Delivered,Credit Card,1667.75,5.0,40.0,1.0,False,False,False
+O501594,Unknown,2023-04-23,2023-04-26,Returned,Net Banking,1792.76,0.0,75.0,3.0,False,False,False
+O501595,C11109,2023-03-02,2023-03-07,Delivered,UPI,3766.44,20.0,99.0,5.0,False,False,False
+O501596,C11142,2024-06-20,2024-06-23,Shipped,Wallet,2014.93,0.0,0.0,3.0,False,False,False
+O501597,C11101,2025-06-17,2025-06-25,Delivered,Net Banking,6400.44,0.0,0.0,8.0,False,False,False
+O501598,C10973,2024-01-10,2024-01-18,Delivered,Debit Card,2623.31,5.0,40.0,8.0,False,False,False
+O501599,C11149,2024-05-14,2024-05-22,Delivered,Debit Card,639.41,15.0,120.0,8.0,False,False,False
+O501600,C10992,2024-01-17,2024-01-19,Delivered,UPI,1719.21,0.0,75.0,2.0,False,False,False
+O501601,C10089,2024-07-08,2024-07-16,Delivered,Net Banking,3930.62,15.0,0.0,8.0,False,False,False
+O501602,C10145,2025-02-23,2025-02-24,Delivered,Debit Card,6460.89,20.0,99.0,1.0,False,False,False
+O501603,C10294,2023-09-24,2023-10-02,Shipped,Cash on Delivery,1050.89,25.0,0.0,8.0,False,False,False
+O501604,C11063,2025-08-29,2025-04-09,Delivered,Debit Card,6800.06,0.0,0.0,,True,False,False
+O501605,Unknown,2025-05-08,2025-05-09,Delivered,UPI,4590.62,0.0,0.0,1.0,False,False,False
+O501606,C10941,2023-08-25,,Pending,Debit Card,8928.87,0.0,99.0,,False,False,True
+O501607,C10564,2025-03-07,,Pending,Credit Card,1994.79,20.0,50.0,,False,False,True
+O501608,C10760,2023-05-23,2023-05-30,Delivered,Net Banking,2322.51,25.0,40.0,7.0,False,False,False
+O501609,C10672,2023-06-17,2023-06-18,Delivered,Cash on Delivery,687.48,0.0,75.0,1.0,False,False,False
+O501610,C10626,2025-02-24,,Pending,Net Banking,6471.3,5.0,0.0,,False,False,True
+O501611,C10508,2025-08-24,2025-08-30,Delivered,Debit Card,4961.63,30.0,50.0,6.0,False,False,False
+O501612,C10179,2024-02-08,,Processing,Debit Card,1290.36,25.0,50.0,,False,False,True
+O501613,C10176,2024-02-01,2024-02-06,Delivered,UPI,1434.65,0.0,0.0,5.0,False,False,False
+O501614,C10889,2023-11-02,2023-02-13,Delivered,Debit Card,5697.09,5.0,60.0,,True,False,False
+O501615,C10729,2023-06-08,2023-06-14,Delivered,Wallet,1945.8,0.0,75.0,6.0,False,False,False
+O501616,C10162,2023-01-20,2023-01-26,Delivered,Net Banking,779.23,25.0,60.0,6.0,False,False,False
+O501617,C10134,2023-04-14,2023-04-21,Delivered,Debit Card,1732.22,20.0,120.0,7.0,False,False,False
+O501618,C10034,2023-11-19,2023-11-22,Delivered,Net Banking,7132.63,0.0,0.0,3.0,False,False,False
+O501619,C10483,2025-01-02,2025-01-03,Shipped,Credit Card,560.09,30.0,60.0,1.0,False,False,False
+O501620,C10621,2023-04-28,2023-05-05,Delivered,Credit Card,8749.66,15.0,99.0,7.0,False,False,False
+O501621,C10222,2023-09-13,2023-09-18,Delivered,Debit Card,2323.43,30.0,60.0,5.0,False,False,False
+O501622,Unknown,2024-09-24,2024-09-27,Returned,Cash on Delivery,513.83,25.0,0.0,3.0,False,False,False
+O501623,C10257,,,Processing,Wallet,5121.31,0.0,50.0,,False,False,True
+O501624,C10473,2024-08-05,2024-05-14,Delivered,Credit Card,1201.04,5.0,40.0,,True,False,False
+O501625,C10918,2025-02-10,2025-02-16,Shipped,UPI,4727.43,20.0,0.0,6.0,False,False,False
+O501626,C11192,2025-09-24,2025-09-25,Delivered,Cash,657.26,25.0,120.0,1.0,False,False,False
+O501627,C10328,2023-01-10,2023-01-11,Delivered,Net Banking,3238.22,25.0,75.0,1.0,False,False,False
+O501628,C10007,2024-08-10,2024-08-13,Delivered,Cash on Delivery,1291.83,0.0,75.0,3.0,False,False,False
+O501629,C10533,2025-05-27,2025-05-31,Returned,Net Banking,10703.68,20.0,120.0,4.0,False,False,False
+O501630,C10265,2024-02-03,2024-06-03,Delivered,UPI,13015.97,5.0,50.0,121.0,False,False,False
+O501631,C11177,2025-04-09,2025-04-12,Delivered,UPI,1642.2,5.0,120.0,3.0,False,False,False
+O501632,C10438,2023-01-29,2023-02-01,Delivered,Debit Card,2652.52,30.0,0.0,3.0,False,False,False
+O501633,C10768,2024-03-03,2024-03-04,Delivered,Cash on Delivery,1954.65,0.0,40.0,1.0,False,False,False
+O501634,C10538,2024-08-23,2024-08-28,Delivered,Credit Card,1529.05,10.0,99.0,5.0,False,False,False
+O501635,C10135,2025-01-30,2025-02-05,Delivered,Cash on Delivery,656.98,0.0,120.0,6.0,False,False,False
+O501636,C11046,2025-10-23,,Pending,Debit Card,6556.03,30.0,75.0,,False,False,True
+O501637,C10653,2024-06-04,2024-06-12,Delivered,Wallet,1168.74,10.0,50.0,8.0,False,False,False
+O501638,C10348,2023-01-06,,Processing,UPI,1971.7,15.0,99.0,,False,False,True
+O501639,C10019,2024-07-28,2024-08-01,Shipped,Credit Card,2524.53,15.0,60.0,4.0,False,False,False
+O501640,C11107,2023-09-09,2023-09-15,Delivered,Credit Card,1186.36,30.0,40.0,6.0,False,False,False
+O501641,C10898,2023-06-24,2023-07-01,Delivered,Net Banking,5407.86,20.0,0.0,7.0,False,False,False
+O501642,C10335,2025-07-22,2025-07-27,Delivered,Debit Card,1250.59,5.0,99.0,5.0,False,False,False
+O501643,C10697,2024-06-01,2024-06-06,Delivered,Cash on Delivery,7143.44,5.0,40.0,5.0,False,False,False
+O501644,C10316,2025-01-18,2025-01-21,Delivered,Net Banking,835.99,25.0,60.0,3.0,False,False,False
+O501645,C10775,2023-07-04,2023-07-06,Delivered,Net Banking,1448.96,30.0,0.0,2.0,False,False,False
+O501646,C10115,2024-10-29,2024-04-11,Delivered,Wallet,1581.56,15.0,50.0,,True,False,False
+O501647,C10886,2025-04-26,2025-05-04,Shipped,UPI,2841.28,0.0,0.0,8.0,False,False,False
+O501648,C10047,2023-03-17,2023-03-25,Delivered,Cash on Delivery,5146.41,0.0,99.0,8.0,False,False,False
+O501649,C10555,2023-05-29,2023-05-30,Delivered,Cash on Delivery,8489.46,30.0,40.0,1.0,False,False,False
+O501650,C10294,2025-03-13,2025-03-14,Delivered,Debit Card,0.0,15.0,0.0,1.0,False,True,False
+O501651,C10856,2024-07-02,,Processing,Credit Card,1229.57,0.0,0.0,,False,False,True
+O501652,C10204,2024-03-09,2024-03-16,Delivered,Cash on Delivery,840.28,0.0,75.0,7.0,False,False,False
+O501653,C10303,2025-04-15,2025-04-23,Delivered,Cash on Delivery,1414.31,15.0,99.0,8.0,False,False,False
+O501654,C10792,2023-11-13,2023-11-19,Delivered,Wallet,2665.07,30.0,0.0,6.0,False,False,False
+O501655,C11183,2025-08-11,2025-08-16,Delivered,Credit Card,1435.45,0.0,0.0,5.0,False,False,False
+O501656,C10669,2025-04-27,2025-04-29,Delivered,Credit Card,1013.66,15.0,120.0,2.0,False,False,False
+O501657,C11156,2024-10-09,,Processing,Wallet,5162.48,0.0,0.0,,False,False,True
+O501658,C10036,2025-09-01,2025-05-09,Delivered,Cash,10831.08,30.0,120.0,,True,False,False
+O501659,C10104,2024-03-17,2024-03-25,Delivered,Net Banking,877.14,30.0,50.0,8.0,False,False,False
+O501660,C10574,2023-03-20,2023-03-26,Delivered,Wallet,1477.44,5.0,75.0,6.0,False,False,False
+O501661,C10905,2024-05-14,,Cancelled,Cash on Delivery,2624.42,0.0,99.0,,False,False,True
+O501662,C10325,2025-10-13,2025-10-18,Delivered,Wallet,2067.56,0.0,50.0,5.0,False,False,False
+O501663,C10995,2025-08-02,2025-08-05,Delivered,Net Banking,5823.2,10.0,0.0,3.0,False,False,False
+O501664,C10765,2024-12-20,2024-12-27,Delivered,Wallet,718.37,30.0,0.0,7.0,False,False,False
+O501665,C10225,2025-05-14,2025-05-18,Returned,UPI,2212.42,5.0,50.0,4.0,False,False,False
+O501666,C10850,2024-03-15,,Delivered,Credit Card,9692.86,5.0,75.0,,False,False,True
+O501667,C10134,2024-06-11,,Processing,Net Banking,1214.47,0.0,50.0,,False,False,True
+O501668,C10740,2025-07-07,2025-07-13,Delivered,Credit Card,7116.67,25.0,40.0,6.0,False,False,False
+O501669,C10152,2025-08-11,2025-08-18,Delivered,Wallet,1606.94,10.0,60.0,7.0,False,False,False
+O501670,C10431,,2025-05-07,Delivered,Credit Card,531.89,0.0,0.0,,False,False,False
+O501671,C10778,2023-10-22,2023-10-23,Delivered,Wallet,1720.88,30.0,120.0,1.0,False,False,False
+O501672,C10502,2024-04-18,2024-04-24,Delivered,Net Banking,3015.32,15.0,40.0,6.0,False,False,False
+O501673,C11024,2023-03-26,2023-03-29,Delivered,Credit Card,6349.85,25.0,120.0,3.0,False,False,False
+O501674,C10494,2025-01-28,2025-01-30,Delivered,Net Banking,19986.07,10.0,60.0,2.0,False,False,False
+O501675,C10526,2025-10-10,,Processing,Credit Card,464.6,0.0,120.0,,False,False,True
+O501676,C10879,2025-03-04,2025-10-03,Delivered,Wallet,3435.98,0.0,75.0,213.0,False,False,False
+O501677,C10463,2025-06-05,2025-06-09,Delivered,Credit Card,3796.26,15.0,0.0,4.0,False,False,False
+O501678,C10672,2023-11-25,2023-11-30,Delivered,Credit Card,2308.22,20.0,99.0,5.0,False,False,False
+O501679,C10777,2024-08-13,2024-08-20,Delivered,Credit Card,3966.41,25.0,40.0,7.0,False,False,False
+O501680,C10970,2024-08-07,2024-07-15,Delivered,Debit Card,1069.85,10.0,99.0,,True,False,False
+O501681,C10099,2023-02-09,2023-02-10,Shipped,UPI,1186.09,0.0,0.0,1.0,False,False,False
+O501682,C10089,2025-07-21,2025-07-29,Delivered,Cash on Delivery,1390.74,25.0,75.0,8.0,False,False,False
+O501683,C10228,2024-11-28,2024-11-29,Delivered,Credit Card,801.22,20.0,40.0,1.0,False,False,False
+O501684,C10357,2023-03-03,2023-04-03,Delivered,Net Banking,5882.29,0.0,40.0,31.0,False,False,False
+O501685,C10578,2024-11-08,2024-11-10,Returned,UPI,4298.99,10.0,40.0,2.0,False,False,False
+O501686,C10079,2023-10-12,2023-12-12,Returned,Wallet,1150.93,20.0,75.0,61.0,False,False,False
+O501687,C10903,2023-06-03,2023-06-05,Shipped,UPI,632.5,0.0,99.0,2.0,False,False,False
+O501688,C10142,2025-06-07,2025-11-06,Delivered,Cash on Delivery,439.37,0.0,50.0,152.0,False,False,False
+O501689,C10724,2023-08-19,2023-08-27,Delivered,Net Banking,3727.94,20.0,0.0,8.0,False,False,False
+O501690,C10929,2024-07-25,,Cancelled,Credit Card,1065.53,20.0,75.0,,False,False,True
+O501691,C11142,2023-10-18,2023-10-19,Delivered,Cash on Delivery,627.92,0.0,0.0,1.0,False,False,False
+O501692,C10971,2024-12-23,2024-12-24,Delivered,Net Banking,5223.42,15.0,40.0,1.0,False,False,False
+O501693,C10579,2025-08-10,2025-08-17,Delivered,UPI,4098.45,25.0,75.0,7.0,False,False,False
+O501694,C10532,2025-01-12,2025-01-15,Shipped,Credit Card,2952.92,20.0,0.0,3.0,False,False,False
+O501695,C10429,2023-03-17,2023-03-18,Returned,Net Banking,2835.16,0.0,120.0,1.0,False,False,False
+O501696,C10099,2023-03-15,2023-03-22,Delivered,Net Banking,702.89,0.0,50.0,7.0,False,False,False
+O501697,C10699,2023-03-25,2023-03-28,Delivered,UPI,2485.42,0.0,99.0,3.0,False,False,False
+O501698,C11093,2023-10-10,2023-10-12,Delivered,Credit Card,3164.79,10.0,120.0,2.0,False,False,False
+O501699,C10624,2023-10-06,2023-10-07,Delivered,Credit Card,1410.18,5.0,0.0,1.0,False,False,False
+O501700,C11103,2024-12-26,2024-12-29,Delivered,Wallet,2705.33,30.0,0.0,3.0,False,False,False
+O501701,C10630,2024-04-19,,Pending,Credit Card,4087.49,20.0,50.0,,False,False,True
+O501702,C10758,2024-01-27,2024-01-29,Delivered,UPI,3403.98,25.0,50.0,2.0,False,False,False
+O501703,C10103,2024-02-06,,Cancelled,Credit Card,1916.75,0.0,0.0,,False,False,True
+O501704,C10656,2025-10-14,2025-10-21,Returned,Debit Card,2673.03,10.0,99.0,7.0,False,False,False
+O501705,C10874,2024-01-15,2024-01-22,Delivered,Credit Card,1275.13,30.0,99.0,7.0,False,False,False
+O501706,C10718,2023-07-17,2023-07-23,Delivered,UPI,8978.43,0.0,120.0,6.0,False,False,False
+O501707,C10014,2024-10-13,2024-10-16,Shipped,Cash on Delivery,3114.0,10.0,0.0,3.0,False,False,False
+O501708,C10145,2024-06-20,2024-06-26,Delivered,Cash on Delivery,4507.49,20.0,50.0,6.0,False,False,False
+O501709,C10435,2023-12-24,,Cancelled,Debit Card,2858.45,25.0,0.0,,False,False,True
+O501710,C10959,2023-04-20,2023-04-28,Delivered,Net Banking,2546.76,0.0,0.0,8.0,False,False,False
+O501711,C10470,2024-08-08,2024-08-11,Shipped,UPI,802.7,0.0,0.0,3.0,False,False,False
+O501712,C11110,2024-11-30,2024-02-12,Shipped,UPI,2196.58,0.0,120.0,,True,False,False
+O501713,C10096,2024-06-14,,Cancelled,Debit Card,663.57,20.0,60.0,,False,False,True
+O501714,C10985,2024-01-07,2024-08-07,Delivered,Credit Card,499.18,0.0,0.0,213.0,False,False,False
+O501715,C11190,2024-02-07,2024-02-13,Delivered,Net Banking,1453.84,0.0,40.0,6.0,False,False,False
+O501716,C10937,2023-08-12,,Processing,UPI,1766.6,10.0,99.0,,False,False,True
+O501717,C10470,2023-07-09,2023-07-12,Shipped,Debit Card,3326.49,0.0,75.0,3.0,False,False,False
+O501718,C10975,2024-11-08,2024-10-11,Delivered,Net Banking,3394.4,30.0,50.0,,True,False,False
+O501719,C10702,2023-05-21,2023-05-22,Delivered,UPI,2876.99,15.0,99.0,1.0,False,False,False
+O501720,C10214,2025-07-08,2025-11-08,Shipped,Wallet,1555.88,0.0,0.0,123.0,False,False,False
+O501721,C11102,2023-10-30,2023-11-07,Delivered,UPI,4187.43,0.0,0.0,8.0,False,False,False
+O501722,C11172,2025-10-19,2025-10-26,Delivered,Credit Card,2671.57,30.0,40.0,7.0,False,False,False
+O501723,C10422,2025-07-09,2025-07-14,Delivered,Cash on Delivery,2218.7,0.0,99.0,5.0,False,False,False
+O501724,C10812,2023-11-27,2023-03-12,Delivered,Credit Card,3328.25,0.0,50.0,,True,False,False
+O501725,C10759,2025-10-13,2025-10-17,Delivered,Credit Card,585.63,0.0,60.0,4.0,False,False,False
+O501726,C10715,2023-03-19,2023-03-20,Delivered,Cash on Delivery,534.73,5.0,120.0,1.0,False,False,False
+O501727,C10059,2023-04-20,2023-04-24,Delivered,Wallet,3756.46,25.0,0.0,4.0,False,False,False
+O501728,C10229,2023-08-29,2023-09-03,Shipped,Net Banking,3196.04,0.0,99.0,5.0,False,False,False
+O501729,C10358,2025-08-09,2025-08-17,Delivered,Net Banking,10267.94,0.0,99.0,8.0,False,False,False
+O501730,C10068,2025-10-17,2025-10-21,Delivered,Cash on Delivery,358.75,5.0,0.0,4.0,False,False,False
+O501731,C10070,2023-11-08,2023-11-12,Delivered,Net Banking,904.27,0.0,99.0,4.0,False,False,False
+O501732,C10450,2025-05-02,2025-07-02,Delivered,Net Banking,2065.02,10.0,50.0,61.0,False,False,False
+O501733,C10140,2023-08-23,2023-08-24,Delivered,Cash on Delivery,5264.28,25.0,50.0,1.0,False,False,False
+O501734,C10558,2023-05-09,2023-09-08,Delivered,Cash on Delivery,1154.96,15.0,75.0,122.0,False,False,False
+O501735,C10693,2023-04-08,,Pending,Debit Card,16428.32,0.0,60.0,,False,False,True
+O501736,C10033,2024-02-16,2024-02-19,Delivered,Net Banking,2114.43,5.0,99.0,3.0,False,False,False
+O501737,C10596,2023-07-20,2023-07-22,Returned,Net Banking,4405.2,10.0,60.0,2.0,False,False,False
+O501738,C11136,2024-03-16,,Cancelled,Debit Card,3184.6,25.0,99.0,,False,False,True
+O501739,C10179,2023-04-28,,Processing,Wallet,2254.85,30.0,60.0,,False,False,True
+O501740,C10539,2025-08-25,2025-09-02,Delivered,Credit Card,5426.77,0.0,99.0,8.0,False,False,False
+O501741,C10374,2023-11-05,2023-11-13,Delivered,Net Banking,2514.45,20.0,0.0,8.0,False,False,False
+O501742,Unknown,2023-07-14,2023-07-20,Returned,Wallet,1078.83,10.0,50.0,6.0,False,False,False
+O501743,Unknown,2025-10-05,,Processing,UPI,1741.31,30.0,120.0,,False,False,True
+O501744,C10446,2024-01-23,2024-01-27,Delivered,Credit Card,4515.96,0.0,75.0,4.0,False,False,False
+O501745,C10774,2025-07-28,2025-07-31,Delivered,Cash on Delivery,898.01,0.0,0.0,3.0,False,False,False
+O501746,C10500,2025-05-05,2025-05-07,Delivered,Cash on Delivery,582.74,0.0,40.0,2.0,False,False,False
+O501747,C10425,,2025-04-13,Delivered,Cash on Delivery,0.0,0.0,60.0,,False,True,False
+O501748,C10308,2024-03-27,2024-03-04,Delivered,Net Banking,2163.42,10.0,75.0,,True,False,False
+O501749,C10286,2025-02-21,2025-02-25,Delivered,Credit Card,1118.34,10.0,0.0,4.0,False,False,False
+O501750,C10064,2023-02-11,2023-03-11,Shipped,Net Banking,6171.86,20.0,0.0,28.0,False,False,False
+O501751,Unknown,2024-05-03,2024-05-08,Unknown,UPI,7074.83,30.0,0.0,5.0,False,False,False
+O501752,Unknown,2023-08-08,2023-08-12,Delivered,Debit Card,618.31,0.0,0.0,4.0,False,False,False
+O501753,C11005,2023-10-24,2023-10-25,Delivered,Net Banking,3629.38,25.0,40.0,1.0,False,False,False
+O501754,Unknown,2024-12-01,2024-06-12,Delivered,Credit Card,3309.05,10.0,120.0,,True,False,False
+O501755,C10291,2024-03-11,2024-03-17,Delivered,Cash on Delivery,3642.64,5.0,0.0,6.0,False,False,False
+O501756,C11041,2025-02-08,2025-05-08,Delivered,UPI,3156.07,15.0,75.0,89.0,False,False,False
+O501757,C11023,2024-09-26,2024-10-01,Delivered,UPI,3282.52,30.0,40.0,5.0,False,False,False
+O501758,C10418,2024-06-16,2024-06-23,Shipped,UPI,901.46,0.0,50.0,7.0,False,False,False
+O501759,C10086,2024-06-21,,Processing,Cash on Delivery,2621.74,15.0,0.0,,False,False,True
+O501760,C10345,2023-12-26,2023-12-29,Shipped,Wallet,808.49,5.0,0.0,3.0,False,False,False
+O501761,C10804,2024-07-12,2024-07-16,Returned,UPI,10704.91,5.0,99.0,4.0,False,False,False
+O501762,C10415,2023-04-12,2023-08-12,Delivered,Debit Card,479.14,0.0,50.0,122.0,False,False,False
+O501763,C11136,2023-11-29,2023-11-30,Shipped,Credit Card,2897.56,0.0,75.0,1.0,False,False,False
+O501764,C10910,2023-09-06,2023-06-10,Delivered,Net Banking,8532.91,5.0,120.0,,True,False,False
+O501765,C10720,2023-06-09,2023-06-13,Delivered,Debit Card,5407.65,25.0,120.0,4.0,False,False,False
+O501766,C11006,2024-12-06,2024-12-13,Delivered,Cash on Delivery,2670.53,0.0,120.0,7.0,False,False,False
+O501767,C10620,2024-10-01,2024-10-04,Shipped,Wallet,4010.1,15.0,75.0,3.0,False,False,False
+O501768,C10340,2023-07-23,2023-07-25,Returned,UPI,705.0,0.0,75.0,2.0,False,False,False
+O501769,C10663,2025-01-03,2025-01-10,Delivered,UPI,2461.55,0.0,75.0,7.0,False,False,False
+O501770,C11092,2024-09-03,2024-03-11,Delivered,Net Banking,2313.8,0.0,75.0,,True,False,False
+O501771,C10371,2025-10-22,2025-10-28,Delivered,Debit Card,4946.93,25.0,120.0,6.0,False,False,False
+O501772,C10090,2025-01-03,2025-06-01,Delivered,Net Banking,722.69,25.0,120.0,149.0,False,False,False
+O501773,C10417,2025-05-31,2025-06-03,Delivered,Debit Card,751.16,30.0,50.0,3.0,False,False,False
+O501774,C11043,2025-02-17,2025-02-18,Delivered,UPI,763.55,20.0,99.0,1.0,False,False,False
+O501775,C10716,2024-10-16,2024-10-21,Returned,UPI,1436.31,0.0,75.0,5.0,False,False,False
+O501776,C10446,2024-08-03,,Processing,UPI,1038.51,15.0,0.0,,False,False,True
+O501777,C10756,2024-03-29,2024-04-01,Delivered,Net Banking,426.24,5.0,60.0,3.0,False,False,False
+O501778,C11170,2023-06-22,,Cancelled,Cash on Delivery,2530.78,25.0,120.0,,False,False,True
+O501779,C10231,2024-09-29,,Cancelled,Credit Card,700.2,5.0,40.0,,False,False,True
+O501780,C11145,2024-09-20,,Cancelled,Credit Card,799.02,0.0,120.0,,False,False,True
+O501781,C11001,2023-07-13,2023-07-16,Shipped,Cash on Delivery,455.08,20.0,0.0,3.0,False,False,False
+O501782,C10081,2023-02-02,2023-02-07,Returned,Wallet,2588.47,30.0,50.0,5.0,False,False,False
+O501783,C10713,2023-06-19,,Processing,Net Banking,2426.83,20.0,0.0,,False,False,True
+O501784,C10078,2023-12-20,2023-12-28,Delivered,UPI,381.58,30.0,40.0,8.0,False,False,False
+O501785,C10058,2023-06-21,2023-06-29,Delivered,Debit Card,1706.8,5.0,0.0,8.0,False,False,False
+O501786,C10089,2023-12-04,2023-04-13,Shipped,Credit Card,1006.82,10.0,0.0,,True,False,False
+O501787,C10862,2023-05-21,2023-05-22,Delivered,Net Banking,2031.18,25.0,0.0,1.0,False,False,False
+O501788,C10372,2025-10-18,2025-10-19,Delivered,Debit Card,845.42,10.0,120.0,1.0,False,False,False
+O501789,C10168,2024-12-05,2024-12-11,Delivered,Credit Card,2191.41,0.0,99.0,6.0,False,False,False
+O501790,C10976,2025-03-01,2025-05-03,Delivered,Cash on Delivery,13472.3,0.0,50.0,63.0,False,False,False
+O501791,C11128,2024-01-08,,Processing,Net Banking,1408.23,0.0,99.0,,False,False,True
+O501792,C10445,2023-09-19,2023-09-21,Delivered,Net Banking,2361.66,0.0,75.0,2.0,False,False,False
+O501793,C11160,2023-06-10,2023-06-18,Delivered,Credit Card,21987.06,15.0,40.0,8.0,False,False,False
+O501794,C10370,2025-04-05,,Processing,Net Banking,1086.22,20.0,0.0,,False,False,True
+O501795,C10670,2023-10-26,2023-11-01,Delivered,Wallet,1857.72,10.0,120.0,6.0,False,False,False
+O501796,C10842,2024-02-15,2024-02-19,Delivered,Credit Card,4132.6,0.0,0.0,4.0,False,False,False
+O501797,C10399,2023-11-28,2023-12-02,Delivered,UPI,964.99,10.0,0.0,4.0,False,False,False
+O501798,C10299,2023-12-18,2023-12-26,Delivered,Net Banking,1794.03,0.0,120.0,8.0,False,False,False
+O501799,C10394,2025-06-30,2025-07-01,Delivered,Cash on Delivery,4855.13,0.0,99.0,1.0,False,False,False
+O501800,C11023,2024-10-27,2024-11-02,Returned,Cash on Delivery,2985.22,0.0,60.0,6.0,False,False,False
+O501801,C10072,2025-06-12,2025-06-14,Returned,Net Banking,1114.06,5.0,120.0,2.0,False,False,False
+O501802,C10301,2023-09-08,2023-09-13,Delivered,Cash on Delivery,1459.11,15.0,75.0,5.0,False,False,False
+O501803,Unknown,2024-04-28,2024-05-06,Delivered,UPI,2665.45,0.0,60.0,8.0,False,False,False
+O501804,C10420,2023-04-03,2023-10-03,Delivered,Cash on Delivery,2014.37,0.0,120.0,183.0,False,False,False
+O501805,C10789,2025-03-08,2025-03-11,Delivered,UPI,1372.83,5.0,40.0,3.0,False,False,False
+O501806,C10265,2024-06-16,,Pending,Wallet,12077.31,5.0,50.0,,False,False,True
+O501807,C10974,2024-09-15,2024-09-23,Delivered,Wallet,8582.37,30.0,120.0,8.0,False,False,False
+O501808,C10767,2025-06-20,2025-06-25,Returned,Credit Card,2826.26,15.0,60.0,5.0,False,False,False
+O501809,C11143,2023-02-07,2023-02-15,Delivered,Credit Card,556.04,5.0,60.0,8.0,False,False,False
+O501810,C10151,2023-09-13,2023-09-15,Shipped,UPI,5049.05,5.0,0.0,2.0,False,False,False
+O501811,C10292,2025-03-26,2025-03-31,Delivered,Net Banking,600.12,0.0,40.0,5.0,False,False,False
+O501812,C10525,2024-04-22,2024-04-30,Delivered,Credit Card,671.22,0.0,40.0,8.0,False,False,False
+O501813,C10387,2023-03-12,2023-03-13,Delivered,Net Banking,1930.18,25.0,75.0,1.0,False,False,False
+O501814,C11037,2023-03-09,,Processing,Credit Card,3655.81,20.0,75.0,,False,False,True
+O501815,C10513,2025-04-06,,Cancelled,UPI,3026.16,25.0,99.0,,False,False,True
+O501816,C10073,2025-10-13,,Processing,Debit Card,989.95,30.0,40.0,,False,False,True
+O501817,C10921,2023-08-20,2023-08-21,Delivered,Debit Card,1629.73,0.0,0.0,1.0,False,False,False
+O501818,C10963,2023-09-05,2023-05-14,Delivered,UPI,4728.61,30.0,75.0,,True,False,False
+O501819,C10710,2024-12-22,,Processing,UPI,3604.5,5.0,0.0,,False,False,True
+O501820,C10575,2025-02-12,2025-02-17,Delivered,UPI,342.34,5.0,120.0,5.0,False,False,False
+O501821,C10699,2023-06-28,2023-07-05,Delivered,Cash on Delivery,21689.9,0.0,50.0,7.0,False,False,False
+O501822,C11061,2024-09-01,2024-12-01,Delivered,Net Banking,1844.78,0.0,0.0,91.0,False,False,False
+O501823,C10366,2025-02-25,2025-02-28,Delivered,Wallet,965.05,0.0,60.0,3.0,False,False,False
+O501824,C10737,2023-03-28,2023-03-31,Delivered,Credit Card,7657.52,15.0,75.0,3.0,False,False,False
+O501825,C10094,2023-10-31,,Cancelled,Cash on Delivery,4139.59,10.0,75.0,,False,False,True
+O501826,C10793,2025-07-23,2025-07-26,Shipped,Debit Card,2272.67,20.0,0.0,3.0,False,False,False
+O501827,C10508,2023-05-16,2023-05-18,Delivered,Credit Card,1597.53,0.0,0.0,2.0,False,False,False
+O501828,C11112,2023-04-21,2023-04-26,Delivered,Net Banking,461.33,10.0,60.0,5.0,False,False,False
+O501829,C10803,2025-03-11,,Pending,Cash on Delivery,1911.6,10.0,99.0,,False,False,True
+O501830,C10052,2023-10-03,2023-03-17,Delivered,Net Banking,12281.92,20.0,75.0,,True,False,False
+O501831,C11023,2023-09-25,2023-09-28,Delivered,Cash on Delivery,2289.59,10.0,40.0,3.0,False,False,False
+O501832,C10723,2024-01-26,2024-01-30,Returned,UPI,1721.41,10.0,0.0,4.0,False,False,False
+O501833,C10198,2025-10-13,,Pending,Debit Card,3249.23,25.0,40.0,,False,False,True
+O501834,C10695,2023-12-06,2023-06-18,Delivered,Net Banking,2671.31,5.0,60.0,,True,False,False
+O501835,C10542,2024-04-22,2024-04-26,Delivered,Wallet,6731.27,25.0,0.0,4.0,False,False,False
+O501836,C10051,2024-12-28,2025-01-05,Delivered,Net Banking,3359.71,5.0,40.0,8.0,False,False,False
+O501837,C10604,2023-05-19,2023-05-22,Delivered,Credit Card,3085.31,0.0,0.0,3.0,False,False,False
+O501838,C10701,2025-08-03,2025-09-08,Returned,Debit Card,1838.52,5.0,0.0,36.0,False,False,False
+O501839,C10631,2025-05-22,,Cancelled,Cash on Delivery,2247.32,0.0,75.0,,False,False,True
+O501840,C11064,2023-01-07,2023-08-07,Shipped,Net Banking,4338.6,0.0,60.0,212.0,False,False,False
+O501841,C10606,2025-03-27,2025-03-30,Cancelled,Debit Card,663.31,15.0,60.0,3.0,False,False,False
+O501842,C10711,2025-10-03,2025-03-11,Delivered,Wallet,4830.3,0.0,120.0,,True,False,False
+O501843,C10245,2025-03-29,2025-04-02,Delivered,UPI,1028.45,0.0,60.0,4.0,False,False,False
+O501844,C10764,2024-06-05,2024-12-06,Shipped,Net Banking,1615.8,0.0,120.0,184.0,False,False,False
+O501845,C11041,2024-11-11,2024-11-15,Delivered,Credit Card,710.07,0.0,99.0,4.0,False,False,False
+O501846,C10453,2023-04-24,2023-04-28,Returned,Cash on Delivery,6919.14,20.0,40.0,4.0,False,False,False
+O501847,C11141,2024-10-14,2024-10-18,Delivered,Credit Card,1804.57,0.0,75.0,4.0,False,False,False
+O501848,C10537,2024-03-27,2024-03-31,Delivered,UPI,4717.78,25.0,0.0,4.0,False,False,False
+O501849,C10775,2024-07-20,2024-07-22,Delivered,Credit Card,693.98,10.0,75.0,2.0,False,False,False
+O501850,C11145,2024-08-08,2024-11-08,Delivered,Wallet,1412.35,10.0,120.0,92.0,False,False,False
+O501851,C10271,2023-07-12,2023-07-16,Unknown,Debit Card,5268.49,30.0,50.0,4.0,False,False,False
+O501852,C10742,2023-10-17,2023-10-24,Delivered,Debit Card,4032.81,10.0,40.0,7.0,False,False,False
+O501853,C10281,2023-09-10,2023-09-18,Delivered,Credit Card,32365.09,25.0,60.0,8.0,False,False,False
+O501854,C10704,2023-04-05,2023-05-08,In Transit,Cash on Delivery,855.88,10.0,75.0,33.0,False,False,False
+O501855,C11125,2023-07-15,2023-07-20,Returned,Net Banking,2528.52,0.0,50.0,5.0,False,False,False
+O501856,C10949,2024-08-15,,Cancelled,UPI,8842.48,10.0,0.0,,False,False,True
+O501857,C10393,2023-09-17,2023-09-24,Delivered,Credit Card,7963.16,0.0,0.0,7.0,False,False,False
+O501858,C10920,2025-05-23,2025-05-27,Delivered,Net Banking,1618.72,0.0,60.0,4.0,False,False,False
+O501859,C11091,2023-03-18,2023-03-24,Delivered,Credit Card,761.18,5.0,40.0,6.0,False,False,False
+O501860,C10547,2024-06-01,2024-01-11,Delivered,UPI,2198.67,10.0,75.0,,True,False,False
+O501861,C10996,2025-06-26,2025-06-30,Delivered,Cash on Delivery,5761.38,15.0,0.0,4.0,False,False,False
+O501862,C10474,2023-03-07,,Cancelled,Debit Card,1034.34,30.0,50.0,,False,False,True
+O501863,C10862,2024-10-02,2024-10-10,Shipped,UPI,1310.49,5.0,75.0,8.0,False,False,False
+O501864,C10955,2024-09-26,2024-01-10,Delivered,Credit Card,3164.54,25.0,60.0,,True,False,False
+O501865,C10774,2025-06-10,2025-06-12,Delivered,Debit Card,3576.64,0.0,40.0,2.0,False,False,False
+O501866,C10701,2025-08-30,2025-09-05,Returned,Credit Card,821.76,0.0,60.0,6.0,False,False,False
+O501867,C10499,2023-09-19,,Processing,Debit Card,4818.97,20.0,40.0,,False,False,True
+O501868,C11065,2025-10-06,2025-09-10,Shipped,Credit Card,1294.11,20.0,75.0,,True,False,False
+O501869,C10358,2023-02-07,2023-02-15,Returned,Net Banking,2403.24,10.0,120.0,8.0,False,False,False
+O501870,C10851,2025-05-22,,Pending,Credit Card,2966.6,15.0,75.0,,False,False,True
+O501871,C10774,2023-12-26,2023-12-31,Delivered,Wallet,977.2,0.0,75.0,5.0,False,False,False
+O501872,C10922,2023-04-15,2023-04-17,Delivered,UPI,867.56,5.0,75.0,2.0,False,False,False
+O501873,C10376,2024-06-30,2024-07-01,Delivered,Wallet,3366.35,20.0,0.0,1.0,False,False,False
+O501874,C10497,2024-05-30,2024-04-06,Delivered,UPI,1184.72,20.0,60.0,,True,False,False
+O501875,C10338,2023-07-19,2023-07-21,Delivered,Net Banking,2312.25,0.0,60.0,2.0,False,False,False
+O501876,C10703,2024-12-06,2024-06-19,Returned,Net Banking,837.75,30.0,120.0,,True,False,False
+O501877,C11135,2025-09-09,2025-09-12,Delivered,Cash on Delivery,3654.18,0.0,75.0,3.0,False,False,False
+O501878,C10396,2023-01-06,2023-06-05,Delivered,UPI,6678.49,5.0,99.0,150.0,False,False,False
+O501879,C11075,2024-04-18,2024-04-19,Delivered,Debit Card,5694.73,30.0,40.0,1.0,False,False,False
+O501880,C10918,2023-03-20,,Cancelled,Net Banking,691.13,0.0,99.0,,False,False,True
+O501881,C10778,2023-11-03,2023-11-09,Delivered,Net Banking,3673.28,20.0,0.0,6.0,False,False,False
+O501882,C10566,2024-10-14,2024-10-16,Delivered,Credit Card,5213.87,30.0,99.0,2.0,False,False,False
+O501883,C10992,2023-04-22,2023-04-30,Delivered,Credit Card,923.66,0.0,50.0,8.0,False,False,False
+O501884,C10883,2023-10-03,2023-03-11,Delivered,Net Banking,3941.89,15.0,120.0,,True,False,False
+O501885,C10990,2025-02-21,2025-02-26,Delivered,Net Banking,1425.26,5.0,50.0,5.0,False,False,False
+O501886,C10568,,,Processing,UPI,2461.38,30.0,120.0,,False,False,True
+O501887,C10946,2024-01-28,2024-02-03,Shipped,Credit Card,1914.52,0.0,99.0,6.0,False,False,False
+O501888,C11100,2024-03-05,2024-09-05,Delivered,Debit Card,2654.42,0.0,50.0,184.0,False,False,False
+O501889,C10829,2025-06-16,2025-06-24,Delivered,Net Banking,749.27,30.0,50.0,8.0,False,False,False
+O501890,C10819,2023-04-26,2023-05-01,Delivered,Wallet,5876.47,10.0,50.0,5.0,False,False,False
+O501891,C10673,2025-01-06,,Cancelled,UPI,3417.19,0.0,120.0,,False,False,True
+O501892,C10373,2024-01-16,2024-01-23,Delivered,UPI,5089.62,0.0,40.0,7.0,False,False,False
+O501893,C10405,2025-04-16,2025-04-18,Delivered,Wallet,1501.0,10.0,60.0,2.0,False,False,False
+O501894,C10874,2024-11-17,2024-11-20,Delivered,Debit Card,1863.54,0.0,60.0,3.0,False,False,False
+O501895,C11165,2023-01-06,2023-01-09,Delivered,Wallet,2653.19,0.0,60.0,3.0,False,False,False
+O501896,C11116,2023-08-28,2023-08-29,Delivered,Net Banking,1587.39,15.0,99.0,1.0,False,False,False
+O501897,C10200,2025-08-19,2025-08-23,Delivered,UPI,6947.54,0.0,0.0,4.0,False,False,False
+O501898,C11191,2023-08-19,2023-08-27,Delivered,Wallet,1089.03,10.0,0.0,8.0,False,False,False
+O501899,C10299,2025-06-07,2025-06-14,Delivered,UPI,15809.06,30.0,0.0,7.0,False,False,False
+O501900,C10676,2024-01-01,2024-07-01,Delivered,Credit Card,651.29,25.0,0.0,182.0,False,False,False
+O501901,C10276,2024-05-22,2024-05-29,Delivered,Wallet,1686.73,5.0,40.0,7.0,False,False,False
+O501902,C10462,2023-07-07,2023-07-08,Delivered,Cash on Delivery,1104.54,10.0,40.0,1.0,False,False,False
+O501903,C10989,2023-07-28,,Processing,Cash on Delivery,1124.49,10.0,0.0,,False,False,True
+O501904,C10650,2023-01-26,2023-02-02,Delivered,Wallet,2575.76,0.0,40.0,7.0,False,False,False
+O501905,C10844,2025-05-22,2025-05-23,Delivered,Credit Card,4138.54,0.0,75.0,1.0,False,False,False
+O501906,C10058,2025-10-13,2025-10-15,Delivered,Debit Card,2334.4,30.0,0.0,2.0,False,False,False
+O501907,C10656,2024-02-17,,Cancelled,Credit Card,7763.47,25.0,75.0,,False,False,True
+O501908,C10455,2024-11-23,2024-11-28,Delivered,Net Banking,3405.77,15.0,40.0,5.0,False,False,False
+O501909,C10755,2025-08-25,2025-08-26,Delivered,Debit Card,5364.55,0.0,120.0,1.0,False,False,False
+O501910,C11151,2025-05-24,2025-05-29,Delivered,Debit Card,1185.79,15.0,99.0,5.0,False,False,False
+O501911,C10123,2024-06-29,2024-06-30,Delivered,Debit Card,1578.91,0.0,60.0,1.0,False,False,False
+O501912,C10256,2024-07-11,,Processing,Debit Card,4025.33,0.0,120.0,,False,False,True
+O501913,C10825,2025-02-15,2025-02-20,Delivered,Credit Card,5609.66,30.0,40.0,5.0,False,False,False
+O501914,C11085,2023-08-31,2023-09-01,Delivered,Wallet,7733.63,0.0,60.0,1.0,False,False,False
+O501915,C10297,2024-10-21,2024-10-25,Delivered,Net Banking,3766.63,0.0,99.0,4.0,False,False,False
+O501916,C10530,2024-11-02,,Processing,Credit Card,4869.49,0.0,40.0,,False,False,True
+O501917,C10772,2023-12-20,2023-12-25,Delivered,Wallet,518.87,0.0,0.0,5.0,False,False,False
+O501918,C10140,2024-05-28,2024-01-06,Delivered,UPI,431.67,15.0,120.0,,True,False,False
+O501919,C10117,2025-02-02,2025-02-08,Returned,Cash on Delivery,2495.03,5.0,40.0,6.0,False,False,False
+O501920,C10286,2023-03-09,,Processing,Wallet,4096.87,5.0,99.0,,False,False,True
+O501921,C11058,2025-01-30,2025-02-01,Shipped,Credit Card,323.48,10.0,50.0,2.0,False,False,False
+O501922,C11198,2024-03-07,,Cancelled,UPI,3870.06,0.0,75.0,,False,False,True
+O501923,Unknown,2025-02-13,2025-02-18,Delivered,Credit Card,4460.87,0.0,99.0,5.0,False,False,False
+O501924,C10664,2024-01-02,2024-06-02,Delivered,Wallet,4438.1,20.0,75.0,152.0,False,False,False
+O501925,C10624,2023-06-19,2023-06-26,Shipped,UPI,693.89,0.0,40.0,7.0,False,False,False
+O501926,C10871,2025-10-15,2025-10-16,Delivered,Debit Card,1322.05,10.0,99.0,1.0,False,False,False
+O501927,C11032,2023-07-09,2023-07-16,Delivered,Net Banking,2124.53,15.0,0.0,7.0,False,False,False
+O501928,C10838,2025-06-08,2025-10-06,Delivered,Net Banking,1102.24,30.0,99.0,120.0,False,False,False
+O501929,C10589,2023-10-17,2023-10-23,Shipped,UPI,1480.28,25.0,75.0,6.0,False,False,False
+O501930,C10737,2023-08-31,2023-06-09,Shipped,UPI,1409.91,30.0,40.0,,True,False,False
+O501931,C10204,2023-11-14,2023-11-20,Delivered,Credit Card,1562.98,0.0,120.0,6.0,False,False,False
+O501932,C10238,2023-04-02,2023-02-08,Delivered,Debit Card,6680.78,0.0,75.0,,True,False,False
+O501933,C10693,2024-10-03,,Cancelled,Debit Card,1692.62,25.0,60.0,,False,False,True
+O501934,C11138,2024-09-17,2024-09-18,Delivered,Net Banking,1017.74,20.0,0.0,1.0,False,False,False
+O501935,C10232,2023-09-13,2023-09-21,Delivered,Debit Card,2514.64,0.0,0.0,8.0,False,False,False
+O501936,C10766,2023-01-20,2023-01-28,Delivered,Net Banking,1100.67,0.0,0.0,8.0,False,False,False
+O501937,C10490,2023-04-21,2023-04-27,Delivered,Cash on Delivery,1083.87,0.0,50.0,6.0,False,False,False
+O501938,C10043,2025-08-18,2025-08-26,Delivered,Wallet,4319.78,20.0,0.0,8.0,False,False,False
+O501939,C10942,2023-04-13,,Pending,UPI,1135.01,15.0,75.0,,False,False,True
+O501940,C10852,2025-10-22,,Cancelled,UPI,782.07,30.0,0.0,,False,False,True
+O501941,C10858,2025-03-22,2025-03-28,Delivered,Debit Card,999999.0,15.0,50.0,6.0,False,False,False
+O501942,Unknown,2024-04-24,2024-04-25,Delivered,Wallet,662.96,15.0,99.0,1.0,False,False,False
+O501943,C10908,2025-04-25,2025-04-27,Delivered,Net Banking,2953.05,30.0,99.0,2.0,False,False,False
+O501944,C11082,2023-05-15,2023-05-18,Delivered,Cash on Delivery,3421.5,25.0,60.0,3.0,False,False,False
+O501945,C10721,2025-10-17,,Pending,UPI,2254.88,25.0,99.0,,False,False,True
+O501946,C10501,2024-11-08,2024-11-14,Delivered,Cash on Delivery,2915.28,0.0,0.0,6.0,False,False,False
+O501947,C10308,2024-01-31,,Processing,Wallet,2776.35,30.0,99.0,,False,False,True
+O501948,C10946,2025-06-24,2025-01-07,Delivered,Credit Card,677.57,15.0,0.0,,True,False,False
+O501949,C10806,2023-03-28,,Processing,Cash on Delivery,7986.89,5.0,60.0,,False,False,True
+O501950,C10420,2024-10-09,2024-09-16,Delivered,Cash on Delivery,2091.22,15.0,99.0,,True,False,False
+O501951,C10664,2024-07-18,,Pending,Net Banking,4021.48,0.0,50.0,,False,False,True
+O501952,C10301,2025-04-13,2025-04-19,Delivered,Debit Card,1088.89,0.0,120.0,6.0,False,False,False
+O501953,C10744,2023-03-25,2023-03-26,Delivered,Debit Card,3151.7,0.0,0.0,1.0,False,False,False
+O501954,C10455,2025-02-23,,Cancelled,Net Banking,723.89,10.0,40.0,,False,False,True
+O501955,C10389,2023-01-01,2023-01-03,Delivered,Net Banking,1925.51,0.0,50.0,2.0,False,False,False
+O501956,C10129,2023-04-05,,Delivered,UPI,1570.14,10.0,60.0,,False,False,True
+O501957,C10054,2024-12-21,2024-12-27,Delivered,UPI,930.22,25.0,120.0,6.0,False,False,False
+O501958,C10687,2024-09-10,,Processing,UPI,2625.09,5.0,0.0,,False,False,True
+O501959,C10557,2023-05-12,2023-05-13,Delivered,Debit Card,931.82,20.0,60.0,1.0,False,False,False
+O501960,C10703,2023-12-17,2023-12-24,Delivered,Debit Card,2187.59,0.0,75.0,7.0,False,False,False
+O501961,C10249,2023-08-05,,Cancelled,UPI,2107.01,5.0,75.0,,False,False,True
+O501962,C10847,2025-09-09,,Processing,Cash on Delivery,847.69,15.0,120.0,,False,False,True
+O501963,C10991,2024-08-01,2024-08-03,Delivered,Credit Card,1752.77,0.0,0.0,2.0,False,False,False
+O501964,C10099,2025-02-23,2025-03-03,Delivered,Debit Card,1482.63,5.0,0.0,8.0,False,False,False
+O501965,C10662,2023-04-12,,Cancelled,Debit Card,3426.57,15.0,40.0,,False,False,True
+O501966,C10338,2023-04-14,2023-04-15,Returned,UPI,1931.64,20.0,40.0,1.0,False,False,False
+O501967,C10232,2023-12-03,2023-12-08,Delivered,Wallet,1591.56,20.0,99.0,5.0,False,False,False
+O501968,C11167,2023-09-20,2023-09-22,Delivered,Net Banking,2014.32,15.0,75.0,2.0,False,False,False
+O501969,C10848,2024-03-25,2024-03-27,Delivered,UPI,1449.19,0.0,75.0,2.0,False,False,False
+O501970,C10544,2023-10-15,,Pending,Cash on Delivery,3581.4,15.0,0.0,,False,False,True
+O501971,C10833,2025-09-30,2025-10-03,Delivered,UPI,714.15,15.0,0.0,3.0,False,False,False
+O501972,C11047,2024-01-20,2024-01-27,Delivered,Wallet,911.9,0.0,60.0,7.0,False,False,False
+O501973,C10097,2025-02-08,2025-02-15,Delivered,Credit Card,637.75,0.0,0.0,7.0,False,False,False
+O501974,C10015,2025-08-22,2025-08-25,Delivered,Debit Card,850.27,5.0,120.0,3.0,False,False,False
+O501975,C10549,2025-05-10,,Processing,Debit Card,1960.82,0.0,99.0,,False,False,True
+O501976,C10095,2024-05-07,,Pending,Credit Card,8714.65,20.0,99.0,,False,False,True
+O501977,C10075,2023-07-07,2023-07-08,Shipped,Credit Card,1656.18,0.0,120.0,1.0,False,False,False
+O501978,C10909,2023-03-31,2023-01-04,Delivered,Cash on Delivery,6342.91,5.0,50.0,,True,False,False
+O501979,C10058,2024-08-13,2024-08-17,Delivered,Wallet,4918.91,25.0,50.0,4.0,False,False,False
+O501980,C11148,2023-02-08,2023-08-10,Delivered,Cash on Delivery,3379.51,10.0,50.0,183.0,False,False,False
+O501981,C10250,2025-01-22,2025-01-26,Returned,Credit Card,2811.91,25.0,120.0,4.0,False,False,False
+O501982,C10003,2025-01-07,2025-09-01,Returned,UPI,19105.73,30.0,40.0,237.0,False,False,False
+O501983,C10710,2023-11-04,2023-11-10,Delivered,Debit Card,1943.37,15.0,75.0,6.0,False,False,False
+O501984,C10044,2023-12-17,2023-12-18,Delivered,Net Banking,2318.1,25.0,50.0,1.0,False,False,False
+O501985,C10393,2025-09-05,,Cancelled,Credit Card,2576.76,0.0,60.0,,False,False,True
+O501986,C10553,2023-05-20,2023-05-26,Delivered,Debit Card,1678.78,15.0,40.0,6.0,False,False,False
+O501987,C10488,2023-09-01,,Cancelled,Cash on Delivery,3350.82,25.0,0.0,,False,False,True
+O501988,C10616,2025-03-06,,Cancelled,UPI,3014.99,30.0,75.0,,False,False,True
+O501989,C10339,2025-06-02,2025-06-03,Shipped,Cash on Delivery,2788.57,20.0,0.0,1.0,False,False,False
+O501990,C10249,2025-08-24,2025-08-29,Delivered,Cash on Delivery,12302.05,0.0,99.0,5.0,False,False,False
+O501991,C10954,2025-03-25,2025-03-27,Delivered,UPI,4989.71,20.0,50.0,2.0,False,False,False
+O501992,C10579,2024-08-13,2024-08-16,Delivered,UPI,5486.65,5.0,75.0,3.0,False,False,False
+O501993,C10507,2025-08-31,2025-09-02,Shipped,Credit Card,2449.99,25.0,0.0,2.0,False,False,False
+O501994,C10071,2023-01-26,2023-01-02,Delivered,UPI,3610.45,15.0,0.0,,True,False,False
+O501995,C10209,2025-04-22,2025-04-25,Delivered,Debit Card,2894.09,0.0,0.0,3.0,False,False,False
+O501996,C10147,2023-08-25,2023-08-26,Delivered,Wallet,2591.62,5.0,0.0,1.0,False,False,False
+O501997,C10906,2024-11-17,2024-11-19,Delivered,Wallet,1841.87,20.0,0.0,2.0,False,False,False
+O501998,C10876,2024-12-18,2024-12-23,Delivered,Cash on Delivery,825.27,25.0,60.0,5.0,False,False,False
+O501999,C10630,2024-10-09,2024-10-13,Delivered,Debit Card,825.67,0.0,75.0,4.0,False,False,False
