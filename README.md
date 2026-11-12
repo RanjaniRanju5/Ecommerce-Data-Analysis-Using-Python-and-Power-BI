@@ -1,10 +1,10 @@
-E-commerce Data Analysis Using Python and Power BI
+## E-commerce Data Analysis Using Python and Power BI
 
-Project Overview
+# Project Overview
 
 This project focuses on analyzing e-commerce business data to identify business trends, understand customer behaviour, evaluate product performance, and generate actionable business insights.
 
-Tools and Technologies
+# Tools and Technologies
 
 Python
 
@@ -20,7 +20,7 @@ Power BI
 
 DAX
 
-Dataset Description
+# Dataset Description
 
 The project contains five datasets:
 
@@ -66,7 +66,7 @@ Power BI Data Modelling
 
 Dashboard Development
 
-Business Insights and Recommendations
+# Business Insights and Recommendations
 
 Project Status
 
@@ -74,4 +74,4 @@ Python data cleaning completed. Exploratory Data Analysis and Power BI dashboard
 
 Author
 
-Ranjani Arumugam
+Ranjani Arumug
